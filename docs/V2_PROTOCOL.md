@@ -25,3 +25,9 @@ Preserve the full reviewed original crop with aspect-ratio padding. Add square o
 Primary probability measures: Brier and log loss; also accuracy, margin RMSE, reliability bins and paired per-race changes. Four matched arms: numeric document facts, +text, +image, +both. Include the expanded numeric-only test separately. Small document samples and shared election-cycle error prohibit a claim that a measured difference guarantees future improvement. Allow weight zero and keep v0.1 unchanged. Neither model is automatically promoted into the contest CSV. The official benchmark, roster checks and unresolved rules remain separate submission blockers.
 
 New service spend: $0. Local CPU, open-source packages and frozen encoders only. No paid inference, cloud GPU, automated organizer contact or contest submission.
+
+## Availability amendment, before document test scoring
+
+The accessible older Quinnipiac releases present their original questions/tables as rendered publisher HTML rather than PDFs. Additional training races may use browser screenshots of those original question/table regions, with source HTML, screenshot and text hashes, dates and separate visual review. Modern navigation, sidebars and 2026 news are excluded from the encoder crop. These are screenshots of a currently rendered historical release, not an archived historical layout and not publisher-issued PDFs.
+
+The PPP archive was blocked by the execution environment's network policy and is excluded. No eligible Monmouth/Emerson PDF was recovered by the defined discovery rule; report that prespecified publisher test as unavailable. Also report a secondary diagnostic on all new-test documents whose publisher is absent from document-head training. This diagnostic is added because of source availability, before document scores are calculated, and is confounded with election cycle; it does not isolate layout effects.
