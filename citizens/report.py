@@ -120,6 +120,15 @@ document.getElementById('filter').addEventListener('input',e=>{const text=e.targ
     <p class="sub">Publisher page images are omitted from the public repository. Source hashes and the reviewed numerical extraction are retained.</p>''' + html[image_end:]
     mm = data.get('multimodal_experiment')
     if mm:
+        audit = data.get('multimodal_input_audit')
+        audit_notice = ''
+        if audit:
+            audit_notice = f'''<p><strong>Input defect found after the first experiment:</strong>
+            the default square crop discards over half the source image area in
+            {audit['training_images_losing_over_half_the_area']} of {audit['training_images']} training images.
+            In a checked example it cuts off candidate names and topline values. Fixing this is the first recommended change;
+            its effect on forecasting accuracy is not yet measured.</p><p><a href="image-input-audit.json">Image-input audit</a> ·
+            <a href="../docs/IMPROVEMENT_PLAN.md">Ranked improvement plan</a></p>'''
         mm_rows = []
         entries = [('Uncorrected poll', mm['raw_poll'])] + [
             (name.replace('_', ' + '), value) for name, value in mm['models'].items()]
@@ -135,6 +144,7 @@ document.getElementById('filter').addEventListener('input',e=>{const text=e.targ
         <div class="notice"><strong>Experimental. Not used in contest picks.</strong> Adding text and images made this
         tiny 2024 holdout worse than the matched numeric-only network. All trained variants missed all three winners.
         Three close races cannot establish general forecasting skill. The 6-point probability scale is an assumption.</div>
+        {audit_notice}
         <div class="scroll"><table><thead><tr><th>Inputs</th><th>Margin RMSE ↓</th><th>Brier score ↓</th><th>Winner accuracy</th></tr></thead>
         <tbody>{''.join(mm_rows)}</tbody></table></div>
         <p class="sub">Each model uses the same original poll snapshots. Scaling and dimensionality reduction fit on

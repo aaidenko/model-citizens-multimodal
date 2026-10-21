@@ -61,13 +61,16 @@ def main():
         blockers.append('Changed PDF bytes require fresh page-image review.')
     multimodal_path = ROOT/'reports/multimodal.json'
     multimodal = json.loads(multimodal_path.read_text()) if multimodal_path.exists() else None
+    audit_path = ROOT/'reports/image-input-audit.json'
+    image_audit = json.loads(audit_path.read_text()) if audit_path.exists() else None
     report = dict(as_of=as_of.isoformat(), status='RESEARCH DRAFT — NOT READY TO SUBMIT',
                   new_service_spend_usd=0, submission_ready=False, blockers=blockers,
                   counts=dict(races=len(races), verified_market_races=len(races)-len(missing),
                               poll_feeds=len(polls),
                               raw_poll_rows=sum(len(p['data'].get('polls',[])) for p in polls if 'data' in p)),
                   races=races, validation=validation, document_evidence=evidence,
-                  scenario_comparison=comparison, multimodal_experiment=multimodal)
+                  scenario_comparison=comparison, multimodal_experiment=multimodal,
+                  multimodal_input_audit=image_audit)
     (ROOT/'reports/research.json').write_text(json.dumps(report,indent=2,allow_nan=False))
     (ROOT/'reports/validation.json').write_text(json.dumps(validation,indent=2,allow_nan=False))
     # Blank rows are intentional: an unresolved outcome set must never silently get a pick.
@@ -84,7 +87,9 @@ def main():
         'ready':False,'blockers':blockers,'unresolved_races':missing,
         'draft_csv':'drafts/predictions-RESEARCH-ONLY.csv',
         'multimodal': {'trained': multimodal is not None, 'promoted': False,
-            'reason': 'Small held-out experiment underperformed matched numeric-only model; see reports/multimodal.json.'}},indent=2))
+            'reason': 'Small held-out experiment underperformed matched numeric-only model; see reports/multimodal.json.',
+            'known_input_issue': 'Default square image cropping removes important columns in some wide tables. Repair is planned for a versioned experiment; see reports/image-input-audit.json.',
+            'next_experiment_plan': 'docs/IMPROVEMENT_PLAN.md'}},indent=2))
     render(ROOT, report)
     print(json.dumps({'status':report['status'],'counts':report['counts'],
                       'fundamentals_validation_brier':validation['brier'],

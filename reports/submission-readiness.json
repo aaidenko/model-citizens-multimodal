@@ -15,6 +15,8 @@
   "multimodal": {
     "trained": true,
     "promoted": false,
-    "reason": "Small held-out experiment underperformed matched numeric-only model; see reports/multimodal.json."
+    "reason": "Small held-out experiment underperformed matched numeric-only model; see reports/multimodal.json.",
+    "known_input_issue": "Default square image cropping removes important columns in some wide tables. Repair is planned for a versioned experiment; see reports/image-input-audit.json.",
+    "next_experiment_plan": "docs/IMPROVEMENT_PLAN.md"
   }
 }

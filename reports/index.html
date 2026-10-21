@@ -346,6 +346,12 @@
         <div class="notice"><strong>Experimental. Not used in contest picks.</strong> Adding text and images made this
         tiny 2024 holdout worse than the matched numeric-only network. All trained variants missed all three winners.
         Three close races cannot establish general forecasting skill. The 6-point probability scale is an assumption.</div>
+        <p><strong>Input defect found after the first experiment:</strong>
+            the default square crop discards over half the source image area in
+            12 of 20 training images.
+            In a checked example it cuts off candidate names and topline values. Fixing this is the first recommended change;
+            its effect on forecasting accuracy is not yet measured.</p><p><a href="image-input-audit.json">Image-input audit</a> ·
+            <a href="../docs/IMPROVEMENT_PLAN.md">Ranked improvement plan</a></p>
         <div class="scroll"><table><thead><tr><th>Inputs</th><th>Margin RMSE ↓</th><th>Brier score ↓</th><th>Winner accuracy</th></tr></thead>
         <tbody><tr><td>Uncorrected poll</td><td>5.39</td><td>0.386</td><td>67%</td></tr><tr><td>numeric</td><td>3.18</td><td>0.435</td><td>0%</td></tr><tr><td>numeric + text</td><td>4.57</td><td>0.542</td><td>0%</td></tr><tr><td>numeric + image</td><td>4.17</td><td>0.505</td><td>0%</td></tr><tr><td>multimodal</td><td>5.24</td><td>0.592</td><td>0%</td></tr></tbody></table></div>
         <p class="sub">Each model uses the same original poll snapshots. Scaling and dimensionality reduction fit on

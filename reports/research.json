@@ -7080,5 +7080,223 @@
       "numeric_text-seed43.safetensors": "2c8d3f81dafbeac4eb51f957dc565f0b6531b845a3136d4881437343644c34b4",
       "preprocessing.npz": "fbbf2584977b46227bf380ba93a4dbf157b49590d82e4ed8075782936acccebc"
     }
+  },
+  "multimodal_input_audit": {
+    "experiment": "v0.1; unchanged",
+    "assumption": "shortest-edge resize followed by square center crop, as configured in the pinned CLIP processor",
+    "interpretation": "Approximate original image area retained, before integer resize rounding. Not a measured accuracy effect.",
+    "training_images": 20,
+    "training_images_losing_over_half_the_area": 12,
+    "minimum_training_area_retained": 0.2235294117647059,
+    "examples": [
+      {
+        "id": "2014-CO-2014-10-16",
+        "year": 2014,
+        "geometry_source": "rendered source image pixels",
+        "width": 1020,
+        "height": 549,
+        "estimated_area_retained": 0.538235294117647
+      },
+      {
+        "id": "2014-IA-2014-10-15",
+        "year": 2014,
+        "geometry_source": "rendered source image pixels",
+        "width": 1020,
+        "height": 530,
+        "estimated_area_retained": 0.5196078431372549
+      },
+      {
+        "id": "2014-NJ-2014-10-02",
+        "year": 2014,
+        "geometry_source": "rendered source image pixels",
+        "width": 1020,
+        "height": 247,
+        "estimated_area_retained": 0.24215686274509804
+      },
+      {
+        "id": "2014-VA-2014-09-25",
+        "year": 2014,
+        "geometry_source": "rendered source image pixels",
+        "width": 1020,
+        "height": 266,
+        "estimated_area_retained": 0.2607843137254902
+      },
+      {
+        "id": "2016-CO-2016-10-18",
+        "year": 2016,
+        "geometry_source": "rendered source image pixels",
+        "width": 1020,
+        "height": 228,
+        "estimated_area_retained": 0.2235294117647059
+      },
+      {
+        "id": "2016-FL-2016-10-18",
+        "year": 2016,
+        "geometry_source": "rendered source image pixels",
+        "width": 1020,
+        "height": 228,
+        "estimated_area_retained": 0.2235294117647059
+      },
+      {
+        "id": "2016-GA-2016-09-23",
+        "year": 2016,
+        "geometry_source": "rendered source image pixels",
+        "width": 1020,
+        "height": 417,
+        "estimated_area_retained": 0.4088235294117647
+      },
+      {
+        "id": "2016-IA-2016-09-23",
+        "year": 2016,
+        "geometry_source": "rendered source image pixels",
+        "width": 1020,
+        "height": 266,
+        "estimated_area_retained": 0.2607843137254902
+      },
+      {
+        "id": "2016-NC-2016-10-05",
+        "year": 2016,
+        "geometry_source": "rendered source image pixels",
+        "width": 1020,
+        "height": 266,
+        "estimated_area_retained": 0.2607843137254902
+      },
+      {
+        "id": "2016-OH-2016-10-18",
+        "year": 2016,
+        "geometry_source": "rendered source image pixels",
+        "width": 1020,
+        "height": 247,
+        "estimated_area_retained": 0.24215686274509804
+      },
+      {
+        "id": "2016-PA-2016-10-18",
+        "year": 2016,
+        "geometry_source": "rendered source image pixels",
+        "width": 1020,
+        "height": 228,
+        "estimated_area_retained": 0.2235294117647059
+      },
+      {
+        "id": "2018-CT-2018-10-10",
+        "year": 2018,
+        "geometry_source": "rendered source image pixels",
+        "width": 1020,
+        "height": 436,
+        "estimated_area_retained": 0.42745098039215684
+      },
+      {
+        "id": "2018-FL-2018-10-22",
+        "year": 2018,
+        "geometry_source": "rendered source image pixels",
+        "width": 1020,
+        "height": 927,
+        "estimated_area_retained": 0.9088235294117647
+      },
+      {
+        "id": "2018-NJ-2018-10-17",
+        "year": 2018,
+        "geometry_source": "rendered source image pixels",
+        "width": 1020,
+        "height": 927,
+        "estimated_area_retained": 0.9088235294117647
+      },
+      {
+        "id": "2018-TX-2018-10-11",
+        "year": 2018,
+        "geometry_source": "rendered source image pixels",
+        "width": 1020,
+        "height": 776,
+        "estimated_area_retained": 0.7607843137254902
+      },
+      {
+        "id": "2020-IA-2020-10-07",
+        "year": 2020,
+        "geometry_source": "rendered source image pixels",
+        "width": 1020,
+        "height": 436,
+        "estimated_area_retained": 0.42745098039215684
+      },
+      {
+        "id": "2020-KY-2020-09-16",
+        "year": 2020,
+        "geometry_source": "rendered source image pixels",
+        "width": 1020,
+        "height": 606,
+        "estimated_area_retained": 0.5941176470588235
+      },
+      {
+        "id": "2020-ME-2020-09-16",
+        "year": 2020,
+        "geometry_source": "rendered source image pixels",
+        "width": 1020,
+        "height": 606,
+        "estimated_area_retained": 0.5941176470588235
+      },
+      {
+        "id": "2020-SC-2020-09-30",
+        "year": 2020,
+        "geometry_source": "rendered source image pixels",
+        "width": 1020,
+        "height": 606,
+        "estimated_area_retained": 0.5941176470588235
+      },
+      {
+        "id": "2020-TX-2020-09-24",
+        "year": 2020,
+        "geometry_source": "rendered source image pixels",
+        "width": 1020,
+        "height": 436,
+        "estimated_area_retained": 0.42745098039215684
+      },
+      {
+        "id": "2022-CT-2022-10-24",
+        "year": 2022,
+        "geometry_source": "rendered source image pixels",
+        "width": 1020,
+        "height": 455,
+        "estimated_area_retained": 0.44607843137254904
+      },
+      {
+        "id": "2024-MI-2024-10-09",
+        "year": 2024,
+        "geometry_source": "rendered source image pixels",
+        "width": 1020,
+        "height": 469,
+        "estimated_area_retained": 0.4598039215686274
+      },
+      {
+        "id": "2024-PA-2024-10-09",
+        "year": 2024,
+        "geometry_source": "rendered source image pixels",
+        "width": 1020,
+        "height": 493,
+        "estimated_area_retained": 0.48333333333333334
+      },
+      {
+        "id": "2024-WI-2024-10-09",
+        "year": 2024,
+        "geometry_source": "rendered source image pixels",
+        "width": 1020,
+        "height": 469,
+        "estimated_area_retained": 0.4598039215686274
+      },
+      {
+        "id": "2022-NY-2022-10-13",
+        "year": 2022,
+        "geometry_source": "rendered source image pixels",
+        "width": 984,
+        "height": 884,
+        "estimated_area_retained": 0.8983739837398373
+      },
+      {
+        "id": "2026-TX-2026-10-21",
+        "year": 2026,
+        "geometry_source": "rendered source image pixels",
+        "width": 1020,
+        "height": 1320,
+        "estimated_area_retained": 0.7727272727272727
+      }
+    ]
   }
 }
