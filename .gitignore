@@ -25,3 +25,8 @@ data/multimodal/text/
 
 # Old browser previews are not experiment artifacts.
 report-preview.jpg
+
+# v0.2 publisher originals, OCR scratch, and rendered encoder inputs.
+data/v2/raw/
+data/v2/pages/
+data/v2/text/
