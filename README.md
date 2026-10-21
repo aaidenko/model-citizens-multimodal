@@ -10,7 +10,7 @@ A local PyTorch network learns from **poll numbers, original PDF images, and rep
 
 **The first result was negative:** the multimodal model scored worse than its matched numeric-only network (2024 Brier 0.592 versus 0.435; lower is better). All trained variants missed all three held-out winners. It remains experimental and does not change the competition CSV. This tiny sample cannot support an accuracy or winning claim. We preserve the failed comparison and saved weights.
 
-Read [the model card](docs/MODEL_CARD.md), [reproduction instructions](docs/REPRODUCING.md), [experiment log](docs/EXPERIMENT_LOG.md), and [full measured results](reports/multimodal.json). The original statistical research pipeline below remains available separately.
+Read [the model card](docs/MODEL_CARD.md), [reproduction instructions](docs/REPRODUCING.md), [experiment log](docs/EXPERIMENT_LOG.md), and [full measured results](reports/multimodal.json). The original statistical research pipeline below remains available separately. For the next version, see the ranked [improvement plan](docs/IMPROVEMENT_PLAN.md) and [image-input audit](reports/image-input-audit.json). The audit identifies a square-crop preprocessing defect in v0.1; its measured impact on forecast accuracy is not yet known.
 
 ## What is working
 

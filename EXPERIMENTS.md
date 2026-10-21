@@ -29,3 +29,7 @@ The useful initial multimodal capability is evidence extraction and verification
 Keep each experimental feature disabled until its out-of-cycle evaluation improves the chosen metric against the same baseline and survives sensible sensitivity tests. Record failures. Do not use candidate appearance, facial expressions, crowd size, or impressions from debate clips as probability adjustments without a separately justified and validated method.
 
 All extraction and tests can use installed local libraries and visual review within existing agent access. No paid multimodal API is required.
+
+## Update after the first trained experiment
+
+The initial image/text forecasting experiment underperformed the matched numeric head. A subsequent diagnostic found that the default square crop removes important columns in wide source tables. The next experiments are ranked in `docs/IMPROVEMENT_PLAN.md`; the geometry audit is reproducible with `python3 scripts/audit_image_inputs.py`. Preserve v0.1 and its consumed holdout when evaluating a revised version.

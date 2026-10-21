@@ -37,7 +37,7 @@ The Texas demonstration's October 21 availability date is a first-seen capture, 
 - Test: 2024, three races. Opened after the configuration was written; no tuning against these results.
 - Current inference: 2026 Texas, using saved weights and preprocessing.
 
-Numeric standardization and both four-component PCA transformations fit on training rows only. Text is embedded in chunks of up to 36 words, capped at 288 words and 77 model tokens per chunk; normalized chunk embeddings are averaged. Images are rendered at 120 dpi and resized/cropped by the pinned CLIP processor. This limits fine table reading and is a likely weakness.
+Numeric standardization and both four-component PCA transformations fit on training rows only. Text is embedded in chunks of up to 36 words, capped at 288 words and 77 model tokens per chunk; normalized chunk embeddings are averaged. Images are rendered at 120 dpi and resized/cropped by the pinned CLIP processor. This limits fine table reading and is a likely weakness. A subsequent input audit found a concrete preprocessing defect: the square center crop removes candidate names and topline cells in some wide tables. See `IMPROVEMENT_PLAN.md` and `reports/image-input-audit.json`. The original experiment is retained for reproducibility; no forecast improvement from a repair has been measured.
 
 Optimization uses weighted margin MSE, AdamW, learning rate 0.01, weight decay 0.03, and seeds 17, 29, 43. The code retains inverse-race weighting if later datasets contain repeated polls; this initial frozen dataset contains one poll per race. All variants use the same examples and epoch grid.
 
