@@ -1,0 +1,127 @@
+[
+  {
+    "race": "2014-CO",
+    "actual_dem_margin": -2.0584058661040383,
+    "source": "MEDSL 1976-2018 Senate returns, candidate fusion-ballot lines combined"
+  },
+  {
+    "race": "2014-IA",
+    "actual_dem_margin": -8.698964398007286,
+    "source": "MEDSL 1976-2018 Senate returns, candidate fusion-ballot lines combined"
+  },
+  {
+    "race": "2014-NJ",
+    "actual_dem_margin": 13.762755678923343,
+    "source": "MEDSL 1976-2018 Senate returns, candidate fusion-ballot lines combined"
+  },
+  {
+    "race": "2014-VA",
+    "actual_dem_margin": 0.8324071060998579,
+    "source": "MEDSL 1976-2018 Senate returns, candidate fusion-ballot lines combined"
+  },
+  {
+    "race": "2016-CO",
+    "actual_dem_margin": 6.008906322746699,
+    "source": "MEDSL 1976-2018 Senate returns, candidate fusion-ballot lines combined"
+  },
+  {
+    "race": "2016-FL",
+    "actual_dem_margin": -7.961156507461697,
+    "source": "MEDSL 1976-2018 Senate returns, candidate fusion-ballot lines combined"
+  },
+  {
+    "race": "2016-GA",
+    "actual_dem_margin": -14.350834098061535,
+    "source": "MEDSL 1976-2018 Senate returns, candidate fusion-ballot lines combined"
+  },
+  {
+    "race": "2016-IA",
+    "actual_dem_margin": -25.520530110127844,
+    "source": "MEDSL 1976-2018 Senate returns, candidate fusion-ballot lines combined"
+  },
+  {
+    "race": "2016-NC",
+    "actual_dem_margin": -5.907120107897773,
+    "source": "MEDSL 1976-2018 Senate returns, candidate fusion-ballot lines combined"
+  },
+  {
+    "race": "2016-OH",
+    "actual_dem_margin": -21.926780992967416,
+    "source": "MEDSL 1976-2018 Senate returns, candidate fusion-ballot lines combined"
+  },
+  {
+    "race": "2016-PA",
+    "actual_dem_margin": -1.4903603649758266,
+    "source": "MEDSL 1976-2018 Senate returns, candidate fusion-ballot lines combined"
+  },
+  {
+    "race": "2018-CT",
+    "actual_dem_margin": 20.408576995776258,
+    "source": "MEDSL 1976-2018 Senate returns, candidate fusion-ballot lines combined"
+  },
+  {
+    "race": "2018-FL",
+    "actual_dem_margin": -0.12251835607793257,
+    "source": "MEDSL 1976-2018 Senate returns, candidate fusion-ballot lines combined"
+  },
+  {
+    "race": "2018-NJ",
+    "actual_dem_margin": 11.544410589867935,
+    "source": "MEDSL 1976-2018 Senate returns, candidate fusion-ballot lines combined"
+  },
+  {
+    "race": "2018-TX",
+    "actual_dem_margin": -2.5874814972216487,
+    "source": "MEDSL 1976-2018 Senate returns, candidate fusion-ballot lines combined"
+  },
+  {
+    "race": "2020-IA",
+    "actual_dem_margin": -6.7992463527622204,
+    "source": "FEC Federal Elections 2020, general vote totals"
+  },
+  {
+    "race": "2020-KY",
+    "actual_dem_margin": -20.348541061255716,
+    "source": "FEC Federal Elections 2020, general vote totals"
+  },
+  {
+    "race": "2020-ME",
+    "actual_dem_margin": -9.207078868510646,
+    "source": "FEC Federal Elections 2020, general vote totals"
+  },
+  {
+    "race": "2020-SC",
+    "actual_dem_margin": -10.415832481506795,
+    "source": "FEC Federal Elections 2020, general vote totals"
+  },
+  {
+    "race": "2020-TX",
+    "actual_dem_margin": -9.89904206207535,
+    "source": "FEC Federal Elections 2020, general vote totals"
+  },
+  {
+    "race": "2022-CT",
+    "actual_dem_margin": 14.916649931299,
+    "source": "FEC Federal Elections 2022, combined-party general totals"
+  },
+  {
+    "race": "2024-MI",
+    "actual_dem_margin": 0.3515485263113892,
+    "source": "MEDSL 2024 Senate state returns; archived file marked unofficial, retrospective labels"
+  },
+  {
+    "race": "2024-PA",
+    "actual_dem_margin": -0.2228208993178275,
+    "source": "MEDSL 2024 Senate state returns; archived file marked unofficial, retrospective labels"
+  },
+  {
+    "race": "2024-WI",
+    "actual_dem_margin": 0.8677410241822398,
+    "source": "MEDSL 2024 Senate state returns; archived file marked unofficial, retrospective labels"
+  },
+  {
+    "race": "2022-NY",
+    "actual_dem_margin": 14.075069326686034,
+    "source": "FEC Federal Elections 2022, combined-party general totals"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "checked_at": "2026-10-21T22:47:18.788954+00:00",
+  "new_service_spend_usd": 0,
+  "local_tests_passed": 30,
+  "clean_public_copy_tests_passed": 30,
+  "clean_public_copy_contains_publisher_originals": false,
+  "offline_baseline_replay": true,
+  "offline_neural_retraining": true,
+  "all_saved_artifact_hashes_reproduced": true,
+  "saved_inference_matches_experiment": true,
+  "network_calls_blocked_during_training_check": true,
+  "git_whitespace_check_passed": true,
+  "external_encoder_and_credentials_excluded": true,
+  "multimodal_promoted": false
+}

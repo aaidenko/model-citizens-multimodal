@@ -1,0 +1,760 @@
+[
+  {
+    "id": "1976-2016-president.csv",
+    "url": "https://raw.githubusercontent.com/MEDSL/constituency-returns/master/1976-2016-president.csv",
+    "path": "data/raw/1976-2016-president.csv",
+    "sha256": "429f6c4864491f2f5d4ce5ccadf87005fabf22755b53e3dfd45de7baf4cc1b9b",
+    "retrieved_at": "2026-10-21T21:45:41.150800+00:00",
+    "seeded_from_original_download": true
+  },
+  {
+    "id": "1976-2018-senate.csv",
+    "url": "https://raw.githubusercontent.com/MEDSL/constituency-returns/master/1976-2018-senate.csv",
+    "path": "data/raw/1976-2018-senate.csv",
+    "sha256": "8ab824d9acca70ad54dc69f9b191c5cea604cd5bbda2f8777e968cf25bada50e",
+    "retrieved_at": "2026-10-21T21:45:41.217248+00:00",
+    "seeded_from_original_download": true
+  },
+  {
+    "id": "2024-president-state.csv",
+    "url": "https://raw.githubusercontent.com/MEDSL/2024-elections-official/main/2024-president-state.csv",
+    "path": "data/raw/2024-president-state.csv",
+    "sha256": "d3170796305a9ee576d6362fbfdd9c4ffdf888566361b4b95f4d5e9d019a6348",
+    "retrieved_at": "2026-10-21T21:45:41.129655+00:00",
+    "seeded_from_original_download": true
+  },
+  {
+    "id": "2024-senate-state.csv",
+    "url": "https://raw.githubusercontent.com/MEDSL/2024-elections-official/main/2024-senate-state.csv",
+    "path": "data/raw/2024-senate-state.csv",
+    "sha256": "e50fbfc62a095b9fe0d5178b7c09176b5cb8b7d320e08dd31e54987b9e3fcd76",
+    "retrieved_at": "2026-10-21T21:45:41.219879+00:00",
+    "seeded_from_original_download": true
+  },
+  {
+    "id": "hobby-2026.pdf",
+    "url": "https://www.uh.edu/hobby/texas2026/statewide26.pdf",
+    "path": "data/raw/hobby-2026.pdf",
+    "sha256": "efe6e98f3e9ce3b316bd9785cf869e505b971c45e3e4ac38b78a514b2eb8b0ff",
+    "retrieved_at": "2026-10-21T21:45:45.241339+00:00",
+    "seeded_from_original_download": true
+  },
+  {
+    "id": "texas-polls.html",
+    "url": "https://texaspolitics.utexas.edu/blog/texas-2026-u-s-senate-poll-tracker",
+    "path": "data/raw/texas-polls.html",
+    "sha256": "65091c89ed1b121adeac5a2df063651e2e049ad624b9808a72c9316345063ada",
+    "retrieved_at": "2026-10-21T21:45:46.006796+00:00",
+    "seeded_from_original_download": true
+  },
+  {
+    "id": "senate-polls-index.html",
+    "url": "https://www.tpsielections.com/polls/senate",
+    "path": "data/raw/senate-polls-index.html",
+    "sha256": "710506bac7e8aac9579f029cd86a9a5c06df322acbaee89ef0a4762d62403873",
+    "retrieved_at": "2026-10-21T21:47:41.030052+00:00",
+    "seeded_from_original_download": true
+  },
+  {
+    "id": "ak-polls.json",
+    "url": "https://www.tpsielections.com/api/polls/ak-sen-2026",
+    "path": "data/raw/ak-polls.json",
+    "sha256": "909c7ee99e5b7695bf94e25365ca430affe3cb2d0eeb032f6a4b8bb6fc8f12f9",
+    "retrieved_at": "2026-10-21T21:47:34.316643+00:00",
+    "seeded_from_original_download": true
+  },
+  {
+    "id": "generic-ballot.json",
+    "url": "https://www.tpsielections.com/api/polls/generic-ballot",
+    "path": "data/raw/generic-ballot.json",
+    "sha256": "0f59bed8b465f80a66316f8d0e33e36dd0980d12bb2e61ff62af4348eb5f8df1",
+    "retrieved_at": "2026-10-21T21:47:37.978974+00:00",
+    "seeded_from_original_download": true
+  },
+  {
+    "id": "IL-markets.json",
+    "url": "https://external-api.kalshi.com/trade-api/v2/markets?series_ticker=SENATEIL&limit=1000",
+    "path": "data/raw/IL-markets.json",
+    "sha256": "60ca9b183aabbf55506fc5c12b3595185833daab6049caa652e246a3346a0255",
+    "retrieved_at": "2026-10-21T21:45:58.076108+00:00",
+    "seeded_from_original_download": true
+  },
+  {
+    "id": "GA-markets.json",
+    "url": "https://external-api.kalshi.com/trade-api/v2/markets?series_ticker=SENATEGA&limit=1000",
+    "path": "data/raw/GA-markets.json",
+    "sha256": "ef8530c88a5c4d787d6c36b2716c7a893ab70fef47cf187f9321237e7a2f79d3",
+    "retrieved_at": "2026-10-21T21:45:53.080802+00:00",
+    "seeded_from_original_download": true
+  },
+  {
+    "id": "NM-markets.json",
+    "url": "https://external-api.kalshi.com/trade-api/v2/markets?series_ticker=SENATENM&limit=1000",
+    "path": "data/raw/NM-markets.json",
+    "sha256": "94b17aec0cec01a456f9f16637752de44e420a684dfd9cea67e45139ed9dd81d",
+    "retrieved_at": "2026-10-21T21:46:12.524352+00:00",
+    "seeded_from_original_download": true
+  },
+  {
+    "id": "NJ-markets.json",
+    "url": "https://external-api.kalshi.com/trade-api/v2/markets?series_ticker=SENATENJ&limit=1000",
+    "path": "data/raw/NJ-markets.json",
+    "sha256": "2678f3172ad9ca213908593bf9a0ee032a61f8aa98ff16203c561665ec0509dd",
+    "retrieved_at": "2026-10-21T21:46:12.547348+00:00",
+    "seeded_from_original_download": true
+  },
+  {
+    "id": "MT-markets.json",
+    "url": "https://external-api.kalshi.com/trade-api/v2/markets?series_ticker=SENATEMT&limit=1000",
+    "path": "data/raw/MT-markets.json",
+    "sha256": "fece07956667a191a3ee66676ab373b6dc1af9e7a7c992f127457df6933dafe4",
+    "retrieved_at": "2026-10-21T21:46:08.663846+00:00",
+    "seeded_from_original_download": true
+  },
+  {
+    "id": "MS-markets.json",
+    "url": "https://external-api.kalshi.com/trade-api/v2/markets?series_ticker=SENATEMS&limit=1000",
+    "path": "data/raw/MS-markets.json",
+    "sha256": "98f8d91fd04017328f189bfb60085f346e6e53f7605d9f365617b68342807d7f",
+    "retrieved_at": "2026-10-21T21:46:08.663322+00:00",
+    "seeded_from_original_download": true
+  },
+  {
+    "id": "SD-markets.json",
+    "url": "https://external-api.kalshi.com/trade-api/v2/markets?series_ticker=SENATESD&limit=1000",
+    "path": "data/raw/SD-markets.json",
+    "sha256": "0eef82aa00e29d9c047378e9575b3ac2d5a1462a18cc7f440d82424734099714",
+    "retrieved_at": "2026-10-21T21:46:19.977789+00:00",
+    "seeded_from_original_download": true
+  },
+  {
+    "id": "VA-markets.json",
+    "url": "https://external-api.kalshi.com/trade-api/v2/markets?series_ticker=SENATEVA&limit=1000",
+    "path": "data/raw/VA-markets.json",
+    "sha256": "301ac861c99107fb7722391671a4750b748a63dd48557cce0eb5caea9f97e16d",
+    "retrieved_at": "2026-10-21T21:46:24.653392+00:00",
+    "seeded_from_original_download": true
+  },
+  {
+    "id": "OH-markets.json",
+    "url": "https://external-api.kalshi.com/trade-api/v2/markets?series_ticker=SENATEOHS&limit=1000",
+    "path": "data/raw/OH-markets.json",
+    "sha256": "8c277ff476c6284f7887ea042ef1a7abbb6dd050bb1a6eb59ec1efc371420830",
+    "retrieved_at": "2026-10-21T21:46:16.621225+00:00",
+    "seeded_from_original_download": true
+  },
+  {
+    "id": "SC-markets.json",
+    "url": "https://external-api.kalshi.com/trade-api/v2/markets?series_ticker=SENATESC&limit=1000",
+    "path": "data/raw/SC-markets.json",
+    "sha256": "a52de3e2fe1c5624eb1722f63f0d5ba59e1a84afa72116c3d416896ee4386c4d",
+    "retrieved_at": "2026-10-21T21:46:19.974979+00:00",
+    "seeded_from_original_download": true
+  },
+  {
+    "id": "TN-markets.json",
+    "url": "https://external-api.kalshi.com/trade-api/v2/markets?series_ticker=SENATETN&limit=1000",
+    "path": "data/raw/TN-markets.json",
+    "sha256": "b69db2c951de50f2c7eb9a79f1dcee85e99fdab40e3a77a1d1429323a8650697",
+    "retrieved_at": "2026-10-21T21:46:19.953446+00:00",
+    "seeded_from_original_download": true
+  },
+  {
+    "id": "MA-markets.json",
+    "url": "https://external-api.kalshi.com/trade-api/v2/markets?series_ticker=SENATEMA&limit=1000",
+    "path": "data/raw/MA-markets.json",
+    "sha256": "85ab56af0ed683a46ee3d99e3f8841dcbdee9aac44a94f9d3d8c316e276701ba",
+    "retrieved_at": "2026-10-21T21:46:02.800950+00:00",
+    "seeded_from_original_download": true
+  },
+  {
+    "id": "WV-markets.json",
+    "url": "https://external-api.kalshi.com/trade-api/v2/markets?series_ticker=SENATEWV&limit=1000",
+    "path": "data/raw/WV-markets.json",
+    "sha256": "7baf6a5926aa44cde4d249c5855e29bb46e8181f09cc2c8cefc0828da6d1e2a3",
+    "retrieved_at": "2026-10-21T21:46:24.592564+00:00",
+    "seeded_from_original_download": true
+  },
+  {
+    "id": "IA-markets.json",
+    "url": "https://external-api.kalshi.com/trade-api/v2/markets?series_ticker=SENATEIA&limit=1000",
+    "path": "data/raw/IA-markets.json",
+    "sha256": "f305a30aa4242af7ab023a985907c7114bc10b93722072155df9933013877d25",
+    "retrieved_at": "2026-10-21T21:45:53.051275+00:00",
+    "seeded_from_original_download": true
+  },
+  {
+    "id": "NE-markets.json",
+    "url": "https://external-api.kalshi.com/trade-api/v2/markets?series_ticker=SENATENE&limit=1000",
+    "path": "data/raw/NE-markets.json",
+    "sha256": "40d34eed036b8063dc4dc47b4485b804ea3b625a8cc41ae9648e37775a2eba87",
+    "retrieved_at": "2026-10-21T21:46:12.479672+00:00",
+    "seeded_from_original_download": true
+  },
+  {
+    "id": "RI-markets.json",
+    "url": "https://external-api.kalshi.com/trade-api/v2/markets?series_ticker=SENATERI&limit=1000",
+    "path": "data/raw/RI-markets.json",
+    "sha256": "a87e3d03cd739e59e94b38a86df7d32f0af45fc2e0c0a828987437a55f8d81fb",
+    "retrieved_at": "2026-10-21T21:46:16.621363+00:00",
+    "seeded_from_original_download": true
+  },
+  {
+    "id": "FL-markets.json",
+    "url": "https://external-api.kalshi.com/trade-api/v2/markets?series_ticker=SENATEFLS&limit=1000",
+    "path": "data/raw/FL-markets.json",
+    "sha256": "f292847e7515f354a33c522bd66869ddbf23d2c2856cc8516ca77799a6c088b0",
+    "retrieved_at": "2026-10-21T21:45:53.079617+00:00",
+    "seeded_from_original_download": true
+  },
+  {
+    "id": "LA-markets.json",
+    "url": "https://external-api.kalshi.com/trade-api/v2/markets?series_ticker=SENATELA&limit=1000",
+    "path": "data/raw/LA-markets.json",
+    "sha256": "b50755a7afb2ba5b100dbc6a40c950c69aa4106e7c1f33a0c257efae23b42ca9",
+    "retrieved_at": "2026-10-21T21:46:02.797109+00:00",
+    "seeded_from_original_download": true
+  },
+  {
+    "id": "ID-markets.json",
+    "url": "https://external-api.kalshi.com/trade-api/v2/markets?series_ticker=SENATEID&limit=1000",
+    "path": "data/raw/ID-markets.json",
+    "sha256": "287cb13a6208b7a6ccfd75a703cb1aa8245ddef1e14c68a487e82b974ff72bca",
+    "retrieved_at": "2026-10-21T21:45:58.095119+00:00",
+    "seeded_from_original_download": true
+  },
+  {
+    "id": "AR-markets.json",
+    "url": "https://external-api.kalshi.com/trade-api/v2/markets?series_ticker=SENATEAR&limit=1000",
+    "path": "data/raw/AR-markets.json",
+    "sha256": "eab233d03ac22f0229a0fbfcf689fe117541c92e592f9066a12fed9bffe1082b",
+    "retrieved_at": "2026-10-21T21:45:49.807074+00:00",
+    "seeded_from_original_download": true
+  },
+  {
+    "id": "AL-markets.json",
+    "url": "https://external-api.kalshi.com/trade-api/v2/markets?series_ticker=SENATEAL&limit=1000",
+    "path": "data/raw/AL-markets.json",
+    "sha256": "28d4dfcc9900bbbc4d8926d554e3eb277b1c1d23440d6ac431ac10b1ff8c737f",
+    "retrieved_at": "2026-10-21T21:45:49.809793+00:00",
+    "seeded_from_original_download": true
+  },
+  {
+    "id": "NC-markets.json",
+    "url": "https://external-api.kalshi.com/trade-api/v2/markets?series_ticker=SENATENC&limit=1000",
+    "path": "data/raw/NC-markets.json",
+    "sha256": "65391af9e583ea5918f49121cc0f38188e0ab743e7b813456691003f72d0ce81",
+    "retrieved_at": "2026-10-21T21:46:08.655022+00:00",
+    "seeded_from_original_download": true
+  },
+  {
+    "id": "AK-markets.json",
+    "url": "https://external-api.kalshi.com/trade-api/v2/markets?series_ticker=SENATEAK&limit=1000",
+    "path": "data/raw/AK-markets.json",
+    "sha256": "f54ce353a2a04984fe446484c8af4f2c55b50e5c1d2974699811adde29f52960",
+    "retrieved_at": "2026-10-21T21:45:49.804235+00:00",
+    "seeded_from_original_download": true
+  },
+  {
+    "id": "CO-markets.json",
+    "url": "https://external-api.kalshi.com/trade-api/v2/markets?series_ticker=SENATECO&limit=1000",
+    "path": "data/raw/CO-markets.json",
+    "sha256": "8c80082ec77273fd96769664394caf3af5d50940686e5a7a4627863673ff5e01",
+    "retrieved_at": "2026-10-21T21:45:49.802031+00:00",
+    "seeded_from_original_download": true
+  },
+  {
+    "id": "KY-markets.json",
+    "url": "https://external-api.kalshi.com/trade-api/v2/markets?series_ticker=SENATEKY&limit=1000",
+    "path": "data/raw/KY-markets.json",
+    "sha256": "50699ea1db13415ea46ec367dcfa58decd9660083271c5dc061561f38337fbac",
+    "retrieved_at": "2026-10-21T21:45:58.099920+00:00",
+    "seeded_from_original_download": true
+  },
+  {
+    "id": "ME-markets.json",
+    "url": "https://external-api.kalshi.com/trade-api/v2/markets?series_ticker=SENATEME&limit=1000",
+    "path": "data/raw/ME-markets.json",
+    "sha256": "3b8d600b3d8d77f4f06dd33b1ef01e828e4d82cdd9b870bdc0bee65ca4ea6227",
+    "retrieved_at": "2026-10-21T21:46:02.802825+00:00",
+    "seeded_from_original_download": true
+  },
+  {
+    "id": "KS-markets.json",
+    "url": "https://external-api.kalshi.com/trade-api/v2/markets?series_ticker=SENATEKS&limit=1000",
+    "path": "data/raw/KS-markets.json",
+    "sha256": "222d46740b1c063ef3b394a6a6917bf050b673ae7d234d2df29e9fa79e4782bd",
+    "retrieved_at": "2026-10-21T21:45:58.094685+00:00",
+    "seeded_from_original_download": true
+  },
+  {
+    "id": "OK-markets.json",
+    "url": "https://external-api.kalshi.com/trade-api/v2/markets?series_ticker=SENATEOK&limit=1000",
+    "path": "data/raw/OK-markets.json",
+    "sha256": "045e9de2786596b15156d587baebba1fc49a6d5fdf92d9604378e70fae1bc17b",
+    "retrieved_at": "2026-10-21T21:46:16.544460+00:00",
+    "seeded_from_original_download": true
+  },
+  {
+    "id": "WY-markets.json",
+    "url": "https://external-api.kalshi.com/trade-api/v2/markets?series_ticker=SENATEWY&limit=1000",
+    "path": "data/raw/WY-markets.json",
+    "sha256": "200697d6d92fce26c0e410301e663560c1b21a34bf01ba284d3093aa228c6aa9",
+    "retrieved_at": "2026-10-21T21:46:24.651427+00:00",
+    "seeded_from_original_download": true
+  },
+  {
+    "id": "MI-markets.json",
+    "url": "https://external-api.kalshi.com/trade-api/v2/markets?series_ticker=SENATEMI&limit=1000",
+    "path": "data/raw/MI-markets.json",
+    "sha256": "8d7a0567bebf05ff74ff22183b9dec9dd91bfd3d26be20ad2a4071c423234718",
+    "retrieved_at": "2026-10-21T21:46:02.799557+00:00",
+    "seeded_from_original_download": true
+  },
+  {
+    "id": "MN-markets.json",
+    "url": "https://external-api.kalshi.com/trade-api/v2/markets?series_ticker=SENATEMN&limit=1000",
+    "path": "data/raw/MN-markets.json",
+    "sha256": "2b35f7db2417af16703c153d6d8adba9111a7f91b632f01003651b90e5d04416",
+    "retrieved_at": "2026-10-21T21:46:08.654803+00:00",
+    "seeded_from_original_download": true
+  },
+  {
+    "id": "OR-markets.json",
+    "url": "https://external-api.kalshi.com/trade-api/v2/markets?series_ticker=SENATEOR&limit=1000",
+    "path": "data/raw/OR-markets.json",
+    "sha256": "ada7e56236e8ba9c65a8ddac3868551ad0c5881251068a27bb6aff047d13736b",
+    "retrieved_at": "2026-10-21T21:46:16.622958+00:00",
+    "seeded_from_original_download": true
+  },
+  {
+    "id": "NH-markets.json",
+    "url": "https://external-api.kalshi.com/trade-api/v2/markets?series_ticker=SENATENH&limit=1000",
+    "path": "data/raw/NH-markets.json",
+    "sha256": "b3f7bb08449f545b7f11d266c99f3255bbcf6df74d0434b106009e840aafbe07",
+    "retrieved_at": "2026-10-21T21:46:12.544186+00:00",
+    "seeded_from_original_download": true
+  },
+  {
+    "id": "DE-markets.json",
+    "url": "https://external-api.kalshi.com/trade-api/v2/markets?series_ticker=SENATEDE&limit=1000",
+    "path": "data/raw/DE-markets.json",
+    "sha256": "7052fc77748fce17b148c0360a3132ec42816b650a91aee16bbd59efb9fadee2",
+    "retrieved_at": "2026-10-21T21:45:53.062660+00:00",
+    "seeded_from_original_download": true
+  },
+  {
+    "id": "TX-markets.json",
+    "url": "https://external-api.kalshi.com/trade-api/v2/markets?series_ticker=SENATETX&limit=1000",
+    "path": "data/raw/TX-markets.json",
+    "sha256": "44568e88ea3991a273e711914c85bb43f035f7468e8fc5d9b7999191150f4ff1",
+    "retrieved_at": "2026-10-21T21:46:19.978144+00:00",
+    "seeded_from_original_download": true
+  },
+  {
+    "id": "AK-poll-page.html",
+    "url": "https://www.tpsielections.com/polls/ak/senate",
+    "path": "data/raw/AK-poll-page-f7144461f337.html",
+    "sha256": "f7144461f337b673608f02ae2a0edd0128915ae431781f89508c984079cad75f",
+    "retrieved_at": "2026-10-21T21:49:28.317742+00:00"
+  },
+  {
+    "id": "AL-poll-page.html",
+    "url": "https://www.tpsielections.com/polls/al/senate",
+    "path": "data/raw/AL-poll-page-72987275190c.html",
+    "sha256": "72987275190c4050085fcc2c5970301cc1a2713e3c07a3e41016b7c2a9cd7159",
+    "retrieved_at": "2026-10-21T21:49:28.525276+00:00"
+  },
+  {
+    "id": "AR-poll-page.html",
+    "url": "https://www.tpsielections.com/polls/ar/senate",
+    "path": "data/raw/AR-poll-page-055ee32fa91d.html",
+    "sha256": "055ee32fa91d5f1f47b92b8619badfd857ffb2f75a4b42b237532be24bb54a63",
+    "retrieved_at": "2026-10-21T21:49:28.576154+00:00"
+  },
+  {
+    "id": "FL-poll-page.html",
+    "url": "https://www.tpsielections.com/polls/fl/senate",
+    "path": "data/raw/FL-poll-page-220f4f16f860.html",
+    "sha256": "220f4f16f860d2d4046e894cf950a8e897cd0cda3b474bfeb7d6e7f2dcbc41ab",
+    "retrieved_at": "2026-10-21T21:49:28.590333+00:00"
+  },
+  {
+    "id": "AK-polls.json",
+    "url": "https://www.tpsielections.com/api/polls/ak-sen-2026",
+    "path": "data/raw/AK-polls-909c7ee99e5b.json",
+    "sha256": "909c7ee99e5b7695bf94e25365ca430affe3cb2d0eeb032f6a4b8bb6fc8f12f9",
+    "retrieved_at": "2026-10-21T21:49:31.454709+00:00"
+  },
+  {
+    "id": "FL-polls.json",
+    "url": "https://www.tpsielections.com/api/polls/fl-sen-2026",
+    "path": "data/raw/FL-polls-6975ca5c5ffd.json",
+    "sha256": "6975ca5c5ffd94c5882fbe393473abe3eec338ba3f1a746725c4f1ca3564ab45",
+    "retrieved_at": "2026-10-21T21:49:31.600871+00:00"
+  },
+  {
+    "id": "AL-polls.json",
+    "url": "https://www.tpsielections.com/api/polls/al-sen-2026",
+    "path": "data/raw/AL-polls-9b28182c3bbc.json",
+    "sha256": "9b28182c3bbc4925c43ae03d39dc64c725d5c7739a22643ffa3af2de63201b91",
+    "retrieved_at": "2026-10-21T21:49:31.606441+00:00"
+  },
+  {
+    "id": "AR-polls.json",
+    "url": "https://www.tpsielections.com/api/polls/ar-sen-2026",
+    "path": "data/raw/AR-polls-6e4973f33a08.json",
+    "sha256": "6e4973f33a088b0de3c009e33bc034b6f52f369dc4c64f91c2629898b4350306",
+    "retrieved_at": "2026-10-21T21:49:31.644261+00:00"
+  },
+  {
+    "id": "GA-poll-page.html",
+    "url": "https://www.tpsielections.com/polls/ga/senate",
+    "path": "data/raw/GA-poll-page-f77f10989ff3.html",
+    "sha256": "f77f10989ff3015732780accae5727ee2306266402a5ced1db20fc5e3bed30c0",
+    "retrieved_at": "2026-10-21T21:49:34.512047+00:00"
+  },
+  {
+    "id": "IL-poll-page.html",
+    "url": "https://www.tpsielections.com/polls/il/senate",
+    "path": "data/raw/IL-poll-page-3116f9690c48.html",
+    "sha256": "3116f9690c4812a3fd1802796218f7717d0d3c2f4eae4422de8b7afe5f17f834",
+    "retrieved_at": "2026-10-21T21:49:34.529362+00:00"
+  },
+  {
+    "id": "ID-poll-page.html",
+    "url": "https://www.tpsielections.com/polls/id/senate",
+    "path": "data/raw/ID-poll-page-2cba4636b67f.html",
+    "sha256": "2cba4636b67f09dbf4fbb3c6bbdf5924032eea346e8346eb74b4cafd5e6620e5",
+    "retrieved_at": "2026-10-21T21:49:34.585676+00:00"
+  },
+  {
+    "id": "IA-poll-page.html",
+    "url": "https://www.tpsielections.com/polls/ia/senate",
+    "path": "data/raw/IA-poll-page-08b63afbd871.html",
+    "sha256": "08b63afbd871a95fe9e30b1e4710275665564ca869428a95d1df99b6ea38332a",
+    "retrieved_at": "2026-10-21T21:49:34.635397+00:00"
+  },
+  {
+    "id": "ID-polls.json",
+    "url": "https://www.tpsielections.com/api/polls/id-sen-2026",
+    "path": "data/raw/ID-polls-e93f198d4050.json",
+    "sha256": "e93f198d4050345de3e07bb6c52598281570b92547fa1b75a94fe9dfa5818075",
+    "retrieved_at": "2026-10-21T21:49:37.581017+00:00"
+  },
+  {
+    "id": "IA-polls.json",
+    "url": "https://www.tpsielections.com/api/polls/ia-sen-2026",
+    "path": "data/raw/IA-polls-db7bca6dd883.json",
+    "sha256": "db7bca6dd883256084030dabcc7659f4b9053cf6f193c1408a2dc4a7cf2675cd",
+    "retrieved_at": "2026-10-21T21:49:37.590099+00:00"
+  },
+  {
+    "id": "GA-polls.json",
+    "url": "https://www.tpsielections.com/api/polls/ga-sen-2026",
+    "path": "data/raw/GA-polls-41dd129c0ac8.json",
+    "sha256": "41dd129c0ac83f119777441a49b265c24604767860d28effde74079336656aba",
+    "retrieved_at": "2026-10-21T21:49:37.594339+00:00"
+  },
+  {
+    "id": "IL-polls.json",
+    "url": "https://www.tpsielections.com/api/polls/il-sen-2026",
+    "path": "data/raw/IL-polls-eac15a23eb3f.json",
+    "sha256": "eac15a23eb3ff0fa1fc61ae45b7eabe9eb3e33b2b8a4379018c69791e4bd3123",
+    "retrieved_at": "2026-10-21T21:49:37.676149+00:00"
+  },
+  {
+    "id": "KS-poll-page.html",
+    "url": "https://www.tpsielections.com/polls/ks/senate",
+    "path": "data/raw/KS-poll-page-16f3ff97f3eb.html",
+    "sha256": "16f3ff97f3eb237a4187aede50198722dcdd3f5eb546cacef9ce604215bdb0bc",
+    "retrieved_at": "2026-10-21T21:49:40.976135+00:00"
+  },
+  {
+    "id": "KY-poll-page.html",
+    "url": "https://www.tpsielections.com/polls/ky/senate",
+    "path": "data/raw/KY-poll-page-d09bb5445f69.html",
+    "sha256": "d09bb5445f69bf46c51b09ea06133cbc4e2b0bb6394b4f7974fbd5d2c9308210",
+    "retrieved_at": "2026-10-21T21:49:40.976548+00:00"
+  },
+  {
+    "id": "MA-poll-page.html",
+    "url": "https://www.tpsielections.com/polls/ma/senate",
+    "path": "data/raw/MA-poll-page-e0eb38dce6f9.html",
+    "sha256": "e0eb38dce6f9dbcdac567632733751ccefafc042371f7cd24fb63faadf37ee2d",
+    "retrieved_at": "2026-10-21T21:49:40.976680+00:00"
+  },
+  {
+    "id": "LA-poll-page.html",
+    "url": "https://www.tpsielections.com/polls/la/senate",
+    "path": "data/raw/LA-poll-page-cd0342828c6d.html",
+    "sha256": "cd0342828c6d68c344c68ae7261622542dc6500bf8d9b4f729968e5e0fece261",
+    "retrieved_at": "2026-10-21T21:49:41.011449+00:00"
+  },
+  {
+    "id": "KY-polls.json",
+    "url": "https://www.tpsielections.com/api/polls/ky-sen-2026",
+    "path": "data/raw/KY-polls-43ad75c662aa.json",
+    "sha256": "43ad75c662aa22f9d16c10217000c848016ef844d2ad8626bc2e2c9b20999e49",
+    "retrieved_at": "2026-10-21T21:49:44.171791+00:00"
+  },
+  {
+    "id": "LA-polls.json",
+    "url": "https://www.tpsielections.com/api/polls/la-sen-2026",
+    "path": "data/raw/LA-polls-917426a45138.json",
+    "sha256": "917426a45138dae9b084a6a5a9da1565de97f68ceb44467ce71117039cb7a824",
+    "retrieved_at": "2026-10-21T21:49:44.180731+00:00"
+  },
+  {
+    "id": "MA-polls.json",
+    "url": "https://www.tpsielections.com/api/polls/ma-sen-2026",
+    "path": "data/raw/MA-polls-864838f4c981.json",
+    "sha256": "864838f4c981a7b359755ec416cb7648eb5ee329e265697fa7ad284dc8d72219",
+    "retrieved_at": "2026-10-21T21:49:44.202203+00:00"
+  },
+  {
+    "id": "KS-polls.json",
+    "url": "https://www.tpsielections.com/api/polls/ks-sen-2026",
+    "path": "data/raw/KS-polls-31e2be987379.json",
+    "sha256": "31e2be987379d74dd9a478a5fc02f8d7c1a3a99cda2d5ea87af27eb1cd605f7c",
+    "retrieved_at": "2026-10-21T21:49:44.318653+00:00"
+  },
+  {
+    "id": "MS-poll-page.html",
+    "url": "https://www.tpsielections.com/polls/ms/senate",
+    "path": "data/raw/MS-poll-page-9e50544098e3.html",
+    "sha256": "9e50544098e3ca67d1f77286270c0c4df97a67b53ced465e1b175d1b25c90473",
+    "retrieved_at": "2026-10-21T21:49:47.828670+00:00"
+  },
+  {
+    "id": "MN-poll-page.html",
+    "url": "https://www.tpsielections.com/polls/mn/senate",
+    "path": "data/raw/MN-poll-page-ea647344f237.html",
+    "sha256": "ea647344f237bb958559f0ab43526fe1d99d0746195803b51cb4cd928cdb6057",
+    "retrieved_at": "2026-10-21T21:49:47.829465+00:00"
+  },
+  {
+    "id": "MI-poll-page.html",
+    "url": "https://www.tpsielections.com/polls/mi/senate",
+    "path": "data/raw/MI-poll-page-6bfde55d8faa.html",
+    "sha256": "6bfde55d8faa01018536a969c3b4daf544c0af5b8e3d529ca2ef52730a29a51a",
+    "retrieved_at": "2026-10-21T21:49:47.853873+00:00"
+  },
+  {
+    "id": "ME-poll-page.html",
+    "url": "https://www.tpsielections.com/polls/me/senate",
+    "path": "data/raw/ME-poll-page-1be49caf3051.html",
+    "sha256": "1be49caf30515bb9013bc3fcf9d897432c3978e02feae4921f003e40a489415f",
+    "retrieved_at": "2026-10-21T21:49:47.935622+00:00"
+  },
+  {
+    "id": "MS-polls.json",
+    "url": "https://www.tpsielections.com/api/polls/ms-sen-2026",
+    "path": "data/raw/MS-polls-705330b7c1d7.json",
+    "sha256": "705330b7c1d73c18ef10e0238cf513fa960aa319e52e4447c0220d0bd4978831",
+    "retrieved_at": "2026-10-21T21:49:51.829480+00:00"
+  },
+  {
+    "id": "ME-polls.json",
+    "url": "https://www.tpsielections.com/api/polls/me-sen-2026",
+    "path": "data/raw/ME-polls-7fdb636ddd1b.json",
+    "sha256": "7fdb636ddd1b19963dabdeced3594985d2e727116c192ac1e68bf0b3a8ffc3df",
+    "retrieved_at": "2026-10-21T21:49:51.832448+00:00"
+  },
+  {
+    "id": "MI-polls.json",
+    "url": "https://www.tpsielections.com/api/polls/mi-sen-2026",
+    "path": "data/raw/MI-polls-64155d09a9b4.json",
+    "sha256": "64155d09a9b471f9048339e17a23d171fb5b8bf3006ed7b11224577091c8a311",
+    "retrieved_at": "2026-10-21T21:49:51.838962+00:00"
+  },
+  {
+    "id": "MN-polls.json",
+    "url": "https://www.tpsielections.com/api/polls/mn-sen-2026",
+    "path": "data/raw/MN-polls-3623a5da843a.json",
+    "sha256": "3623a5da843af5d017d2e7275be227fd0fd6ef5c7428b4d2b3fdf0d4c8b460ba",
+    "retrieved_at": "2026-10-21T21:49:51.925115+00:00"
+  },
+  {
+    "id": "MT-poll-page.html",
+    "url": "https://www.tpsielections.com/polls/mt/senate",
+    "path": "data/raw/MT-poll-page-028de727a63d.html",
+    "sha256": "028de727a63d596fb694b67236ff24f7db8d153b2705d56378050074756e0945",
+    "retrieved_at": "2026-10-21T21:49:54.882020+00:00"
+  },
+  {
+    "id": "NE-poll-page.html",
+    "url": "https://www.tpsielections.com/polls/ne/senate",
+    "path": "data/raw/NE-poll-page-f3602ce3ea95.html",
+    "sha256": "f3602ce3ea955fd4a20d45486e9cbd853d8b390cd6caa45d397204f2b39bdad9",
+    "retrieved_at": "2026-10-21T21:49:54.882453+00:00"
+  },
+  {
+    "id": "NH-poll-page.html",
+    "url": "https://www.tpsielections.com/polls/nh/senate",
+    "path": "data/raw/NH-poll-page-11de0e40b6fb.html",
+    "sha256": "11de0e40b6fb9be0b890adbb620b617c31a6a2c4c78d9ddfa88bcc428ad78910",
+    "retrieved_at": "2026-10-21T21:49:54.935659+00:00"
+  },
+  {
+    "id": "NC-poll-page.html",
+    "url": "https://www.tpsielections.com/polls/nc/senate",
+    "path": "data/raw/NC-poll-page-c7489efadb4a.html",
+    "sha256": "c7489efadb4ae3334f2aa884f09cc63229a7dd2120a15fbcaa0b576f5c194857",
+    "retrieved_at": "2026-10-21T21:49:54.948240+00:00"
+  },
+  {
+    "id": "MT-polls.json",
+    "url": "https://www.tpsielections.com/api/polls/mt-sen-2026",
+    "path": "data/raw/MT-polls-028e275a52d1.json",
+    "sha256": "028e275a52d14bc9429e5b9c031cbb5de92edc46ba10f767163787fda2427be8",
+    "retrieved_at": "2026-10-21T21:49:58.053167+00:00"
+  },
+  {
+    "id": "NE-polls.json",
+    "url": "https://www.tpsielections.com/api/polls/ne-sen-2026",
+    "path": "data/raw/NE-polls-cdae88e793d5.json",
+    "sha256": "cdae88e793d5b3fef535646566b67edebb20b5bb97e10c17614ffc3910cbe437",
+    "retrieved_at": "2026-10-21T21:49:58.063436+00:00"
+  },
+  {
+    "id": "NH-polls.json",
+    "url": "https://www.tpsielections.com/api/polls/nh-sen-2026",
+    "path": "data/raw/NH-polls-8584b3b2a227.json",
+    "sha256": "8584b3b2a227b69a333554d735a8703fbe6267f7aa02580e50ca5c79aa9ceca9",
+    "retrieved_at": "2026-10-21T21:49:58.071270+00:00"
+  },
+  {
+    "id": "NC-polls.json",
+    "url": "https://www.tpsielections.com/api/polls/nc-sen-2026",
+    "path": "data/raw/NC-polls-e26e73f3f22d.json",
+    "sha256": "e26e73f3f22d28c0d406467c5917e31c115906159ff1da899f6981006bea618f",
+    "retrieved_at": "2026-10-21T21:49:58.102679+00:00"
+  },
+  {
+    "id": "NM-poll-page.html",
+    "url": "https://www.tpsielections.com/polls/nm/senate",
+    "path": "data/raw/NM-poll-page-dd84f66e6018.html",
+    "sha256": "dd84f66e6018715eb5aaba2114781e06ed8361304c7dd21b6bb62b1a61d0da30",
+    "retrieved_at": "2026-10-21T21:50:01.351846+00:00"
+  },
+  {
+    "id": "OH-poll-page.html",
+    "url": "https://www.tpsielections.com/polls/oh/senate",
+    "path": "data/raw/OH-poll-page-3f1251499948.html",
+    "sha256": "3f12514999483de60db4f39aa53b31d565bd3fb1533fb7c136bb28a97dd83d03",
+    "retrieved_at": "2026-10-21T21:50:01.372490+00:00"
+  },
+  {
+    "id": "RI-poll-page.html",
+    "url": "https://www.tpsielections.com/polls/ri/senate",
+    "path": "data/raw/RI-poll-page-ec94df10f539.html",
+    "sha256": "ec94df10f53927c78316f9d6994ee953285350670c1bf41cea20d95f5b159b01",
+    "retrieved_at": "2026-10-21T21:50:01.388523+00:00"
+  },
+  {
+    "id": "OK-poll-page.html",
+    "url": "https://www.tpsielections.com/polls/ok/senate",
+    "path": "data/raw/OK-poll-page-737878818a61.html",
+    "sha256": "737878818a61532c186dc84c3ac9c03af186c031e2c55da4ffdb612bf4d23671",
+    "retrieved_at": "2026-10-21T21:50:01.402161+00:00"
+  },
+  {
+    "id": "NM-polls.json",
+    "url": "https://www.tpsielections.com/api/polls/nm-sen-2026",
+    "path": "data/raw/NM-polls-2dbd3183a9ae.json",
+    "sha256": "2dbd3183a9aee65d8109ed2250cc3760fc9bf8ac61ac86b864540f671d39895e",
+    "retrieved_at": "2026-10-21T21:50:04.457958+00:00"
+  },
+  {
+    "id": "OK-polls.json",
+    "url": "https://www.tpsielections.com/api/polls/ok-sen-2026",
+    "path": "data/raw/OK-polls-0f25fef28162.json",
+    "sha256": "0f25fef28162f93760f4f5606394b7bf07d073b613f1ede2a677fc1c6ecbcaa4",
+    "retrieved_at": "2026-10-21T21:50:04.549434+00:00"
+  },
+  {
+    "id": "RI-polls.json",
+    "url": "https://www.tpsielections.com/api/polls/ri-sen-2026",
+    "path": "data/raw/RI-polls-f6a4c98f60c2.json",
+    "sha256": "f6a4c98f60c2f4deb96c112f4737a5016ca159f458c9a6f534958394567b62a4",
+    "retrieved_at": "2026-10-21T21:50:04.577747+00:00"
+  },
+  {
+    "id": "OH-polls.json",
+    "url": "https://www.tpsielections.com/api/polls/oh-sen-2026",
+    "path": "data/raw/OH-polls-a3c3c98959cf.json",
+    "sha256": "a3c3c98959cfc2cbbad020bcf7ba87f3aeeddfa737daa355c069bb17553137d1",
+    "retrieved_at": "2026-10-21T21:50:04.601257+00:00"
+  },
+  {
+    "id": "TX-poll-page.html",
+    "url": "https://www.tpsielections.com/polls/tx/senate",
+    "path": "data/raw/TX-poll-page-ffef157178bd.html",
+    "sha256": "ffef157178bdd6560b9b3e0d1b534425a7cd1cb5599b60e6d2af85b61172484e",
+    "retrieved_at": "2026-10-21T21:50:08.064333+00:00"
+  },
+  {
+    "id": "TN-poll-page.html",
+    "url": "https://www.tpsielections.com/polls/tn/senate",
+    "path": "data/raw/TN-poll-page-f9b759396865.html",
+    "sha256": "f9b759396865d62da5ea827bde6859ff8bdfe4a50ac45c122c30e1bf75b62112",
+    "retrieved_at": "2026-10-21T21:50:08.066785+00:00"
+  },
+  {
+    "id": "SD-poll-page.html",
+    "url": "https://www.tpsielections.com/polls/sd/senate",
+    "path": "data/raw/SD-poll-page-917329f74eb7.html",
+    "sha256": "917329f74eb704dfd2b9635988560e230d5b0711e4978861d6d6d30a782e852f",
+    "retrieved_at": "2026-10-21T21:50:08.110454+00:00"
+  },
+  {
+    "id": "SC-poll-page.html",
+    "url": "https://www.tpsielections.com/polls/sc/senate",
+    "path": "data/raw/SC-poll-page-b8f0e481271c.html",
+    "sha256": "b8f0e481271ca5bbbc55b82ebb1118040f8d1a93df8be42c6536409e1aafc260",
+    "retrieved_at": "2026-10-21T21:50:08.210213+00:00"
+  },
+  {
+    "id": "SD-polls.json",
+    "url": "https://www.tpsielections.com/api/polls/sd-sen-2026",
+    "path": "data/raw/SD-polls-5021ca5658b8.json",
+    "sha256": "5021ca5658b81a1b7dfee7205f35e1a45f4b980bc55a4046028951e5c71e1b43",
+    "retrieved_at": "2026-10-21T21:50:11.796107+00:00"
+  },
+  {
+    "id": "SC-polls.json",
+    "url": "https://www.tpsielections.com/api/polls/sc-sen-2026",
+    "path": "data/raw/SC-polls-d3556dfc6825.json",
+    "sha256": "d3556dfc6825ae4107b83ad0031637a2d11b45e2a68dcc610de52ed65b8440f8",
+    "retrieved_at": "2026-10-21T21:50:11.796850+00:00"
+  },
+  {
+    "id": "TX-polls.json",
+    "url": "https://www.tpsielections.com/api/polls/tx-sen-2026",
+    "path": "data/raw/TX-polls-cd0d4dff2140.json",
+    "sha256": "cd0d4dff2140abf434f906b58703bc95d997c4e1d52394ba69cadd4639dbb583",
+    "retrieved_at": "2026-10-21T21:50:11.843573+00:00"
+  },
+  {
+    "id": "TN-polls.json",
+    "url": "https://www.tpsielections.com/api/polls/tn-sen-2026",
+    "path": "data/raw/TN-polls-f53d3fbe915b.json",
+    "sha256": "f53d3fbe915b5b011da022eb50b56896488db81e96acc1c7b71cb7dfeffd6410",
+    "retrieved_at": "2026-10-21T21:50:11.889374+00:00"
+  },
+  {
+    "id": "VA-poll-page.html",
+    "url": "https://www.tpsielections.com/polls/va/senate",
+    "path": "data/raw/VA-poll-page-b0f3d878c8f5.html",
+    "sha256": "b0f3d878c8f56c98a061d97850c89ec61b0e93520cf2ec87adb2976433045605",
+    "retrieved_at": "2026-10-21T21:50:15.056285+00:00"
+  },
+  {
+    "id": "VA-polls.json",
+    "url": "https://www.tpsielections.com/api/polls/va-sen-2026",
+    "path": "data/raw/VA-polls-c4203b55a469.json",
+    "sha256": "c4203b55a46998f6c7d0ada1ca0f074bf630dbea7780dd9d19e6a7384417dbb8",
+    "retrieved_at": "2026-10-21T21:50:18.322895+00:00"
+  }
+]

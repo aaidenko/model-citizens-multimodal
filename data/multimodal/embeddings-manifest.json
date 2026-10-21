@@ -1,0 +1,371 @@
+{
+  "encoder": "openai/clip-vit-base-patch32",
+  "revision": "3d74acf9a28c67741b2f4f2ea7635f0aaf6f0268",
+  "encoder_weights_sha256": "a63082132ba4f97a80bea76823f544493bffa8082296d62d71581a4feff1576f",
+  "encoder_frozen": true,
+  "cases_sha256": "fadf7f98164feff65dca3298bcba84fdac8de0d1b6765436f821652c7e432aed",
+  "embeddings_sha256": "9f8476b99d11ed878bae34f5f8d896895f6516be86e593152553f9efbee1d949",
+  "records": [
+    {
+      "id": "2014-CO-2014-10-16",
+      "pdf_sha256": "de3b304bf4370b51ea2255d1a62325929f7f95ce60d8f5cff114dc365cf0e836",
+      "image_sha256": "b14b62c59d194e8197d286843f04e4faeb99995799b95dba96b5a9489e5bf41b",
+      "text_sha256": "e3757e17b6e5b0d39cdaf240b062d6b78a27b6d7a74281d5b57e560e180bbf7d",
+      "page": 3,
+      "crop": [
+        0,
+        53.11,
+        612.0,
+        383.0
+      ],
+      "text_chunks": 5
+    },
+    {
+      "id": "2014-IA-2014-10-15",
+      "pdf_sha256": "aabb8972185ee74c50fc69eefcc8afb8ef17049071fc2e64be08cd5ed1714255",
+      "image_sha256": "4e40f13c8234781ca3c3f1495e6237faa5ed3445148b864f2b85cd28e716a686",
+      "text_sha256": "d3b6b2516ac58623e5a80f287cbdee785c5bdf713ca90c460eb08856abc72192",
+      "page": 5,
+      "crop": [
+        0,
+        30.43,
+        612.0,
+        348.92
+      ],
+      "text_chunks": 5
+    },
+    {
+      "id": "2014-NJ-2014-10-02",
+      "pdf_sha256": "44b0dc6630f332a64a1c422dd5548718c5a75626407d0b48b7f02538e2a5e22a",
+      "image_sha256": "e54dafee5598caef7bdf4fc574dc12788f609b3c25571c386973a878a975176b",
+      "text_sha256": "04d51f1b62c3dc5a6067ac61fa54b1ec8036ce1c5c6fbce6b4053ec539d96dbb",
+      "page": 3,
+      "crop": [
+        0,
+        30.43,
+        612.0,
+        179.09
+      ],
+      "text_chunks": 3
+    },
+    {
+      "id": "2014-VA-2014-09-25",
+      "pdf_sha256": "6e04e32e042f9096ad203ec471ef707fc361d69ecfd0a43c5f8c7cb0f486f62b",
+      "image_sha256": "b9f53179cb889d69c8d66260fa1775a9774041fcfd9590016965021bddb90168",
+      "text_sha256": "bfec3c431897910b9a9eb7c10056ce89de35dba97c4a85644fcc108e1a9012b5",
+      "page": 3,
+      "crop": [
+        0,
+        30.43,
+        612.0,
+        190.37
+      ],
+      "text_chunks": 3
+    },
+    {
+      "id": "2016-CO-2016-10-18",
+      "pdf_sha256": "bf54aa7b5498c53bf76251659a4b9d043e3cb21ffc1cc2d9445fe7a0166eb006",
+      "image_sha256": "450beda1b9521abfdf4256e8744f3028e1f089412d0a3c2e76ebff230e9b1c06",
+      "text_sha256": "28a5e3448029ad25f06e8e07ad0285e5acab1be30c693be0cc79dc27747e37ff",
+      "page": 4,
+      "crop": [
+        0,
+        59.71,
+        612.0,
+        196.97
+      ],
+      "text_chunks": 3
+    },
+    {
+      "id": "2016-FL-2016-10-18",
+      "pdf_sha256": "bf54aa7b5498c53bf76251659a4b9d043e3cb21ffc1cc2d9445fe7a0166eb006",
+      "image_sha256": "b9a34290e5d7e8a7c33c150418024be3fbf92c509b34b43057e005404424e718",
+      "text_sha256": "4cc132a71d00b82e945b6bb162f4d8549f720006f64a7b72888e54270ee71436",
+      "page": 4,
+      "crop": [
+        0,
+        206.97,
+        612.0,
+        344.24
+      ],
+      "text_chunks": 3
+    },
+    {
+      "id": "2016-GA-2016-09-23",
+      "pdf_sha256": "39eab3355e3192014577a52994fbeeb3a9569585976ab634ff796de024444612",
+      "image_sha256": "32fc1fdac50aa3b7605e8483e424acb16c55a9a89d78bf76937c0a4d4badedcf",
+      "text_sha256": "2e08ced955ab8078340f9cc82f56920c15406b8a94e6c34100c12c8921413ce9",
+      "page": 3,
+      "crop": [
+        0,
+        291.0,
+        612.0,
+        541.54
+      ],
+      "text_chunks": 4
+    },
+    {
+      "id": "2016-IA-2016-09-23",
+      "pdf_sha256": "39eab3355e3192014577a52994fbeeb3a9569585976ab634ff796de024444612",
+      "image_sha256": "c0e4b2f0c4e0aa3f094cc6388e8a45b76a2640cf64eb70d7306408dd0bca0f98",
+      "text_sha256": "0a9031daf7fe0f270a348e9bd8d4f263c2606f9c39abfd3ca0181c7943026a5f",
+      "page": 3,
+      "crop": [
+        0,
+        551.54,
+        612.0,
+        711.49
+      ],
+      "text_chunks": 3
+    },
+    {
+      "id": "2016-NC-2016-10-05",
+      "pdf_sha256": "29456dbdc6e38f36cf9602cbfd5ee8178f87ff4f0bb2b4fe8427a5c573255538",
+      "image_sha256": "d675f1368984b4dd1f51553e2ecceb9824889dbc386915cfb17596154aeb0a25",
+      "text_sha256": "0712f8a119cf585b7a842bcbe3df2ea73db2c038ef3c34d55b4f8ef3c9e4f2a8",
+      "page": 4,
+      "crop": [
+        0,
+        215.01,
+        612.0,
+        374.96
+      ],
+      "text_chunks": 3
+    },
+    {
+      "id": "2016-OH-2016-10-18",
+      "pdf_sha256": "bf54aa7b5498c53bf76251659a4b9d043e3cb21ffc1cc2d9445fe7a0166eb006",
+      "image_sha256": "c06e22f97ea8d73e2e222b7233d26d92dbbb4c37b20cc4b5310829e09111d24a",
+      "text_sha256": "db972aacbf897e48a8bda20e0b5f02a254163a10dcf7357f9f5d2bfaf283e3f1",
+      "page": 4,
+      "crop": [
+        0,
+        354.36,
+        612.0,
+        502.9
+      ],
+      "text_chunks": 3
+    },
+    {
+      "id": "2016-PA-2016-10-18",
+      "pdf_sha256": "bf54aa7b5498c53bf76251659a4b9d043e3cb21ffc1cc2d9445fe7a0166eb006",
+      "image_sha256": "6a7bac0f6a8cbbc078ffa7e1bae965e8fe68d3c1beab8894a9be5b9932fb8e9d",
+      "text_sha256": "49d0d356b430e53a3b12e91d66d241e1a5f6858b124dea9d8723a5814e54f524",
+      "page": 4,
+      "crop": [
+        0,
+        512.9,
+        612.0,
+        650.17
+      ],
+      "text_chunks": 3
+    },
+    {
+      "id": "2018-CT-2018-10-10",
+      "pdf_sha256": "3af29b2493027390aabfe8b5a3ae97b9f080f9061e7c115b0db2473af684e0d7",
+      "image_sha256": "5aa94695989312e7d49195255427422e650c55541a098fe9759c21663be72cad",
+      "text_sha256": "5b0f4394d73a92263105335b7b843d174331d98e5a8b5e32e42e1f8993f142f4",
+      "page": 5,
+      "crop": [
+        0,
+        279.72,
+        612.0,
+        541.57
+      ],
+      "text_chunks": 4
+    },
+    {
+      "id": "2018-FL-2018-10-22",
+      "pdf_sha256": "6aeb1746e2bf8dbc882c538e7734bfc88c82460f2dace268838066b02651a0a9",
+      "image_sha256": "e34007f89702b0582f3c3541b6da0ccf2fc52187b55092046b12fb79aebfa59d",
+      "text_sha256": "db58a9914bf38529b23f2ea5c20667a0851eaeeaab57f00499030b0d5d0d6ab4",
+      "page": 3,
+      "crop": [
+        0,
+        30.43,
+        612.0,
+        586.93
+      ],
+      "text_chunks": 7
+    },
+    {
+      "id": "2018-NJ-2018-10-17",
+      "pdf_sha256": "795764195d07dc02f59f9ca2fb1517f7ca69e4a9b9a216fb428a03a8e057c2d7",
+      "image_sha256": "d556d3151f5888bef936914cf39e274cf1ebe282710bedf5dad3224e22185058",
+      "text_sha256": "cece95ce9065c477d0c51e7d0bc88ef9e9a5bb91b413f8f36217c58283d67ffe",
+      "page": 3,
+      "crop": [
+        0,
+        30.43,
+        612.0,
+        586.93
+      ],
+      "text_chunks": 7
+    },
+    {
+      "id": "2018-TX-2018-10-11",
+      "pdf_sha256": "6c8be5209fff74b4b0a2870605732d537d27e03d454c812e63ee72b57bbb0cc6",
+      "image_sha256": "41c3e501948c16fd9534e7cc38f1456bd52ea3d848a1a1b636f4e75fa90cfbc4",
+      "text_sha256": "d89b33a7b3b3737ffb92be8da6f21f6464d1099c869778f966df3d56af3579c9",
+      "page": 5,
+      "crop": [
+        0,
+        30.43,
+        612.0,
+        496.3
+      ],
+      "text_chunks": 6
+    },
+    {
+      "id": "2020-IA-2020-10-07",
+      "pdf_sha256": "846c73980fad651bccc7aada91bdb33e291adb90664c6e71e18d7ba52bf36205",
+      "image_sha256": "98125bd19625d69fcad854fbb9c61b7036d98357c4bf2c797b6d0ac4f8ec4292",
+      "text_sha256": "05454b2a585c5332e1e3c6babeafe7cee005d22d1b5bfb3a8ad7b269273db096",
+      "page": 3,
+      "crop": [
+        0,
+        30.2,
+        612.0,
+        292.14
+      ],
+      "text_chunks": 4
+    },
+    {
+      "id": "2020-KY-2020-09-16",
+      "pdf_sha256": "0c250659f4965ba3875e1f224616321ce59452d0d94a75f9993a430313acc4a0",
+      "image_sha256": "ca18c82a61f7c6001d967c953f181fc6f35b26ff33625271cb4ec25fb7062a92",
+      "text_sha256": "d681baeeb348d9d6888c4492cd1227473135373bdea5a7f91c5d8a5ed2101ff5",
+      "page": 3,
+      "crop": [
+        0,
+        30.2,
+        612.0,
+        394.08
+      ],
+      "text_chunks": 6
+    },
+    {
+      "id": "2020-ME-2020-09-16",
+      "pdf_sha256": "66c59f628fc1617baa941ede267d21aae093df436c727f1516761c89d421f293",
+      "image_sha256": "85db7a7d862934a6e72e4ed5a7d243b6449448c14c22dbb8d4837dc8b400a9a1",
+      "text_sha256": "76db08247b6d743ae6706aec7cfaea5e894830288109f5ddb1b911c61a693026",
+      "page": 3,
+      "crop": [
+        0,
+        30.2,
+        612.0,
+        394.08
+      ],
+      "text_chunks": 5
+    },
+    {
+      "id": "2020-SC-2020-09-30",
+      "pdf_sha256": "77e766f02b0cfc4ec064f1b3e3c2d36b6ce0776ad6db40267ca74c7c1d38802d",
+      "image_sha256": "aa2a16d291403847f88067c8998687f3fe0e0fdea4b83789c72212984bc5abdf",
+      "text_sha256": "2a370bd807e18c37ce1ee5adcf02287f20760d8b84dc833d912995e01bac01a7",
+      "page": 5,
+      "crop": [
+        0,
+        30.2,
+        612.0,
+        394.08
+      ],
+      "text_chunks": 6
+    },
+    {
+      "id": "2020-TX-2020-09-24",
+      "pdf_sha256": "09721de5e35b0a739442ff2758c293f9ae839e7c4139a3b7f732d4849789ee08",
+      "image_sha256": "3f91fa2c1590dd3e3410bc3fe96ad5bd9c874b16659edc62c574e824b0a07ab7",
+      "text_sha256": "1b43231ee15ffab3ed2445e2229b8741f44d1820ee82101ac8ea3506695eb91f",
+      "page": 3,
+      "crop": [
+        0,
+        30.2,
+        612.0,
+        292.14
+      ],
+      "text_chunks": 5
+    },
+    {
+      "id": "2022-CT-2022-10-24",
+      "pdf_sha256": "07b3c12c63a120ff1e30104d9c09fb52562ff5d923c1cb5a5df951652f3242c2",
+      "image_sha256": "9ed97b9dc55c5d0e74234fa080c0231b86a14dabe8dca762d2e2212e77e3d4c3",
+      "text_sha256": "6df8549dc7e10dc1108d44266c95ac27b348073b5d57474ea577af973299c6d9",
+      "page": 4,
+      "crop": [
+        0,
+        30.19,
+        612.0,
+        303.44
+      ],
+      "text_chunks": 4
+    },
+    {
+      "id": "2024-MI-2024-10-09",
+      "pdf_sha256": "d801fe0ee8283cb4c555f082ee19748736dc0a042485816cd5950d688f455a5e",
+      "image_sha256": "2f30d5f796f783a0192559a2e40a1a074e1b4c5d176aa534bff33461fa3d9a88",
+      "text_sha256": "90827cb35484bbd9e1febc278a79c91aa838c23e6b631e4a6aff9628d2035b13",
+      "page": 3,
+      "crop": [
+        0,
+        191.64,
+        612.0,
+        473.41
+      ],
+      "text_chunks": 5
+    },
+    {
+      "id": "2024-PA-2024-10-09",
+      "pdf_sha256": "bcc6f03ec67806505f15a2408ae0549b33bc70e229f66b6bcd70aa23a30cb632",
+      "image_sha256": "4c10408baf583cc3bffad5444cf061a21cce7e41fe60de63d3adbf1af07730b4",
+      "text_sha256": "7c156428a084414f0b1e197a5be21065cfe0dd598eac6e0d650910725d332662",
+      "page": 3,
+      "crop": [
+        0,
+        211.41,
+        612.0,
+        507.34
+      ],
+      "text_chunks": 5
+    },
+    {
+      "id": "2024-WI-2024-10-09",
+      "pdf_sha256": "5d72b86c2ac293e89c8df120a57f24ef4657534bd70a9cb13eb1928611085cfa",
+      "image_sha256": "9a8a067e7c1e13ae89643212a06461be310b4ebfa1e40000f9099ed88a147ca0",
+      "text_sha256": "3c7dd7d14ec2884a7b615fc51fcb8af5f17f6313787c1f3645f13ef091f25c77",
+      "page": 3,
+      "crop": [
+        0,
+        191.64,
+        612.0,
+        473.41
+      ],
+      "text_chunks": 5
+    },
+    {
+      "id": "2022-NY-2022-10-13",
+      "pdf_sha256": "26f25f56efe7cf04faecd0991bc05fc476895b4141e8365e9aa6deb06bfbea9a",
+      "image_sha256": "7e39052193e69c7e5ec50b911b19946dbe38532bdd1de38bd926045465454168",
+      "text_sha256": "9b16f9fc81a1a58f3261d7d1a87388a0c4a56df2e73a4c7084c96c42f6ba69d5",
+      "page": 6,
+      "crop": [
+        0,
+        0,
+        590,
+        530
+      ],
+      "text_chunks": 8
+    },
+    {
+      "id": "2026-TX-2026-10-21",
+      "pdf_sha256": "efe6e98f3e9ce3b316bd9785cf869e505b971c45e3e4ac38b78a514b2eb8b0ff",
+      "image_sha256": "cbc1b4f768e9d3d50ab9a181b035cd0f14fd6066917c610742bf6a0ac94e4f39",
+      "text_sha256": "a5a749648340f30c5d363c92b04269eb032b6a23395197812d7a62c5462847d9",
+      "page": 6,
+      "crop": null,
+      "text_chunks": 8
+    }
+  ],
+  "created_at": "2026-10-21T22:37:02.436379+00:00",
+  "new_service_spend_usd": 0
+}

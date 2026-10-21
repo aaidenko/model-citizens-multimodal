@@ -1,0 +1,20 @@
+{
+  "ready": false,
+  "blockers": [
+    "Official November 1 benchmark has not been supplied.",
+    "Full polling-blend calibration and 2020/2022/2024 validation are unfinished.",
+    "All candidate names, party codes, and ballot status need final independent roster verification.",
+    "Confirm treatment of the CSV probability field and the submission deadline timezone.",
+    "Unverified/missing market mappings: KY-SEN, LA-SEN"
+  ],
+  "unresolved_races": [
+    "KY-SEN",
+    "LA-SEN"
+  ],
+  "draft_csv": "drafts/predictions-RESEARCH-ONLY.csv",
+  "multimodal": {
+    "trained": true,
+    "promoted": false,
+    "reason": "Small held-out experiment underperformed matched numeric-only model; see reports/multimodal.json."
+  }
+}

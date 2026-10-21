@@ -1,0 +1,27 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+work/
+# Third-party source bytes and images are fetched from manifests, not republished.
+data/raw/*
+!data/raw/*.json
+!data/raw/*.csv
+data/evidence/*
+!data/evidence/*.json
+data/multimodal/raw/
+data/multimodal/pages/
+data/multimodal/text/
+# Large external encoder weights are downloaded separately.
+*.bin
+*.pt
+*.pth
+# Local training scratch and browser assets.
+.cache/
+
+# Old browser previews are not experiment artifacts.
+report-preview.jpg

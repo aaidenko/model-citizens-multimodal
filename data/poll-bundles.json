@@ -1,0 +1,147 @@
+[
+  {
+    "state": "AK",
+    "source_id": "AK-polls.json",
+    "url": "https://www.tpsielections.com/api/polls/ak-sen-2026"
+  },
+  {
+    "state": "AL",
+    "source_id": "AL-polls.json",
+    "url": "https://www.tpsielections.com/api/polls/al-sen-2026"
+  },
+  {
+    "state": "AR",
+    "source_id": "AR-polls.json",
+    "url": "https://www.tpsielections.com/api/polls/ar-sen-2026"
+  },
+  {
+    "state": "FL",
+    "source_id": "FL-polls.json",
+    "url": "https://www.tpsielections.com/api/polls/fl-sen-2026"
+  },
+  {
+    "state": "GA",
+    "source_id": "GA-polls.json",
+    "url": "https://www.tpsielections.com/api/polls/ga-sen-2026"
+  },
+  {
+    "state": "IA",
+    "source_id": "IA-polls.json",
+    "url": "https://www.tpsielections.com/api/polls/ia-sen-2026"
+  },
+  {
+    "state": "ID",
+    "source_id": "ID-polls.json",
+    "url": "https://www.tpsielections.com/api/polls/id-sen-2026"
+  },
+  {
+    "state": "IL",
+    "source_id": "IL-polls.json",
+    "url": "https://www.tpsielections.com/api/polls/il-sen-2026"
+  },
+  {
+    "state": "KS",
+    "source_id": "KS-polls.json",
+    "url": "https://www.tpsielections.com/api/polls/ks-sen-2026"
+  },
+  {
+    "state": "KY",
+    "source_id": "KY-polls.json",
+    "url": "https://www.tpsielections.com/api/polls/ky-sen-2026"
+  },
+  {
+    "state": "LA",
+    "source_id": "LA-polls.json",
+    "url": "https://www.tpsielections.com/api/polls/la-sen-2026"
+  },
+  {
+    "state": "MA",
+    "source_id": "MA-polls.json",
+    "url": "https://www.tpsielections.com/api/polls/ma-sen-2026"
+  },
+  {
+    "state": "ME",
+    "source_id": "ME-polls.json",
+    "url": "https://www.tpsielections.com/api/polls/me-sen-2026"
+  },
+  {
+    "state": "MI",
+    "source_id": "MI-polls.json",
+    "url": "https://www.tpsielections.com/api/polls/mi-sen-2026"
+  },
+  {
+    "state": "MN",
+    "source_id": "MN-polls.json",
+    "url": "https://www.tpsielections.com/api/polls/mn-sen-2026"
+  },
+  {
+    "state": "MS",
+    "source_id": "MS-polls.json",
+    "url": "https://www.tpsielections.com/api/polls/ms-sen-2026"
+  },
+  {
+    "state": "MT",
+    "source_id": "MT-polls.json",
+    "url": "https://www.tpsielections.com/api/polls/mt-sen-2026"
+  },
+  {
+    "state": "NC",
+    "source_id": "NC-polls.json",
+    "url": "https://www.tpsielections.com/api/polls/nc-sen-2026"
+  },
+  {
+    "state": "NE",
+    "source_id": "NE-polls.json",
+    "url": "https://www.tpsielections.com/api/polls/ne-sen-2026"
+  },
+  {
+    "state": "NH",
+    "source_id": "NH-polls.json",
+    "url": "https://www.tpsielections.com/api/polls/nh-sen-2026"
+  },
+  {
+    "state": "NM",
+    "source_id": "NM-polls.json",
+    "url": "https://www.tpsielections.com/api/polls/nm-sen-2026"
+  },
+  {
+    "state": "OH",
+    "source_id": "OH-polls.json",
+    "url": "https://www.tpsielections.com/api/polls/oh-sen-2026"
+  },
+  {
+    "state": "OK",
+    "source_id": "OK-polls.json",
+    "url": "https://www.tpsielections.com/api/polls/ok-sen-2026"
+  },
+  {
+    "state": "RI",
+    "source_id": "RI-polls.json",
+    "url": "https://www.tpsielections.com/api/polls/ri-sen-2026"
+  },
+  {
+    "state": "SC",
+    "source_id": "SC-polls.json",
+    "url": "https://www.tpsielections.com/api/polls/sc-sen-2026"
+  },
+  {
+    "state": "SD",
+    "source_id": "SD-polls.json",
+    "url": "https://www.tpsielections.com/api/polls/sd-sen-2026"
+  },
+  {
+    "state": "TN",
+    "source_id": "TN-polls.json",
+    "url": "https://www.tpsielections.com/api/polls/tn-sen-2026"
+  },
+  {
+    "state": "TX",
+    "source_id": "TX-polls.json",
+    "url": "https://www.tpsielections.com/api/polls/tx-sen-2026"
+  },
+  {
+    "state": "VA",
+    "source_id": "VA-polls.json",
+    "url": "https://www.tpsielections.com/api/polls/va-sen-2026"
+  }
+]

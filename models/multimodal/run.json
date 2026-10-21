@@ -1,0 +1,868 @@
+{
+  "status": "EXPERIMENTAL \u2014 NOT PROMOTED TO COMPETITION MODEL",
+  "new_service_spend_usd": 0,
+  "device": "cpu",
+  "torch_version": "2.14.1",
+  "encoder": "openai/clip-vit-base-patch32",
+  "encoder_revision": "3d74acf9a28c67741b2f4f2ea7635f0aaf6f0268",
+  "encoder_frozen": true,
+  "encoder_parameters": 151277313,
+  "train_years": [
+    2014,
+    2016,
+    2018,
+    2020
+  ],
+  "validation_years": [
+    2022
+  ],
+  "test_years": [
+    2024
+  ],
+  "training_cases": 20,
+  "training_races": 20,
+  "validation_cases": 2,
+  "test_cases": 3,
+  "seeds": [
+    17,
+    29,
+    43
+  ],
+  "epoch_grid": [
+    50,
+    150,
+    300
+  ],
+  "probability_sigma_points": 6,
+  "correction_limit_points": 6,
+  "cases_sha256": "fadf7f98164feff65dca3298bcba84fdac8de0d1b6765436f821652c7e432aed",
+  "embeddings_sha256": "9f8476b99d11ed878bae34f5f8d896895f6516be86e593152553f9efbee1d949",
+  "raw_poll": {
+    "validation": {
+      "races": 2,
+      "brier": 4.966542022272205e-05,
+      "log_loss": 0.006831193076577099,
+      "accuracy": 1.0,
+      "margin_rmse": 0.4146522436241321
+    },
+    "test": {
+      "races": 3,
+      "brier": 0.3864723346129269,
+      "log_loss": 1.1743710302794637,
+      "accuracy": 0.6666666666666666,
+      "margin_rmse": 5.393817718948181
+    },
+    "validation_predictions": [
+      {
+        "race": "2022-CT",
+        "year": 2022,
+        "latest_publication": "2022-10-24",
+        "predicted_dem_margin": 15.463917255401611,
+        "actual_dem_margin": 14.916649931299,
+        "q_democrat": 0.9950215071601657,
+        "cases": [
+          "2022-CT-2022-10-24"
+        ]
+      },
+      {
+        "race": "2022-NY",
+        "year": 2022,
+        "latest_publication": "2022-10-13",
+        "predicted_dem_margin": 14.285714626312256,
+        "actual_dem_margin": 14.075069326686034,
+        "q_democrat": 0.9913660293323893,
+        "cases": [
+          "2022-NY-2022-10-13"
+        ]
+      }
+    ],
+    "test_predictions": [
+      {
+        "race": "2024-MI",
+        "year": 2024,
+        "latest_publication": "2024-10-09",
+        "predicted_dem_margin": 0.0,
+        "actual_dem_margin": 0.3515485263113892,
+        "q_democrat": 0.5,
+        "cases": [
+          "2024-MI-2024-10-09"
+        ]
+      },
+      {
+        "race": "2024-PA",
+        "year": 2024,
+        "latest_publication": "2024-10-09",
+        "predicted_dem_margin": 8.51063847541809,
+        "actual_dem_margin": -0.2228208993178275,
+        "q_democrat": 0.9219687907537826,
+        "cases": [
+          "2024-PA-2024-10-09"
+        ]
+      },
+      {
+        "race": "2024-WI",
+        "year": 2024,
+        "latest_publication": "2024-10-09",
+        "predicted_dem_margin": 4.166666567325592,
+        "actual_dem_margin": 0.8677410241822398,
+        "q_democrat": 0.7562982299719827,
+        "cases": [
+          "2024-WI-2024-10-09"
+        ]
+      }
+    ]
+  },
+  "models": {
+    "numeric": {
+      "trainable_parameters": 49,
+      "selected_epoch": 300,
+      "selection": "2022 race-level margin RMSE only",
+      "validation_grid": [
+        {
+          "epoch": 50,
+          "metrics": {
+            "races": 2,
+            "brier": 0.0038917896364958735,
+            "log_loss": 0.06347836175226489,
+            "accuracy": 1.0,
+            "margin_rmse": 5.2034353040049
+          }
+        },
+        {
+          "epoch": 150,
+          "metrics": {
+            "races": 2,
+            "brier": 0.004402646073093049,
+            "log_loss": 0.0673783928384439,
+            "accuracy": 1.0,
+            "margin_rmse": 5.369720690490901
+          }
+        },
+        {
+          "epoch": 300,
+          "metrics": {
+            "races": 2,
+            "brier": 0.0011885430758218462,
+            "log_loss": 0.03475751025852974,
+            "accuracy": 1.0,
+            "margin_rmse": 3.53634620462409
+          }
+        }
+      ],
+      "training_trace": [
+        {
+          "seed": 17,
+          "epoch": 1,
+          "weighted_margin_mse": 78.40449810028076
+        },
+        {
+          "seed": 17,
+          "epoch": 50,
+          "weighted_margin_mse": 49.852341413497925
+        },
+        {
+          "seed": 17,
+          "epoch": 150,
+          "weighted_margin_mse": 44.2996084690094
+        },
+        {
+          "seed": 17,
+          "epoch": 300,
+          "weighted_margin_mse": 32.53565728664398
+        },
+        {
+          "seed": 29,
+          "epoch": 1,
+          "weighted_margin_mse": 78.61129641532898
+        },
+        {
+          "seed": 29,
+          "epoch": 50,
+          "weighted_margin_mse": 49.4543731212616
+        },
+        {
+          "seed": 29,
+          "epoch": 150,
+          "weighted_margin_mse": 41.676151752471924
+        },
+        {
+          "seed": 29,
+          "epoch": 300,
+          "weighted_margin_mse": 38.329970836639404
+        },
+        {
+          "seed": 43,
+          "epoch": 1,
+          "weighted_margin_mse": 73.97599816322327
+        },
+        {
+          "seed": 43,
+          "epoch": 50,
+          "weighted_margin_mse": 50.26041269302368
+        },
+        {
+          "seed": 43,
+          "epoch": 150,
+          "weighted_margin_mse": 41.995441913604736
+        },
+        {
+          "seed": 43,
+          "epoch": 300,
+          "weighted_margin_mse": 34.81878936290741
+        }
+      ],
+      "validation": {
+        "races": 2,
+        "brier": 0.0011885430758218462,
+        "log_loss": 0.03475751025852974,
+        "accuracy": 1.0,
+        "margin_rmse": 3.53634620462409
+      },
+      "test": {
+        "races": 3,
+        "brier": 0.4345804108866996,
+        "log_loss": 1.092832471248199,
+        "accuracy": 0.0,
+        "margin_rmse": 3.179584263633839
+      },
+      "validation_predictions": [
+        {
+          "race": "2022-CT",
+          "year": 2022,
+          "latest_publication": "2022-10-24",
+          "predicted_dem_margin": 11.336703300476074,
+          "actual_dem_margin": 14.916649931299,
+          "q_democrat": 0.9705842585616705,
+          "cases": [
+            "2022-CT-2022-10-24"
+          ]
+        },
+        {
+          "race": "2022-NY",
+          "year": 2022,
+          "latest_publication": "2022-10-13",
+          "predicted_dem_margin": 10.582867860794067,
+          "actual_dem_margin": 14.075069326686034,
+          "q_democrat": 0.961118123665684,
+          "cases": [
+            "2022-NY-2022-10-13"
+          ]
+        }
+      ],
+      "test_predictions": [
+        {
+          "race": "2024-MI",
+          "year": 2024,
+          "latest_publication": "2024-10-09",
+          "predicted_dem_margin": -4.143593013286591,
+          "actual_dem_margin": 0.3515485263113892,
+          "q_democrat": 0.24490883972760819,
+          "cases": [
+            "2024-MI-2024-10-09"
+          ]
+        },
+        {
+          "race": "2024-PA",
+          "year": 2024,
+          "latest_publication": "2024-10-09",
+          "predicted_dem_margin": 2.6567280292510986,
+          "actual_dem_margin": -0.2228208993178275,
+          "q_democrat": 0.6710404598333417,
+          "cases": [
+            "2024-PA-2024-10-09"
+          ]
+        },
+        {
+          "race": "2024-WI",
+          "year": 2024,
+          "latest_publication": "2024-10-09",
+          "predicted_dem_margin": -0.4854658246040344,
+          "actual_dem_margin": 0.8677410241822398,
+          "q_democrat": 0.46775637758142247,
+          "cases": [
+            "2024-WI-2024-10-09"
+          ]
+        }
+      ],
+      "current_research_predictions": [
+        {
+          "id": "2026-TX-2026-10-21",
+          "predicted_dem_margin": 0.4290845990180969,
+          "q_democrat": 0.5285056829452515
+        }
+      ],
+      "parameter_l2_change_last_seed_at_max_epoch": 4.89918973622835
+    },
+    "numeric_text": {
+      "trainable_parameters": 81,
+      "selected_epoch": 300,
+      "selection": "2022 race-level margin RMSE only",
+      "validation_grid": [
+        {
+          "epoch": 50,
+          "metrics": {
+            "races": 2,
+            "brier": 0.0020602597118151364,
+            "log_loss": 0.044877167395474205,
+            "accuracy": 1.0,
+            "margin_rmse": 4.33112848010761
+          }
+        },
+        {
+          "epoch": 150,
+          "metrics": {
+            "races": 2,
+            "brier": 0.0016359131216392168,
+            "log_loss": 0.036766792630740466,
+            "accuracy": 1.0,
+            "margin_rmse": 3.877109130888859
+          }
+        },
+        {
+          "epoch": 300,
+          "metrics": {
+            "races": 2,
+            "brier": 0.0015576392671544793,
+            "log_loss": 0.03380119465314775,
+            "accuracy": 1.0,
+            "margin_rmse": 3.7645005387050157
+          }
+        }
+      ],
+      "training_trace": [
+        {
+          "seed": 17,
+          "epoch": 1,
+          "weighted_margin_mse": 74.48190450668335
+        },
+        {
+          "seed": 17,
+          "epoch": 50,
+          "weighted_margin_mse": 36.6570770740509
+        },
+        {
+          "seed": 17,
+          "epoch": 150,
+          "weighted_margin_mse": 35.30105650424957
+        },
+        {
+          "seed": 17,
+          "epoch": 300,
+          "weighted_margin_mse": 35.150346159935
+        },
+        {
+          "seed": 29,
+          "epoch": 1,
+          "weighted_margin_mse": 72.19370603561401
+        },
+        {
+          "seed": 29,
+          "epoch": 50,
+          "weighted_margin_mse": 36.400362849235535
+        },
+        {
+          "seed": 29,
+          "epoch": 150,
+          "weighted_margin_mse": 35.28493046760559
+        },
+        {
+          "seed": 29,
+          "epoch": 300,
+          "weighted_margin_mse": 35.160452127456665
+        },
+        {
+          "seed": 43,
+          "epoch": 1,
+          "weighted_margin_mse": 101.62303447723389
+        },
+        {
+          "seed": 43,
+          "epoch": 50,
+          "weighted_margin_mse": 37.15100884437561
+        },
+        {
+          "seed": 43,
+          "epoch": 150,
+          "weighted_margin_mse": 28.03124487400055
+        },
+        {
+          "seed": 43,
+          "epoch": 300,
+          "weighted_margin_mse": 22.253143787384033
+        }
+      ],
+      "validation": {
+        "races": 2,
+        "brier": 0.0015576392671544793,
+        "log_loss": 0.03380119465314775,
+        "accuracy": 1.0,
+        "margin_rmse": 3.7645005387050157
+      },
+      "test": {
+        "races": 3,
+        "brier": 0.5419338922058069,
+        "log_loss": 1.371715707071096,
+        "accuracy": 0.0,
+        "margin_rmse": 4.566999420246435
+      },
+      "validation_predictions": [
+        {
+          "race": "2022-CT",
+          "year": 2022,
+          "latest_publication": "2022-10-24",
+          "predicted_dem_margin": 9.608011245727539,
+          "actual_dem_margin": 14.916649931299,
+          "q_democrat": 0.9453486525150188,
+          "cases": [
+            "2022-CT-2022-10-24"
+          ]
+        },
+        {
+          "race": "2022-NY",
+          "year": 2022,
+          "latest_publication": "2022-10-13",
+          "predicted_dem_margin": 13.673467636108398,
+          "actual_dem_margin": 14.075069326686034,
+          "q_democrat": 0.9886638299066751,
+          "cases": [
+            "2022-NY-2022-10-13"
+          ]
+        }
+      ],
+      "test_predictions": [
+        {
+          "race": "2024-MI",
+          "year": 2024,
+          "latest_publication": "2024-10-09",
+          "predicted_dem_margin": -5.9383368492126465,
+          "actual_dem_margin": 0.3515485263113892,
+          "q_democrat": 0.1611548118065821,
+          "cases": [
+            "2024-MI-2024-10-09"
+          ]
+        },
+        {
+          "race": "2024-PA",
+          "year": 2024,
+          "latest_publication": "2024-10-09",
+          "predicted_dem_margin": 3.751676380634308,
+          "actual_dem_margin": -0.2228208993178275,
+          "q_democrat": 0.7341061500606695,
+          "cases": [
+            "2024-PA-2024-10-09"
+          ]
+        },
+        {
+          "race": "2024-WI",
+          "year": 2024,
+          "latest_publication": "2024-10-09",
+          "predicted_dem_margin": -1.817992478609085,
+          "actual_dem_margin": 0.8677410241822398,
+          "q_democrat": 0.38094540846119895,
+          "cases": [
+            "2024-WI-2024-10-09"
+          ]
+        }
+      ],
+      "current_research_predictions": [
+        {
+          "id": "2026-TX-2026-10-21",
+          "predicted_dem_margin": 6.3228302001953125,
+          "q_democrat": 0.8540139198303223
+        }
+      ],
+      "parameter_l2_change_last_seed_at_max_epoch": 5.339600777975836
+    },
+    "numeric_image": {
+      "trainable_parameters": 81,
+      "selected_epoch": 50,
+      "selection": "2022 race-level margin RMSE only",
+      "validation_grid": [
+        {
+          "epoch": 50,
+          "metrics": {
+            "races": 2,
+            "brier": 0.0015783997439283305,
+            "log_loss": 0.029475160725937526,
+            "accuracy": 1.0,
+            "margin_rmse": 4.84822856142394
+          }
+        },
+        {
+          "epoch": 150,
+          "metrics": {
+            "races": 2,
+            "brier": 0.0016386526784456566,
+            "log_loss": 0.029776876539514552,
+            "accuracy": 1.0,
+            "margin_rmse": 5.395288244276055
+          }
+        },
+        {
+          "epoch": 300,
+          "metrics": {
+            "races": 2,
+            "brier": 0.0016427320803784169,
+            "log_loss": 0.029735276389386646,
+            "accuracy": 1.0,
+            "margin_rmse": 5.661014347420516
+          }
+        }
+      ],
+      "training_trace": [
+        {
+          "seed": 17,
+          "epoch": 1,
+          "weighted_margin_mse": 68.57476830482483
+        },
+        {
+          "seed": 17,
+          "epoch": 50,
+          "weighted_margin_mse": 37.5637024641037
+        },
+        {
+          "seed": 17,
+          "epoch": 150,
+          "weighted_margin_mse": 31.655865907669067
+        },
+        {
+          "seed": 17,
+          "epoch": 300,
+          "weighted_margin_mse": 28.57043445110321
+        },
+        {
+          "seed": 29,
+          "epoch": 1,
+          "weighted_margin_mse": 72.18587398529053
+        },
+        {
+          "seed": 29,
+          "epoch": 50,
+          "weighted_margin_mse": 36.97581887245178
+        },
+        {
+          "seed": 29,
+          "epoch": 150,
+          "weighted_margin_mse": 31.628134846687317
+        },
+        {
+          "seed": 29,
+          "epoch": 300,
+          "weighted_margin_mse": 31.29737675189972
+        },
+        {
+          "seed": 43,
+          "epoch": 1,
+          "weighted_margin_mse": 108.04392099380493
+        },
+        {
+          "seed": 43,
+          "epoch": 50,
+          "weighted_margin_mse": 39.997607469558716
+        },
+        {
+          "seed": 43,
+          "epoch": 150,
+          "weighted_margin_mse": 33.01588296890259
+        },
+        {
+          "seed": 43,
+          "epoch": 300,
+          "weighted_margin_mse": 31.478118896484375
+        }
+      ],
+      "validation": {
+        "races": 2,
+        "brier": 0.0015783997439283305,
+        "log_loss": 0.029475160725937526,
+        "accuracy": 1.0,
+        "margin_rmse": 4.84822856142394
+      },
+      "test": {
+        "races": 3,
+        "brier": 0.505393641670923,
+        "log_loss": 1.2792088635835859,
+        "accuracy": 0.0,
+        "margin_rmse": 4.168343201900148
+      },
+      "validation_predictions": [
+        {
+          "race": "2022-CT",
+          "year": 2022,
+          "latest_publication": "2022-10-24",
+          "predicted_dem_margin": 9.526368975639343,
+          "actual_dem_margin": 14.916649931299,
+          "q_democrat": 0.9438260890663992,
+          "cases": [
+            "2022-CT-2022-10-24"
+          ]
+        },
+        {
+          "race": "2022-NY",
+          "year": 2022,
+          "latest_publication": "2022-10-13",
+          "predicted_dem_margin": 18.312463760375977,
+          "actual_dem_margin": 14.075069326686034,
+          "q_democrat": 0.9988636821393003,
+          "cases": [
+            "2022-NY-2022-10-13"
+          ]
+        }
+      ],
+      "test_predictions": [
+        {
+          "race": "2024-MI",
+          "year": 2024,
+          "latest_publication": "2024-10-09",
+          "predicted_dem_margin": -5.7368069887161255,
+          "actual_dem_margin": 0.3515485263113892,
+          "q_democrat": 0.16950214379214784,
+          "cases": [
+            "2024-MI-2024-10-09"
+          ]
+        },
+        {
+          "race": "2024-PA",
+          "year": 2024,
+          "latest_publication": "2024-10-09",
+          "predicted_dem_margin": 2.7133938670158386,
+          "actual_dem_margin": -0.2228208993178275,
+          "q_democrat": 0.6744491833135146,
+          "cases": [
+            "2024-PA-2024-10-09"
+          ]
+        },
+        {
+          "race": "2024-WI",
+          "year": 2024,
+          "latest_publication": "2024-10-09",
+          "predicted_dem_margin": -1.669151782989502,
+          "actual_dem_margin": 0.8677410241822398,
+          "q_democrat": 0.3904325017074287,
+          "cases": [
+            "2024-WI-2024-10-09"
+          ]
+        }
+      ],
+      "current_research_predictions": [
+        {
+          "id": "2026-TX-2026-10-21",
+          "predicted_dem_margin": 4.319254398345947,
+          "q_democrat": 0.7641992568969727
+        }
+      ],
+      "parameter_l2_change_last_seed_at_max_epoch": 5.267969662178161
+    },
+    "multimodal": {
+      "trainable_parameters": 113,
+      "selected_epoch": 300,
+      "selection": "2022 race-level margin RMSE only",
+      "validation_grid": [
+        {
+          "epoch": 50,
+          "metrics": {
+            "races": 2,
+            "brier": 0.0014949228258819697,
+            "log_loss": 0.028660357919863686,
+            "accuracy": 1.0,
+            "margin_rmse": 4.828932847352906
+          }
+        },
+        {
+          "epoch": 150,
+          "metrics": {
+            "races": 2,
+            "brier": 0.0016000592351784213,
+            "log_loss": 0.030350684891775198,
+            "accuracy": 1.0,
+            "margin_rmse": 4.289450532494509
+          }
+        },
+        {
+          "epoch": 300,
+          "metrics": {
+            "races": 2,
+            "brier": 0.00163222064304464,
+            "log_loss": 0.030920412314769944,
+            "accuracy": 1.0,
+            "margin_rmse": 4.188516526297047
+          }
+        }
+      ],
+      "training_trace": [
+        {
+          "seed": 17,
+          "epoch": 1,
+          "weighted_margin_mse": 83.30457210540771
+        },
+        {
+          "seed": 17,
+          "epoch": 50,
+          "weighted_margin_mse": 30.82684874534607
+        },
+        {
+          "seed": 17,
+          "epoch": 150,
+          "weighted_margin_mse": 22.6522296667099
+        },
+        {
+          "seed": 17,
+          "epoch": 300,
+          "weighted_margin_mse": 22.052396833896637
+        },
+        {
+          "seed": 29,
+          "epoch": 1,
+          "weighted_margin_mse": 76.97084546089172
+        },
+        {
+          "seed": 29,
+          "epoch": 50,
+          "weighted_margin_mse": 32.15235769748688
+        },
+        {
+          "seed": 29,
+          "epoch": 150,
+          "weighted_margin_mse": 22.250896692276
+        },
+        {
+          "seed": 29,
+          "epoch": 300,
+          "weighted_margin_mse": 22.004041075706482
+        },
+        {
+          "seed": 43,
+          "epoch": 1,
+          "weighted_margin_mse": 80.45353293418884
+        },
+        {
+          "seed": 43,
+          "epoch": 50,
+          "weighted_margin_mse": 31.34109675884247
+        },
+        {
+          "seed": 43,
+          "epoch": 150,
+          "weighted_margin_mse": 26.285061240196228
+        },
+        {
+          "seed": 43,
+          "epoch": 300,
+          "weighted_margin_mse": 25.913432240486145
+        }
+      ],
+      "validation": {
+        "races": 2,
+        "brier": 0.00163222064304464,
+        "log_loss": 0.030920412314769944,
+        "accuracy": 1.0,
+        "margin_rmse": 4.188516526297047
+      },
+      "test": {
+        "races": 3,
+        "brier": 0.5915145583966244,
+        "log_loss": 1.5214916950554336,
+        "accuracy": 0.0,
+        "margin_rmse": 5.237954517643757
+      },
+      "validation_predictions": [
+        {
+          "race": "2022-CT",
+          "year": 2022,
+          "latest_publication": "2022-10-24",
+          "predicted_dem_margin": 9.480099081993103,
+          "actual_dem_margin": 14.916649931299,
+          "q_democrat": 0.9429484576315492,
+          "cases": [
+            "2022-CT-2022-10-24"
+          ]
+        },
+        {
+          "race": "2022-NY",
+          "year": 2022,
+          "latest_publication": "2022-10-13",
+          "predicted_dem_margin": 16.426931619644165,
+          "actual_dem_margin": 14.075069326686034,
+          "q_democrat": 0.9969076223597132,
+          "cases": [
+            "2022-NY-2022-10-13"
+          ]
+        }
+      ],
+      "test_predictions": [
+        {
+          "race": "2024-MI",
+          "year": 2024,
+          "latest_publication": "2024-10-09",
+          "predicted_dem_margin": -5.617448687553406,
+          "actual_dem_margin": 0.3515485263113892,
+          "q_democrat": 0.17457444364127128,
+          "cases": [
+            "2024-MI-2024-10-09"
+          ]
+        },
+        {
+          "race": "2024-PA",
+          "year": 2024,
+          "latest_publication": "2024-10-09",
+          "predicted_dem_margin": 6.075434684753418,
+          "actual_dem_margin": -0.2228208993178275,
+          "q_democrat": 0.8443677870667685,
+          "cases": [
+            "2024-PA-2024-10-09"
+          ]
+        },
+        {
+          "race": "2024-WI",
+          "year": 2024,
+          "latest_publication": "2024-10-09",
+          "predicted_dem_margin": -1.7801924049854279,
+          "actual_dem_margin": 0.8677410241822398,
+          "q_democrat": 0.3833482617686669,
+          "cases": [
+            "2024-WI-2024-10-09"
+          ]
+        }
+      ],
+      "current_research_predictions": [
+        {
+          "id": "2026-TX-2026-10-21",
+          "predicted_dem_margin": 2.254239797592163,
+          "q_democrat": 0.6464325189590454
+        }
+      ],
+      "modality_sensitivity": {
+        "image_masked_mean_abs_margin_change": 1.136867642402649,
+        "text_masked_mean_abs_margin_change": 0.9878396987915039
+      },
+      "parameter_l2_change_last_seed_at_max_epoch": 4.486603803555453
+    }
+  },
+  "runtime_seconds": 0.799,
+  "promotion": {
+    "promoted": false,
+    "minimum_holdout_races": 20,
+    "reasons": [
+      "The holdout is smaller than 20 independent race outcomes.",
+      "2026 has a new publisher/layout; broad calibration and tail validation are unfinished.",
+      "On this holdout, the multimodal network is worse than the matched numeric-only network on Brier score and margin RMSE."
+    ],
+    "multimodal_minus_numeric_brier": 0.1569341475099248,
+    "multimodal_minus_numeric_rmse": 2.0583702540099185
+  },
+  "artifacts": {
+    "multimodal-seed17.safetensors": "235a74a53dd67ef8b5d94d95debb3e5bad82d851a56fef1eb52141fd9a641ffc",
+    "multimodal-seed29.safetensors": "b1771271bf1a186a7755a4060d6bd4373ec24fd994250f11b72bcaf1e3aa0663",
+    "multimodal-seed43.safetensors": "a4253c414bed8e23da91a190d4e4574fb6b8179dda4c53ac16265c3b3c31295c",
+    "numeric-seed17.safetensors": "9bd02dff87100d86e8b95484de9d52292a3d93e203a998c6ee434583bd0fbb2e",
+    "numeric-seed29.safetensors": "366db921d17c964938a6c5997d95fdf93c913b69792cfb791ea3188c338a0cf7",
+    "numeric-seed43.safetensors": "04aea60a48f2c84728ce89c9a4cf9894d7fdcfb21c111d04de8324c742087f8c",
+    "numeric_image-seed17.safetensors": "36aa35279c0b38f2fd7698ac495f57bfbddb442b1db41991748e1aa21f0468fd",
+    "numeric_image-seed29.safetensors": "78706f8196a6b0e208daa8370d52110d5a5dc44f97183a7775ed251a52a48cf4",
+    "numeric_image-seed43.safetensors": "005a4edbd8f03c00656d1825e69e1ee2eea341a39250efedcb84ab62e01f90b6",
+    "numeric_text-seed17.safetensors": "5b3cf897a7929b2e33b26de95314f325f8d33659f8da1dd379d2a1088efef74e",
+    "numeric_text-seed29.safetensors": "d266e53e59c5efc63b90ec20413677110d8900ad5cbb8342795ba78a34c8ea0b",
+    "numeric_text-seed43.safetensors": "2c8d3f81dafbeac4eb51f957dc565f0b6531b845a3136d4881437343644c34b4",
+    "preprocessing.npz": "fbbf2584977b46227bf380ba93a4dbf157b49590d82e4ed8075782936acccebc"
+  }
+}

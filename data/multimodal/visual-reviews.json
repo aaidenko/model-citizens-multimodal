@@ -1,0 +1,413 @@
+[
+  {
+    "id": "2014-CO-2014-10-16",
+    "pdf_sha256": "de3b304bf4370b51ea2255d1a62325929f7f95ce60d8f5cff114dc365cf0e836",
+    "page": 3,
+    "crop": [
+      0,
+      53.11,
+      612.0,
+      383.0
+    ],
+    "dem_poll": 41,
+    "rep_poll": 47,
+    "reviewed_at": "2026-10-21T22:36:49.829096+00:00",
+    "reviewer": "Codex, AI-assisted visual inspection",
+    "passed": true
+  },
+  {
+    "id": "2014-IA-2014-10-15",
+    "pdf_sha256": "aabb8972185ee74c50fc69eefcc8afb8ef17049071fc2e64be08cd5ed1714255",
+    "page": 5,
+    "crop": [
+      0,
+      30.43,
+      612.0,
+      348.92
+    ],
+    "dem_poll": 45,
+    "rep_poll": 47,
+    "reviewed_at": "2026-10-21T22:36:49.829349+00:00",
+    "reviewer": "Codex, AI-assisted visual inspection",
+    "passed": true
+  },
+  {
+    "id": "2014-NJ-2014-10-02",
+    "pdf_sha256": "44b0dc6630f332a64a1c422dd5548718c5a75626407d0b48b7f02538e2a5e22a",
+    "page": 3,
+    "crop": [
+      0,
+      30.43,
+      612.0,
+      179.09
+    ],
+    "dem_poll": 51,
+    "rep_poll": 40,
+    "reviewed_at": "2026-10-21T22:36:49.829352+00:00",
+    "reviewer": "Codex, AI-assisted visual inspection",
+    "passed": true
+  },
+  {
+    "id": "2014-VA-2014-09-25",
+    "pdf_sha256": "6e04e32e042f9096ad203ec471ef707fc361d69ecfd0a43c5f8c7cb0f486f62b",
+    "page": 3,
+    "crop": [
+      0,
+      30.43,
+      612.0,
+      190.37
+    ],
+    "dem_poll": 48,
+    "rep_poll": 39,
+    "reviewed_at": "2026-10-21T22:36:49.829353+00:00",
+    "reviewer": "Codex, AI-assisted visual inspection",
+    "passed": true
+  },
+  {
+    "id": "2016-CO-2016-10-18",
+    "pdf_sha256": "bf54aa7b5498c53bf76251659a4b9d043e3cb21ffc1cc2d9445fe7a0166eb006",
+    "page": 4,
+    "crop": [
+      0,
+      59.71,
+      612.0,
+      196.97
+    ],
+    "dem_poll": 56,
+    "rep_poll": 38,
+    "reviewed_at": "2026-10-21T22:36:49.829355+00:00",
+    "reviewer": "Codex, AI-assisted visual inspection",
+    "passed": true
+  },
+  {
+    "id": "2016-FL-2016-10-18",
+    "pdf_sha256": "bf54aa7b5498c53bf76251659a4b9d043e3cb21ffc1cc2d9445fe7a0166eb006",
+    "page": 4,
+    "crop": [
+      0,
+      206.97,
+      612.0,
+      344.24
+    ],
+    "dem_poll": 47,
+    "rep_poll": 49,
+    "reviewed_at": "2026-10-21T22:36:49.829357+00:00",
+    "reviewer": "Codex, AI-assisted visual inspection",
+    "passed": true
+  },
+  {
+    "id": "2016-GA-2016-09-23",
+    "pdf_sha256": "39eab3355e3192014577a52994fbeeb3a9569585976ab634ff796de024444612",
+    "page": 3,
+    "crop": [
+      0,
+      291.0,
+      612.0,
+      541.54
+    ],
+    "dem_poll": 34,
+    "rep_poll": 55,
+    "reviewed_at": "2026-10-21T22:36:49.829359+00:00",
+    "reviewer": "Codex, AI-assisted visual inspection",
+    "passed": true
+  },
+  {
+    "id": "2016-IA-2016-09-23",
+    "pdf_sha256": "39eab3355e3192014577a52994fbeeb3a9569585976ab634ff796de024444612",
+    "page": 3,
+    "crop": [
+      0,
+      551.54,
+      612.0,
+      711.49
+    ],
+    "dem_poll": 43,
+    "rep_poll": 55,
+    "reviewed_at": "2026-10-21T22:36:49.829360+00:00",
+    "reviewer": "Codex, AI-assisted visual inspection",
+    "passed": true
+  },
+  {
+    "id": "2016-NC-2016-10-05",
+    "pdf_sha256": "29456dbdc6e38f36cf9602cbfd5ee8178f87ff4f0bb2b4fe8427a5c573255538",
+    "page": 4,
+    "crop": [
+      0,
+      215.01,
+      612.0,
+      374.96
+    ],
+    "dem_poll": 46,
+    "rep_poll": 46,
+    "reviewed_at": "2026-10-21T22:36:49.829362+00:00",
+    "reviewer": "Codex, AI-assisted visual inspection",
+    "passed": true
+  },
+  {
+    "id": "2016-OH-2016-10-18",
+    "pdf_sha256": "bf54aa7b5498c53bf76251659a4b9d043e3cb21ffc1cc2d9445fe7a0166eb006",
+    "page": 4,
+    "crop": [
+      0,
+      354.36,
+      612.0,
+      502.9
+    ],
+    "dem_poll": 41,
+    "rep_poll": 54,
+    "reviewed_at": "2026-10-21T22:36:49.829363+00:00",
+    "reviewer": "Codex, AI-assisted visual inspection",
+    "passed": true
+  },
+  {
+    "id": "2016-PA-2016-10-18",
+    "pdf_sha256": "bf54aa7b5498c53bf76251659a4b9d043e3cb21ffc1cc2d9445fe7a0166eb006",
+    "page": 4,
+    "crop": [
+      0,
+      512.9,
+      612.0,
+      650.17
+    ],
+    "dem_poll": 45,
+    "rep_poll": 49,
+    "reviewed_at": "2026-10-21T22:36:49.829364+00:00",
+    "reviewer": "Codex, AI-assisted visual inspection",
+    "passed": true
+  },
+  {
+    "id": "2018-CT-2018-10-10",
+    "pdf_sha256": "3af29b2493027390aabfe8b5a3ae97b9f080f9061e7c115b0db2473af684e0d7",
+    "page": 5,
+    "crop": [
+      0,
+      279.72,
+      612.0,
+      541.57
+    ],
+    "dem_poll": 57,
+    "rep_poll": 42,
+    "reviewed_at": "2026-10-21T22:36:49.829366+00:00",
+    "reviewer": "Codex, AI-assisted visual inspection",
+    "passed": true
+  },
+  {
+    "id": "2018-FL-2018-10-22",
+    "pdf_sha256": "6aeb1746e2bf8dbc882c538e7734bfc88c82460f2dace268838066b02651a0a9",
+    "page": 3,
+    "crop": [
+      0,
+      30.43,
+      612.0,
+      586.93
+    ],
+    "dem_poll": 52,
+    "rep_poll": 46,
+    "reviewed_at": "2026-10-21T22:36:49.829367+00:00",
+    "reviewer": "Codex, AI-assisted visual inspection",
+    "passed": true
+  },
+  {
+    "id": "2018-NJ-2018-10-17",
+    "pdf_sha256": "795764195d07dc02f59f9ca2fb1517f7ca69e4a9b9a216fb428a03a8e057c2d7",
+    "page": 3,
+    "crop": [
+      0,
+      30.43,
+      612.0,
+      586.93
+    ],
+    "dem_poll": 51,
+    "rep_poll": 44,
+    "reviewed_at": "2026-10-21T22:36:49.829368+00:00",
+    "reviewer": "Codex, AI-assisted visual inspection",
+    "passed": true
+  },
+  {
+    "id": "2018-TX-2018-10-11",
+    "pdf_sha256": "6c8be5209fff74b4b0a2870605732d537d27e03d454c812e63ee72b57bbb0cc6",
+    "page": 5,
+    "crop": [
+      0,
+      30.43,
+      612.0,
+      496.3
+    ],
+    "dem_poll": 45,
+    "rep_poll": 54,
+    "reviewed_at": "2026-10-21T22:36:49.829369+00:00",
+    "reviewer": "Codex, AI-assisted visual inspection",
+    "passed": true
+  },
+  {
+    "id": "2020-IA-2020-10-07",
+    "pdf_sha256": "846c73980fad651bccc7aada91bdb33e291adb90664c6e71e18d7ba52bf36205",
+    "page": 3,
+    "crop": [
+      0,
+      30.2,
+      612.0,
+      292.14
+    ],
+    "dem_poll": 50,
+    "rep_poll": 45,
+    "reviewed_at": "2026-10-21T22:36:49.829371+00:00",
+    "reviewer": "Codex, AI-assisted visual inspection",
+    "passed": true
+  },
+  {
+    "id": "2020-KY-2020-09-16",
+    "pdf_sha256": "0c250659f4965ba3875e1f224616321ce59452d0d94a75f9993a430313acc4a0",
+    "page": 3,
+    "crop": [
+      0,
+      30.2,
+      612.0,
+      394.08
+    ],
+    "dem_poll": 41,
+    "rep_poll": 53,
+    "reviewed_at": "2026-10-21T22:36:49.829372+00:00",
+    "reviewer": "Codex, AI-assisted visual inspection",
+    "passed": true
+  },
+  {
+    "id": "2020-ME-2020-09-16",
+    "pdf_sha256": "66c59f628fc1617baa941ede267d21aae093df436c727f1516761c89d421f293",
+    "page": 3,
+    "crop": [
+      0,
+      30.2,
+      612.0,
+      394.08
+    ],
+    "dem_poll": 54,
+    "rep_poll": 42,
+    "reviewed_at": "2026-10-21T22:36:49.829374+00:00",
+    "reviewer": "Codex, AI-assisted visual inspection",
+    "passed": true
+  },
+  {
+    "id": "2020-SC-2020-09-30",
+    "pdf_sha256": "77e766f02b0cfc4ec064f1b3e3c2d36b6ce0776ad6db40267ca74c7c1d38802d",
+    "page": 5,
+    "crop": [
+      0,
+      30.2,
+      612.0,
+      394.08
+    ],
+    "dem_poll": 48,
+    "rep_poll": 48,
+    "reviewed_at": "2026-10-21T22:36:49.829375+00:00",
+    "reviewer": "Codex, AI-assisted visual inspection",
+    "passed": true
+  },
+  {
+    "id": "2020-TX-2020-09-24",
+    "pdf_sha256": "09721de5e35b0a739442ff2758c293f9ae839e7c4139a3b7f732d4849789ee08",
+    "page": 3,
+    "crop": [
+      0,
+      30.2,
+      612.0,
+      292.14
+    ],
+    "dem_poll": 42,
+    "rep_poll": 50,
+    "reviewed_at": "2026-10-21T22:36:49.829376+00:00",
+    "reviewer": "Codex, AI-assisted visual inspection",
+    "passed": true
+  },
+  {
+    "id": "2022-CT-2022-10-24",
+    "pdf_sha256": "07b3c12c63a120ff1e30104d9c09fb52562ff5d923c1cb5a5df951652f3242c2",
+    "page": 4,
+    "crop": [
+      0,
+      30.19,
+      612.0,
+      303.44
+    ],
+    "dem_poll": 56,
+    "rep_poll": 41,
+    "reviewed_at": "2026-10-21T22:36:49.829377+00:00",
+    "reviewer": "Codex, AI-assisted visual inspection",
+    "passed": true
+  },
+  {
+    "id": "2024-MI-2024-10-09",
+    "pdf_sha256": "d801fe0ee8283cb4c555f082ee19748736dc0a042485816cd5950d688f455a5e",
+    "page": 3,
+    "crop": [
+      0,
+      191.64,
+      612.0,
+      473.41
+    ],
+    "dem_poll": 48,
+    "rep_poll": 48,
+    "reviewed_at": "2026-10-21T22:36:49.829379+00:00",
+    "reviewer": "Codex, AI-assisted visual inspection",
+    "passed": true
+  },
+  {
+    "id": "2024-PA-2024-10-09",
+    "pdf_sha256": "bcc6f03ec67806505f15a2408ae0549b33bc70e229f66b6bcd70aa23a30cb632",
+    "page": 3,
+    "crop": [
+      0,
+      211.41,
+      612.0,
+      507.34
+    ],
+    "dem_poll": 51,
+    "rep_poll": 43,
+    "reviewed_at": "2026-10-21T22:36:49.829380+00:00",
+    "reviewer": "Codex, AI-assisted visual inspection",
+    "passed": true
+  },
+  {
+    "id": "2024-WI-2024-10-09",
+    "pdf_sha256": "5d72b86c2ac293e89c8df120a57f24ef4657534bd70a9cb13eb1928611085cfa",
+    "page": 3,
+    "crop": [
+      0,
+      191.64,
+      612.0,
+      473.41
+    ],
+    "dem_poll": 50,
+    "rep_poll": 46,
+    "reviewed_at": "2026-10-21T22:36:49.829381+00:00",
+    "reviewer": "Codex, AI-assisted visual inspection",
+    "passed": true
+  },
+  {
+    "id": "2022-NY-2022-10-13",
+    "pdf_sha256": "26f25f56efe7cf04faecd0991bc05fc476895b4141e8365e9aa6deb06bfbea9a",
+    "page": 6,
+    "crop": [
+      0,
+      0,
+      590,
+      530
+    ],
+    "dem_poll": 52,
+    "rep_poll": 39,
+    "reviewed_at": "2026-10-21T22:36:49.829383+00:00",
+    "reviewer": "Codex, AI-assisted visual inspection",
+    "passed": true
+  },
+  {
+    "id": "2026-TX-2026-10-21",
+    "pdf_sha256": "efe6e98f3e9ce3b316bd9785cf869e505b971c45e3e4ac38b78a514b2eb8b0ff",
+    "page": 6,
+    "crop": null,
+    "dem_poll": 48,
+    "rep_poll": 46,
+    "reviewed_at": "2026-10-21T22:36:49.829384+00:00",
+    "reviewer": "Codex, AI-assisted visual inspection",
+    "passed": true
+  }
+]

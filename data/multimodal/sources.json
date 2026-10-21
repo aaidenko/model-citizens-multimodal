@@ -1,0 +1,650 @@
+[
+  {
+    "url": "https://poll.qu.edu/images/polling/pa/pa10302024_pece24.pdf",
+    "release_url": "https://poll.qu.edu/poll-release?releaseid=3916",
+    "published_date": "2024-10-30",
+    "year": 2024,
+    "path": "data/multimodal/raw/65c939c461c6550e.pdf",
+    "sha256": "86e9668e2e6c3cde80ab6b76df7b27aba3fc2e37189f49e90937baa663f69fae",
+    "retrieved_at": "2026-10-21T22:26:57.528328+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/images/polling/mi/mi10232024_spbj87.pdf",
+    "release_url": "https://poll.qu.edu/poll-release?releaseid=3915",
+    "published_date": "2024-10-23",
+    "year": 2024,
+    "path": "data/multimodal/raw/e7ef5946e93684f9.pdf",
+    "sha256": "f9cdace19ac1c0abc4c9938612e7986582be1a01808e72e22323f7d82d611481",
+    "retrieved_at": "2026-10-21T22:26:57.444986+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/images/polling/mi/mi10232024_crosstabs_spbj87.pdf",
+    "release_url": "https://poll.qu.edu/poll-release?releaseid=3915",
+    "published_date": "2024-10-23",
+    "year": 2024,
+    "path": "data/multimodal/raw/38012d9204527fa2.pdf",
+    "sha256": "86056fff407ca69fa4ecf2c7a265b34ed58b53e1b8328d83f47b64be16227449",
+    "retrieved_at": "2026-10-21T22:26:57.420825+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/images/polling/wi/wi10232024_crosstabs_spbj87.pdf",
+    "release_url": "https://poll.qu.edu/poll-release?releaseid=3915",
+    "published_date": "2024-10-23",
+    "year": 2024,
+    "path": "data/multimodal/raw/13d7e46fce1b7ade.pdf",
+    "sha256": "3eed93321778719afbbd9144ac9e4400de55fd5fa26353e8759939f4d5f2376e",
+    "retrieved_at": "2026-10-21T22:27:00.717436+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/images/polling/mi/mi10092024_szjw90.pdf",
+    "release_url": "https://poll.qu.edu/poll-release?releaseid=3913",
+    "published_date": "2024-10-09",
+    "year": 2024,
+    "path": "data/multimodal/raw/41b8e018171bd947.pdf",
+    "sha256": "55931bfcf4a2afbb89246a38ad0439b175aa6514bf01a759abc8b4578e98dc4d",
+    "retrieved_at": "2026-10-21T22:27:00.886105+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/images/polling/mi/mi10092024_crosstabs_szjw90.pdf",
+    "release_url": "https://poll.qu.edu/poll-release?releaseid=3913",
+    "published_date": "2024-10-09",
+    "year": 2024,
+    "path": "data/multimodal/raw/1bc00472b699a091.pdf",
+    "sha256": "d801fe0ee8283cb4c555f082ee19748736dc0a042485816cd5950d688f455a5e",
+    "retrieved_at": "2026-10-21T22:27:00.804906+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/images/polling/pa/pa10092024_crosstabs_szjw90.pdf",
+    "release_url": "https://poll.qu.edu/poll-release?releaseid=3913",
+    "published_date": "2024-10-09",
+    "year": 2024,
+    "path": "data/multimodal/raw/e3a59c7633573757.pdf",
+    "sha256": "bcc6f03ec67806505f15a2408ae0549b33bc70e229f66b6bcd70aa23a30cb632",
+    "retrieved_at": "2026-10-21T22:27:04.302899+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/images/polling/wi/wi10092024_crosstabs_szjw90.pdf",
+    "release_url": "https://poll.qu.edu/poll-release?releaseid=3913",
+    "published_date": "2024-10-09",
+    "year": 2024,
+    "path": "data/multimodal/raw/86612ffc16615b5c.pdf",
+    "sha256": "5d72b86c2ac293e89c8df120a57f24ef4657534bd70a9cb13eb1928611085cfa",
+    "retrieved_at": "2026-10-21T22:27:04.331391+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/images/polling/mi/mi09182024_swmf64.pdf",
+    "release_url": "https://poll.qu.edu/poll-release?releaseid=3905",
+    "published_date": "2024-09-18",
+    "year": 2024,
+    "path": "data/multimodal/raw/3b35a01da92143ac.pdf",
+    "sha256": "230703e88769a783270494d9f1fbc9d9a21e1906fc5907c27c0ae184ab1a09c2",
+    "retrieved_at": "2026-10-21T22:27:04.414084+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/images/polling/mi/mi09182024_crosstabs_swmf64.pdf",
+    "release_url": "https://poll.qu.edu/poll-release?releaseid=3905",
+    "published_date": "2024-09-18",
+    "year": 2024,
+    "path": "data/multimodal/raw/c343688c80b92907.pdf",
+    "sha256": "bfdc3f846866fa27c7f80e8e4c904206dfe30fbe9e962b1ce229802fe2ca8142",
+    "retrieved_at": "2026-10-21T22:27:08.436672+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/images/polling/pa/pa09182024_crosstabs_swmf64.pdf",
+    "release_url": "https://poll.qu.edu/poll-release?releaseid=3905",
+    "published_date": "2024-09-18",
+    "year": 2024,
+    "path": "data/multimodal/raw/7a1ce298656e8f7d.pdf",
+    "sha256": "7fef61c4a5403e7d38a2c367f1d69ba5bf726215f2e0dbc7f4ff147e170c61a2",
+    "retrieved_at": "2026-10-21T22:27:08.433274+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/images/polling/wi/wi09182024_crosstabs_swmf64.pdf",
+    "release_url": "https://poll.qu.edu/poll-release?releaseid=3905",
+    "published_date": "2024-09-18",
+    "year": 2024,
+    "path": "data/multimodal/raw/b55a5bec3cf02cf6.pdf",
+    "sha256": "72e47e97f29fb1da33a409d4d4cd260a29b5c19b4fba0e9c8b7f930ec7003386",
+    "retrieved_at": "2026-10-21T22:27:08.354091+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/images/polling/pa/pa08142024_ppuf30.pdf",
+    "release_url": "https://poll.qu.edu/poll-release?releaseid=3902",
+    "published_date": "2024-08-14",
+    "year": 2024,
+    "path": "data/multimodal/raw/331988b1950fb725.pdf",
+    "sha256": "91f9d533e82dc6124cee553cb20babf852cd3520a4e942e8f15aff50a88e5997",
+    "retrieved_at": "2026-10-21T22:27:11.734842+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/images/polling/ct/ct10242022_cmos63.pdf",
+    "release_url": "https://poll.qu.edu/poll-release?releaseid=3860",
+    "published_date": "2022-10-24",
+    "year": 2022,
+    "path": "data/multimodal/raw/c2ef0ab4f4347b30.pdf",
+    "sha256": "07b3c12c63a120ff1e30104d9c09fb52562ff5d923c1cb5a5df951652f3242c2",
+    "retrieved_at": "2026-10-21T22:27:11.747007+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/images/polling/ga/ga10122022_glmf25.pdf",
+    "release_url": "https://poll.qu.edu/poll-release?releaseid=3858",
+    "published_date": "2022-10-12",
+    "year": 2022,
+    "path": "data/multimodal/raw/386236ef49294c6a.pdf",
+    "sha256": "f8a36bffb8c357d5c1414599b998d23d348d5064d603f3a36aa54a54ce0f8c00",
+    "retrieved_at": "2026-10-21T22:27:11.752251+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/images/polling/ct/ct09212022_cujw27.pdf",
+    "release_url": "https://poll.qu.edu/poll-release?releaseid=3856",
+    "published_date": "2022-09-21",
+    "year": 2022,
+    "path": "data/multimodal/raw/024f07f8bfb274e0.pdf",
+    "sha256": "5b7e207d94901172adee9355559f643a3fe5c4ee35b5cd6d8c28020c2e50cb52",
+    "retrieved_at": "2026-10-21T22:27:15.389009+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/images/polling/ga/ga09142022_gfmc19.pdf",
+    "release_url": "https://poll.qu.edu/poll-release?releaseid=3855",
+    "published_date": "2022-09-14",
+    "year": 2022,
+    "path": "data/multimodal/raw/1be76a6f32c4058c.pdf",
+    "sha256": "10fa2e9f97aa921589b343c2b80c1bbc909ef1d1e7f2b162ec782f5426136e09",
+    "retrieved_at": "2026-10-21T22:27:15.466449+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/images/polling/ga/ga10142020_bgwc96.pdf",
+    "release_url": "https://poll.qu.edu/poll-release?releaseid=3801",
+    "published_date": "2020-10-14",
+    "year": 2020,
+    "path": "data/multimodal/raw/c914ad0dbdd55882.pdf",
+    "sha256": "1f788993b4a42e1a9ace50ffa6eace015b458ee88473dd5a69eaccc362401891",
+    "retrieved_at": "2026-10-21T22:27:15.466598+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/images/polling/ga/ga10142020_crosstabs_bgwc96.pdf",
+    "release_url": "https://poll.qu.edu/poll-release?releaseid=3801",
+    "published_date": "2020-10-14",
+    "year": 2020,
+    "path": "data/multimodal/raw/36f5b3d04ed8925b.pdf",
+    "sha256": "81cb26987c1ce445799fd4da427b727fadbb7f6e1345cd6d3e7506ee1992a2ac",
+    "retrieved_at": "2026-10-21T22:27:18.548296+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/images/polling/oh/oh10142020_crosstabs_bgwc96.pdf",
+    "release_url": "https://poll.qu.edu/poll-release?releaseid=3801",
+    "published_date": "2020-10-14",
+    "year": 2020,
+    "path": "data/multimodal/raw/72b81f7376679f3c.pdf",
+    "sha256": "56eb89f8073a40ba984bfd324ca2f4708cb384fb52bb0d6bd250a5b40615826b",
+    "retrieved_at": "2026-10-21T22:27:18.497289+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/images/polling/fl/fl10072020_bgny70.pdf",
+    "release_url": "https://poll.qu.edu/poll-release?releaseid=3743",
+    "published_date": "2020-10-07",
+    "year": 2020,
+    "path": "data/multimodal/raw/f1cc80f24ecacb8f.pdf",
+    "sha256": "611cd4653a73f5942b370322d4b648d33eb2103ae7d865a14a27499e491e7006",
+    "retrieved_at": "2026-10-21T22:27:18.680401+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/images/polling/fl/fl10072020_crosstabs_bgny70.pdf",
+    "release_url": "https://poll.qu.edu/poll-release?releaseid=3743",
+    "published_date": "2020-10-07",
+    "year": 2020,
+    "path": "data/multimodal/raw/d99960d33ed8c2d9.pdf",
+    "sha256": "96b40fc39d4418544b5b86d2fb6e68099f94e3eb67ec63624692601429bf84cb",
+    "retrieved_at": "2026-10-21T22:27:21.882269+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/images/polling/ia/ia10072020_crosstabs_bgny70.pdf",
+    "release_url": "https://poll.qu.edu/poll-release?releaseid=3743",
+    "published_date": "2020-10-07",
+    "year": 2020,
+    "path": "data/multimodal/raw/ca198ad208a22086.pdf",
+    "sha256": "846c73980fad651bccc7aada91bdb33e291adb90664c6e71e18d7ba52bf36205",
+    "retrieved_at": "2026-10-21T22:27:21.882144+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/images/polling/pa/pa10072020_crosstabs_bgny70.pdf",
+    "release_url": "https://poll.qu.edu/poll-release?releaseid=3743",
+    "published_date": "2020-10-07",
+    "year": 2020,
+    "path": "data/multimodal/raw/173fc60881801c30.pdf",
+    "sha256": "a92136c16e76f97182cc5b1d40e42b9f71635ff3f630844a7e17b44496bedb46",
+    "retrieved_at": "2026-10-21T22:27:21.867002+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/images/polling/sc/sc09302020_skyg73.pdf",
+    "release_url": "https://poll.qu.edu/poll-release?releaseid=3800",
+    "published_date": "2020-09-30",
+    "year": 2020,
+    "path": "data/multimodal/raw/f9a6f098488d2e5c.pdf",
+    "sha256": "77e766f02b0cfc4ec064f1b3e3c2d36b6ce0776ad6db40267ca74c7c1d38802d",
+    "retrieved_at": "2026-10-21T22:27:25.049474+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/images/polling/ga/ga09292020_gwko66.pdf",
+    "release_url": "https://poll.qu.edu/poll-release?releaseid=3794",
+    "published_date": "2020-09-29",
+    "year": 2020,
+    "path": "data/multimodal/raw/fc233fb7c36d71fe.pdf",
+    "sha256": "016032c87a16e41434af98e0daedc85c6adff93a2794b967fb3d38092da33e7c",
+    "retrieved_at": "2026-10-21T22:27:25.050183+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/images/polling/oh/oh09242020_bgfx53.pdf",
+    "release_url": "https://poll.qu.edu/poll-release?releaseid=3754",
+    "published_date": "2020-09-24",
+    "year": 2020,
+    "path": "data/multimodal/raw/531f409e6048139d.pdf",
+    "sha256": "feabc8a6f96a7d14a70303976304d917e4157c73295a5854bad816ac78fd0fef",
+    "retrieved_at": "2026-10-21T22:27:24.932452+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/images/polling/oh/oh09242020_crosstabs_bgfx53.pdf",
+    "release_url": "https://poll.qu.edu/poll-release?releaseid=3754",
+    "published_date": "2020-09-24",
+    "year": 2020,
+    "path": "data/multimodal/raw/1ecb16bc6365ff13.pdf",
+    "sha256": "de973a1a15b6cf9aca81ffb23c69c2edf8a43b589aa174882cd21d58a00bea4b",
+    "retrieved_at": "2026-10-21T22:27:28.205106+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/images/polling/tx/tx09242020_crosstabs_bgfx53.pdf",
+    "release_url": "https://poll.qu.edu/poll-release?releaseid=3754",
+    "published_date": "2020-09-24",
+    "year": 2020,
+    "path": "data/multimodal/raw/a742765eb6c8053c.pdf",
+    "sha256": "09721de5e35b0a739442ff2758c293f9ae839e7c4139a3b7f732d4849789ee08",
+    "retrieved_at": "2026-10-21T22:27:28.203369+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/images/polling/sc/sc09162020_bgjm67.pdf",
+    "release_url": "https://poll.qu.edu/poll-release?releaseid=3798",
+    "published_date": "2020-09-16",
+    "year": 2020,
+    "path": "data/multimodal/raw/6fc57e837af31d8b.pdf",
+    "sha256": "70cdedb721f3ac9411f9c1985c817fca84638efdf71b6e4d83e98e1ea1f353a9",
+    "retrieved_at": "2026-10-21T22:27:28.282903+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/images/polling/ky/ky09162020_crosstabs_bgjm67.pdf",
+    "release_url": "https://poll.qu.edu/poll-release?releaseid=3798",
+    "published_date": "2020-09-16",
+    "year": 2020,
+    "path": "data/multimodal/raw/788ef541825981a6.pdf",
+    "sha256": "0c250659f4965ba3875e1f224616321ce59452d0d94a75f9993a430313acc4a0",
+    "retrieved_at": "2026-10-21T22:27:32.468434+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/images/polling/me/me09162020_crosstabs_bgjm67.pdf",
+    "release_url": "https://poll.qu.edu/poll-release?releaseid=3798",
+    "published_date": "2020-09-16",
+    "year": 2020,
+    "path": "data/multimodal/raw/cd13bb9fd4ceebb7.pdf",
+    "sha256": "66c59f628fc1617baa941ede267d21aae093df436c727f1516761c89d421f293",
+    "retrieved_at": "2026-10-21T22:27:32.494584+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/images/polling/sc/sc09162020_crosstabs_bgjm67.pdf",
+    "release_url": "https://poll.qu.edu/poll-release?releaseid=3798",
+    "published_date": "2020-09-16",
+    "year": 2020,
+    "path": "data/multimodal/raw/8f9fe3f5ed759676.pdf",
+    "sha256": "30e81e5b998e9adb5de28d9e54816effce2628d9afae53d0170ea92791b09884",
+    "retrieved_at": "2026-10-21T22:27:32.493857+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/images/polling/sc/tri08062020_bgxe21.pdf",
+    "release_url": "https://poll.qu.edu/poll-release?releaseid=3788",
+    "published_date": "2020-08-06",
+    "year": 2020,
+    "path": "data/multimodal/raw/64e239423702fb13.pdf",
+    "sha256": "bd75d5836b50513e0365772df226c48d97f84b13c6bdf138084b606eb6f05f90",
+    "retrieved_at": "2026-10-21T22:27:35.709336+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/images/polling/ky/ky08062020_crosstabs_bgxe21.pdf",
+    "release_url": "https://poll.qu.edu/poll-release?releaseid=3788",
+    "published_date": "2020-08-06",
+    "year": 2020,
+    "path": "data/multimodal/raw/2c2d0f1930e852da.pdf",
+    "sha256": "3da6583aa764933df9592bf0a748ef03efca751cccf694497e2c0f14ad987709",
+    "retrieved_at": "2026-10-21T22:27:35.629552+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/images/polling/me/me08062020_crosstabs_bgxe21.pdf",
+    "release_url": "https://poll.qu.edu/poll-release?releaseid=3788",
+    "published_date": "2020-08-06",
+    "year": 2020,
+    "path": "data/multimodal/raw/272b6692f8b03dc0.pdf",
+    "sha256": "00added61e9df42b03456b5058a76a07a5f7e19bd32ab315c7e82ab6a0188a90",
+    "retrieved_at": "2026-10-21T22:27:35.630430+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/images/polling/sc/sc08062020_crosstabs_bgxe21.pdf",
+    "release_url": "https://poll.qu.edu/poll-release?releaseid=3788",
+    "published_date": "2020-08-06",
+    "year": 2020,
+    "path": "data/multimodal/raw/c668a06e17f96a57.pdf",
+    "sha256": "6176603603880803cd90d0b8e6cb59b23f54a020c47b2a980ea6f644d8d1b828",
+    "retrieved_at": "2026-10-21T22:27:42.855547+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/images/polling/ps/ps11072016.pdf",
+    "release_url": "https://poll.qu.edu/poll-release-legacy?releaseid=2401",
+    "published_date": "2016-11-07",
+    "year": 2016,
+    "path": "data/multimodal/raw/0728ba11e6fd4317.pdf",
+    "sha256": "a963185940ffe76f6ee4383b7111d55443be4c4851333c4aef60fe4e913e2f9e",
+    "retrieved_at": "2026-10-21T22:27:43.000791+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/images/polling/ps/ps11032016_S426wuh.pdf",
+    "release_url": "https://poll.qu.edu/poll-release-legacy?releaseid=2400",
+    "published_date": "2016-11-03",
+    "year": 2016,
+    "path": "data/multimodal/raw/eb022f7b645f219c.pdf",
+    "sha256": "38a3fbdf16089fc8a488043162fead7d1ca3b153cd224c6528435814a87ec7af",
+    "retrieved_at": "2026-10-21T22:27:43.002887+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/images/polling/ps/ps10282016_Sbw72uv.pdf",
+    "release_url": "https://poll.qu.edu/poll-release-legacy?releaseid=2398",
+    "published_date": "2016-10-28",
+    "year": 2016,
+    "path": "data/multimodal/raw/bd9cbe0a4a0f7422.pdf",
+    "sha256": "746d3f82741797d8d447efe435068c138a3cf5e45c447681672ca777ab06ac92",
+    "retrieved_at": "2026-10-21T22:27:47.102212+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/images/polling/ps/ps10182016_St48bum.pdf",
+    "release_url": "https://poll.qu.edu/poll-release-legacy?releaseid=2389",
+    "published_date": "2016-10-18",
+    "year": 2016,
+    "path": "data/multimodal/raw/e0cef76a59c73016.pdf",
+    "sha256": "bf54aa7b5498c53bf76251659a4b9d043e3cb21ffc1cc2d9445fe7a0166eb006",
+    "retrieved_at": "2026-10-21T22:27:47.117263+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/images/polling/ps/ps10052016_Sth68bh.pdf",
+    "release_url": "https://poll.qu.edu/poll-release-legacy?releaseid=2385",
+    "published_date": "2016-10-05",
+    "year": 2016,
+    "path": "data/multimodal/raw/369aca6f210441b8.pdf",
+    "sha256": "29456dbdc6e38f36cf9602cbfd5ee8178f87ff4f0bb2b4fe8427a5c573255538",
+    "retrieved_at": "2026-10-21T22:27:47.116986+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/images/polling/ps/ps09232016_Sqh86by.pdf",
+    "release_url": "https://poll.qu.edu/poll-release-legacy?releaseid=2382",
+    "published_date": "2016-09-23",
+    "year": 2016,
+    "path": "data/multimodal/raw/5fe8e7db280756fe.pdf",
+    "sha256": "39eab3355e3192014577a52994fbeeb3a9569585976ab634ff796de024444612",
+    "retrieved_at": "2026-10-21T22:27:51.233708+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/images/polling/ps/ps09092016_prbt47q.pdf",
+    "release_url": "https://poll.qu.edu/poll-release-legacy?releaseid=2377",
+    "published_date": "2016-09-09",
+    "year": 2016,
+    "path": "data/multimodal/raw/59bb1893c4958a59.pdf",
+    "sha256": "5ed00642614d430fc1e385be297e090ba6393e52092557c2675a569ee88dd500",
+    "retrieved_at": "2026-10-21T22:27:51.160125+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/images/polling/fl/fl09252018_fntj57.pdf",
+    "release_url": "https://poll.qu.edu/poll-release-legacy?releaseid=2572",
+    "published_date": "2018-09-25",
+    "year": 2018,
+    "path": "data/multimodal/raw/2c9858c2b4d2c9a7.pdf",
+    "sha256": "d3a47cc52ea0cf81247a31c92a638f1c90550690461af0c478f08f404ea905f7",
+    "retrieved_at": "2026-10-21T22:31:44.796139+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/images/polling/nj/nj11052018_nhce62.pdf",
+    "release_url": "https://poll.qu.edu/poll-release-legacy?releaseid=2586",
+    "published_date": "2018-11-05",
+    "year": 2018,
+    "path": "data/multimodal/raw/7f85836c2e228f67.pdf",
+    "sha256": "88f7ed980c04f49bc677a3c2445bd54712886e467484b043fae77811b02f71ec",
+    "retrieved_at": "2026-10-21T22:31:44.792853+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/images/polling/fl/fl10222018_fdom21.pdf",
+    "release_url": "https://poll.qu.edu/poll-release-legacy?releaseid=2581",
+    "published_date": "2018-10-22",
+    "year": 2018,
+    "path": "data/multimodal/raw/0b2732e781800be3.pdf",
+    "sha256": "6aeb1746e2bf8dbc882c538e7734bfc88c82460f2dace268838066b02651a0a9",
+    "retrieved_at": "2026-10-21T22:31:44.797648+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/images/polling/tx/tx10112018_tyrf29.pdf",
+    "release_url": "https://poll.qu.edu/poll-release-legacy?releaseid=2578",
+    "published_date": "2018-10-11",
+    "year": 2018,
+    "path": "data/multimodal/raw/0ca18b7f3c9d8121.pdf",
+    "sha256": "6c8be5209fff74b4b0a2870605732d537d27e03d454c812e63ee72b57bbb0cc6",
+    "retrieved_at": "2026-10-21T22:31:48.646755+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/images/polling/nj/nj08222018_ndhy27.pdf",
+    "release_url": "https://poll.qu.edu/poll-release-legacy?releaseid=2563",
+    "published_date": "2018-08-22",
+    "year": 2018,
+    "path": "data/multimodal/raw/7a416208106acadb.pdf",
+    "sha256": "a3d95a9373c34a78dbda21ec66c5485367fbb9aeebfb3a6eb6deb41560efd935",
+    "retrieved_at": "2026-10-21T22:31:48.643003+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/images/polling/nj/nj10172018_nrpv59.pdf",
+    "release_url": "https://poll.qu.edu/poll-release-legacy?releaseid=2579",
+    "published_date": "2018-10-17",
+    "year": 2018,
+    "path": "data/multimodal/raw/2015e19848c52e55.pdf",
+    "sha256": "795764195d07dc02f59f9ca2fb1517f7ca69e4a9b9a216fb428a03a8e057c2d7",
+    "retrieved_at": "2026-10-21T22:31:48.641985+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/images/polling/tx/tx10292018_tjfp53.pdf",
+    "release_url": "https://poll.qu.edu/poll-release-legacy?releaseid=2583",
+    "published_date": "2018-10-29",
+    "year": 2018,
+    "path": "data/multimodal/raw/a1c98eb71213cc2b.pdf",
+    "sha256": "ee2e8104b386c7e6e8d45f9f57d6f2f9d4f0dbadb0a94dd3843e63d4c796e99e",
+    "retrieved_at": "2026-10-21T22:31:52.160604+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/images/polling/ct/ct10102018_cxsi57.pdf",
+    "release_url": "https://poll.qu.edu/poll-release-legacy?releaseid=2577",
+    "published_date": "2018-10-10",
+    "year": 2018,
+    "path": "data/multimodal/raw/bb51d8acae97767f.pdf",
+    "sha256": "3af29b2493027390aabfe8b5a3ae97b9f080f9061e7c115b0db2473af684e0d7",
+    "retrieved_at": "2026-10-21T22:31:52.160514+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/images/polling/tx/tx09182018_tpfn20.pdf",
+    "release_url": "https://poll.qu.edu/poll-release-legacy?releaseid=2570",
+    "published_date": "2018-09-18",
+    "year": 2018,
+    "path": "data/multimodal/raw/cb2644b9151ee1ad.pdf",
+    "sha256": "be1cc4588407727c36040f80e2700febe9c4f237b7d8adcaab334aff95975d5f",
+    "retrieved_at": "2026-10-21T22:31:52.160330+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/images/polling/fl/fl09052018_fjya13.pdf",
+    "release_url": "https://poll.qu.edu/poll-release-legacy?releaseid=2566",
+    "published_date": "2018-09-05",
+    "year": 2018,
+    "path": "data/multimodal/raw/534303c318364eb9.pdf",
+    "sha256": "845d52f72cb63e0bab50390c6c47a3732b06d3b95d5165f7ee29af9ad6640210",
+    "retrieved_at": "2026-10-21T22:31:55.710557+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/images/polling/fl/fl11052018_frqt85.pdf",
+    "release_url": "https://poll.qu.edu/poll-release-legacy?releaseid=2585",
+    "published_date": "2018-11-05",
+    "year": 2018,
+    "path": "data/multimodal/raw/d3ded5460fd5550b.pdf",
+    "sha256": "936870609df3997e4cdac8e45ab6e9da41ef8f17cdc321ff24caa05502ed4a9b",
+    "retrieved_at": "2026-10-21T22:31:55.727230+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/images/polling/ct/ct10302018_czum42.pdf",
+    "release_url": "https://poll.qu.edu/poll-release-legacy?releaseid=2584",
+    "published_date": "2018-10-30",
+    "year": 2018,
+    "path": "data/multimodal/raw/e5f0a995a933809e.pdf",
+    "sha256": "d9860aca6b5bdc586339fddf31eb4136f7c19496dc1d4ea1f8165c03fedfaf84",
+    "retrieved_at": "2026-10-21T22:31:55.708991+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/images/polling/tx/tx08012018_tecd19.pdf",
+    "release_url": "https://poll.qu.edu/poll-release-legacy?releaseid=2559",
+    "published_date": "2018-08-01",
+    "year": 2018,
+    "path": "data/multimodal/raw/cd65664cd39a6549.pdf",
+    "sha256": "8f168fa6ed14865c706676f5eec1cb021503568539272c06b63b05c9a0515bcb",
+    "retrieved_at": "2026-10-21T22:31:59.372755+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/images/polling/ps/ps08182016_Sjd43tz.pdf",
+    "release_url": "https://poll.qu.edu/poll-release-legacy?releaseid=2374",
+    "published_date": "2016-08-18",
+    "year": 2016,
+    "path": "data/multimodal/raw/574dfed8e3dfc1ba.pdf",
+    "sha256": "793befa6edf21628efe25f57774bc59289b70ebab88a5832b405d24c7c59ecad",
+    "retrieved_at": "2026-10-21T22:31:59.421243+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/images/polling/ps/ps08112016_Sfo47qx.pdf",
+    "release_url": "https://poll.qu.edu/poll-release-legacy?releaseid=2372",
+    "published_date": "2016-08-11",
+    "year": 2016,
+    "path": "data/multimodal/raw/6a747b4688ba25a8.pdf",
+    "sha256": "cfc2ae3698da3a86dbc7f966c29f2410ada99dbb4b522a129a3cbc64f9e4e906",
+    "retrieved_at": "2026-10-21T22:31:59.420348+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/images/polling/ia/ia11032014_Ip682skt.pdf",
+    "release_url": "https://poll.qu.edu/poll-release-legacy?releaseid=2110",
+    "published_date": "2014-11-03",
+    "year": 2014,
+    "path": "data/multimodal/raw/5f0010eb780d14f1.pdf",
+    "sha256": "adb65b2155d60c1cd2111ce1b6dbe452d6d432b661b09517323c6e2be235fe6e",
+    "retrieved_at": "2026-10-21T22:32:03.690337+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/images/polling/co/co11032014_Co91mz34.pdf",
+    "release_url": "https://poll.qu.edu/poll-release-legacy?releaseid=2111",
+    "published_date": "2014-11-03",
+    "year": 2014,
+    "path": "data/multimodal/raw/56cf0064bd510caf.pdf",
+    "sha256": "2b1bbaad055a4c390af4a3f632e4b3003eab2226896c800932af3e5bf4e877a8",
+    "retrieved_at": "2026-10-21T22:32:03.703369+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/images/polling/co/co10302014_c42mt83gb.pdf",
+    "release_url": "https://poll.qu.edu/poll-release-legacy?releaseid=2107",
+    "published_date": "2014-10-30",
+    "year": 2014,
+    "path": "data/multimodal/raw/e06a1a14add5bd30.pdf",
+    "sha256": "f8564aa187495e857c4ff12bc9d88779038cbb8dfefa8b8a6fcf5a1cf1f82b02",
+    "retrieved_at": "2026-10-21T22:32:03.725334+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/images/polling/ia/ia10292014_i93pqbdt.pdf",
+    "release_url": "https://poll.qu.edu/poll-release-legacy?releaseid=2103",
+    "published_date": "2014-10-29",
+    "year": 2014,
+    "path": "data/multimodal/raw/df9b81b734f8c9b0.pdf",
+    "sha256": "870cc941eece8ef6c052b91eb7480ed3072947ca4dd13fb5a209bab366941929",
+    "retrieved_at": "2026-10-21T22:32:08.352745+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/images/polling/co/co10242014_cd835jxts.pdf",
+    "release_url": "https://poll.qu.edu/poll-release-legacy?releaseid=2101",
+    "published_date": "2014-10-24",
+    "year": 2014,
+    "path": "data/multimodal/raw/847cc8fa1ac122a0.pdf",
+    "sha256": "cca50b8f09d6ef7603c1566c573058c4f82d9d9d866033e4043da25022f18c28",
+    "retrieved_at": "2026-10-21T22:32:08.353499+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/images/polling/ia/ia10232014_i92rvanc.pdf",
+    "release_url": "https://poll.qu.edu/poll-release-legacy?releaseid=2100",
+    "published_date": "2014-10-23",
+    "year": 2014,
+    "path": "data/multimodal/raw/fcc7d244bd8356e7.pdf",
+    "sha256": "0f29d8dc6947a4f38deb8a7dfedd8e85f4d55255707a1fef3285ab6a2e9cb8f3",
+    "retrieved_at": "2026-10-21T22:32:08.352352+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/images/polling/co/co10162014_C592phxkr.pdf",
+    "release_url": "https://poll.qu.edu/poll-release-legacy?releaseid=2096",
+    "published_date": "2014-10-16",
+    "year": 2014,
+    "path": "data/multimodal/raw/295600cb4a4a8fb2.pdf",
+    "sha256": "de3b304bf4370b51ea2255d1a62325929f7f95ce60d8f5cff114dc365cf0e836",
+    "retrieved_at": "2026-10-21T22:32:12.501551+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/images/polling/ia/ia10152014_Ihst243bn.pdf",
+    "release_url": "https://poll.qu.edu/poll-release-legacy?releaseid=2095",
+    "published_date": "2014-10-15",
+    "year": 2014,
+    "path": "data/multimodal/raw/5faccc88c49f292a.pdf",
+    "sha256": "aabb8972185ee74c50fc69eefcc8afb8ef17049071fc2e64be08cd5ed1714255",
+    "retrieved_at": "2026-10-21T22:32:12.492954+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/images/polling/nj/nj10022014_n673mdw.pdf",
+    "release_url": "https://poll.qu.edu/poll-release-legacy?releaseid=2089",
+    "published_date": "2014-10-02",
+    "year": 2014,
+    "path": "data/multimodal/raw/0e95e58e76ea276e.pdf",
+    "sha256": "44b0dc6630f332a64a1c422dd5548718c5a75626407d0b48b7f02538e2a5e22a",
+    "retrieved_at": "2026-10-21T22:32:12.567939+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/images/polling/va/va09252014_vt739zb.pdf",
+    "release_url": "https://poll.qu.edu/poll-release-legacy?releaseid=2086",
+    "published_date": "2014-09-25",
+    "year": 2014,
+    "path": "data/multimodal/raw/7e07b288a236e343.pdf",
+    "sha256": "6e04e32e042f9096ad203ec471ef707fc361d69ecfd0a43c5f8c7cb0f486f62b",
+    "retrieved_at": "2026-10-21T22:32:17.250956+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/images/polling/co/co09182014_cpdg79kls.pdf",
+    "release_url": "https://poll.qu.edu/poll-release-legacy?releaseid=2082",
+    "published_date": "2014-09-18",
+    "year": 2014,
+    "path": "data/multimodal/raw/04ab4201bff53eea.pdf",
+    "sha256": "6ec77360f5ae77c358af4ee2c07406ac0295508e950c1d0d0348e3b734493361",
+    "retrieved_at": "2026-10-21T22:32:17.281989+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/images/polling/ia/ia09172014_isk29bn.pdf",
+    "release_url": "https://poll.qu.edu/poll-release-legacy?releaseid=2079",
+    "published_date": "2014-09-17",
+    "year": 2014,
+    "path": "data/multimodal/raw/b465e1f7ec63d050.pdf",
+    "sha256": "6c9d941fea77a9c0798fe389594b8703f7e653a8a07ab7d26ad16b6cecc187a8",
+    "retrieved_at": "2026-10-21T22:32:17.281552+00:00"
+  },
+  {
+    "url": "https://maristpoll.marist.edu/wp-content/uploads/2022/10/Marist-Poll_NY-NOS-and-Tables_202210101405.pdf",
+    "release_url": "https://maristpoll.marist.edu/polls/the-2022-elections-in-new-york/",
+    "path": "data/multimodal/raw/marist-ny2022.pdf",
+    "sha256": "26f25f56efe7cf04faecd0991bc05fc476895b4141e8365e9aa6deb06bfbea9a",
+    "retrieved_at": "2026-10-21T22:31:40.845777+00:00",
+    "year": 2022,
+    "published_date": "2022-10-13"
+  }
+]

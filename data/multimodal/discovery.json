@@ -1,0 +1,306 @@
+{
+  "rule": "Aug-Nov Senate-titled Quinnipiac releases, 2014-2024; exclude generic control/impeachment",
+  "releases": [
+    {
+      "url": "https://poll.qu.edu/poll-release?releaseid=3916",
+      "title": "Pennsylvania 2024: In Tight Presidential Race, \r\nTrump Gets Boost From Men, U.S. Senate Race Tightens,\r\nQuinnipiac University Pennsylvania Poll Finds;\r\nReps And Dems Agree: 2024 Presidential Election Is Single Most \r\nImportant Of Their Lifetimes",
+      "year": 2024,
+      "published_date": "2024-10-30"
+    },
+    {
+      "url": "https://poll.qu.edu/poll-release?releaseid=3915",
+      "title": "Swing State Poll 2024: Michigan, Wisconsin:\r\nGender Divide Defines Tight Races In Rust Belt Battlegrounds,\r\nQuinnipiac University Poll Finds;\r\nU.S. Senate Races: Dem Holds Lead In MI, Very Close In WI",
+      "year": 2024,
+      "published_date": "2024-10-23"
+    },
+    {
+      "url": "https://poll.qu.edu/poll-release?releaseid=3913",
+      "title": "Swing State Poll 2024: Pennsylvania, Michigan, Wisconsin:\r\nBlue Wall Shows Cracks As Race Tightens,\r\nQuinnipiac University Poll Finds;\r\nU.S. Senate Races: Michigan Moves To Toss-Up, Dems Lead In PA & WI",
+      "year": 2024,
+      "published_date": "2024-10-09"
+    },
+    {
+      "url": "https://poll.qu.edu/poll-release?releaseid=3905",
+      "title": "Swing State Poll 2024:\r\nPennsylvania, Michigan, Wisconsin:\r\nHarris Ahead In 2 Key Battleground States, 3rd State Up For Grabs,\r\nQuinnipiac University Poll Finds;\r\nU.S. Senate Races: Democrats Have Leads In All 3 States",
+      "year": 2024,
+      "published_date": "2024-09-18"
+    },
+    {
+      "url": "https://poll.qu.edu/poll-release?releaseid=3902",
+      "title": "Pennsylvania 2024: Harris Has Slight Edge Over Trump \r\nIn Tight Race, Gets Boost From Women,\r\nQuinnipiac University Pennsylvania Poll Finds;\r\nSenate Race: Casey Up 8 Points Over McCormick",
+      "year": 2024,
+      "published_date": "2024-08-14"
+    },
+    {
+      "url": "https://poll.qu.edu/poll-release?releaseid=3860",
+      "title": "Lamont Up By 15 Points In Connecticut Governor's Race,\r\nQuinnipiac University Connecticut Poll Finds;\r\nBlumenthal Up By 15 Points In Senate Race",
+      "year": 2022,
+      "published_date": "2022-10-24"
+    },
+    {
+      "url": "https://poll.qu.edu/poll-release?releaseid=3858",
+      "title": "Georgia Senate Race Unchanged: Warnock Leads Walker 52% - 45%, \r\nQuinnipiac University Georgia Poll Finds;\r\nGov Race Between Kemp And Abrams Remains Too Close To Call",
+      "year": 2022,
+      "published_date": "2022-10-12"
+    },
+    {
+      "url": "https://poll.qu.edu/poll-release?releaseid=3856",
+      "title": "Dems Lead By Double Digits In CT Governor And Senate Races,\r\nQuinnipiac University Connecticut Poll Finds;\r\nWomen Are A Key Factor In Both Races",
+      "year": 2022,
+      "published_date": "2022-09-21"
+    },
+    {
+      "url": "https://poll.qu.edu/poll-release?releaseid=3855",
+      "title": "Georgia Governor's Race: Too Close To Call,\r\nQuinnipiac University Georgia Poll Finds;\r\nGeorgia Senate Race: Warnock Leads Walker 52% - 46%",
+      "year": 2022,
+      "published_date": "2022-09-14"
+    },
+    {
+      "url": "https://poll.qu.edu/poll-release?releaseid=3801",
+      "title": "Biden Is Ahead In Georgia, But It Is Too Close To Call In Ohio, \r\nQuinnipiac University Poll Finds;\r\nDemocrats Lead In Both Georgia Senate Races",
+      "year": 2020,
+      "published_date": "2020-10-14"
+    },
+    {
+      "url": "https://poll.qu.edu/poll-release?releaseid=3743",
+      "title": "Biden Widens Lead Over Trump In Florida & Pennsylvania, \r\nQuinnipiac University Poll Finds;\r\nSlight Leads For Democrats In Iowa Presidential & Senate Races",
+      "year": 2020,
+      "published_date": "2020-10-07"
+    },
+    {
+      "url": "https://poll.qu.edu/poll-release?releaseid=3800",
+      "title": "South Carolina Senate Race: Graham And Harrison Tied,\r\nQuinnipiac University Poll Finds;\r\nVoters Divided On Trump Filling SCOTUS Vacancy Before Election",
+      "year": 2020,
+      "published_date": "2020-09-30"
+    },
+    {
+      "url": "https://poll.qu.edu/poll-release?releaseid=3794",
+      "title": "Georgia Presidential And Senate Contests Are Tight,\r\nQuinnipiac University Poll Finds;\r\nWarnock Tops Field In Crowded Special Election",
+      "year": 2020,
+      "published_date": "2020-09-29"
+    },
+    {
+      "url": "https://poll.qu.edu/poll-release?releaseid=3754",
+      "title": "2020 Race: Trump Has Slight Edge In Texas, A Tight Race In Ohio,\r\nQuinnipiac University Poll Finds; \r\nTexas Senate Race: Cornyn Leads Hegar",
+      "year": 2020,
+      "published_date": "2020-09-24"
+    },
+    {
+      "url": "https://poll.qu.edu/poll-release?releaseid=3798",
+      "title": "Maine, South Carolina, And Kentucky Senate Races: \r\nCollins Trails, Graham Ties, And McConnell Leads, \r\nQuinnipiac University Poll Finds;\r\nMajority Plan To Vote In Person On Nov. 3 In Each State",
+      "year": 2020,
+      "published_date": "2020-09-16"
+    },
+    {
+      "url": "https://poll.qu.edu/poll-release?releaseid=3788",
+      "title": "Kentucky, South Carolina, And Maine Senate Races Are All Close,\r\nQuinnipiac University Poll Finds;\r\n2020 Presidential Race: Trump Up In KY, SC, Trails In ME",
+      "year": 2020,
+      "published_date": "2020-08-06"
+    },
+    {
+      "url": "https://poll.qu.edu/poll-release-legacy?releaseid=2585",
+      "title": "Nelson Has 7-Point Lead In Florida Senate Race,\r\nQuinnipiac University Poll Finds;\r\nGillum Also Up By 7 Points In Governor's Race",
+      "year": 2018,
+      "published_date": "2018-11-05"
+    },
+    {
+      "url": "https://poll.qu.edu/poll-release-legacy?releaseid=2586",
+      "title": "Menendez Has 15-Point Lead In New Jersey Senate Race,\r\nQuinnipiac University Poll Finds;\r\nIndependent Voters Swing Back To Democrat",
+      "year": 2018,
+      "published_date": "2018-11-05"
+    },
+    {
+      "url": "https://poll.qu.edu/poll-release-legacy?releaseid=2584",
+      "title": "Connecticut Gov Race Too Close To Call, \r\nQuinnipiac University Poll Finds;\r\nMurphy Holds 15-Point Lead In U.S. Senate Race",
+      "year": 2018,
+      "published_date": "2018-10-30"
+    },
+    {
+      "url": "https://poll.qu.edu/poll-release-legacy?releaseid=2583",
+      "title": "Cruz Ahead By Inches In Tight Texas Senate Race, \r\nQuinnipiac University Poll Finds;\r\nAbbott Ahead 14 Points In Governor's Race",
+      "year": 2018,
+      "published_date": "2018-10-29"
+    },
+    {
+      "url": "https://poll.qu.edu/poll-release-legacy?releaseid=2581",
+      "title": "Nelson Holds Lead In Florida Senate Race,\r\nQuinnipiac University Poll Finds;\r\nHurricane Does Not Lift Scott Or Trump",
+      "year": 2018,
+      "published_date": "2018-10-22"
+    },
+    {
+      "url": "https://poll.qu.edu/poll-release-legacy?releaseid=2579",
+      "title": "Menendez Up 7 Points In New Jersey Senate Race, \r\nQuinnipiac University Poll Finds;\r\nIncumbent Has Big Negative Favorability Rating",
+      "year": 2018,
+      "published_date": "2018-10-17"
+    },
+    {
+      "url": "https://poll.qu.edu/poll-release-legacy?releaseid=2578",
+      "title": "O'Rourke Stalls 9 Points Down In Texas Senate Race, \r\nQuinnipiac University Poll Finds;\r\nRepublican Up 20 Points In Governor's Race",
+      "year": 2018,
+      "published_date": "2018-10-11"
+    },
+    {
+      "url": "https://poll.qu.edu/poll-release-legacy?releaseid=2577",
+      "title": "Women Lift Lamont In Connecticut Gov Race,  \r\nQuinnipiac University Poll Finds;\r\nMurphy Up 15 Points In U.S. Senate Race",
+      "year": 2018,
+      "published_date": "2018-10-10"
+    },
+    {
+      "url": "https://poll.qu.edu/poll-release-legacy?releaseid=2572",
+      "title": "Nelson Takes Lead In Critical Florida U.S. Senate Race,\r\nQuinnipiac University Poll Finds;\r\nWomen Are Key To Democrat's Lead",
+      "year": 2018,
+      "published_date": "2018-09-25"
+    },
+    {
+      "url": "https://poll.qu.edu/poll-release-legacy?releaseid=2570",
+      "title": "Cruz Has 9-Point Likely Voter Lead In Texas Senate Race,\r\nQuinnipiac University Poll Finds;\r\nTrump Gets A Split 49 - 49 Percent Job Approval Score",
+      "year": 2018,
+      "published_date": "2018-09-18"
+    },
+    {
+      "url": "https://poll.qu.edu/poll-release-legacy?releaseid=2566",
+      "title": "Dead Heat In Florida Senate Race,\r\nQuinnipiac University Poll Finds;\r\nNelson, Scott Have Matching Grades, But Rubio Is Down",
+      "year": 2018,
+      "published_date": "2018-09-05"
+    },
+    {
+      "url": "https://poll.qu.edu/poll-release-legacy?releaseid=2563",
+      "title": "GOP Challenger Cuts Menendez Lead In NJ Senate Race,\r\nQuinnipiac University Poll Finds;\r\nMurphy Gets Good Grades Overall, Mixed On Transit",
+      "year": 2018,
+      "published_date": "2018-08-22"
+    },
+    {
+      "url": "https://poll.qu.edu/poll-release-legacy?releaseid=2559",
+      "title": "Cruz Has Small Lead In Tight Texas Senate Race,\r\nQuinnipiac University Poll Finds;\r\nAbbott Tops Valdez By 13 Points In Governor's Race",
+      "year": 2018,
+      "published_date": "2018-08-01"
+    },
+    {
+      "url": "https://poll.qu.edu/poll-release-legacy?releaseid=2401",
+      "title": "Florida And North Carolina Too Close To Call,\r\nQuinnipiac University Swing State Poll Finds;\r\nRubio Up In Florida, North Carolina Senate Race Tied",
+      "year": 2016,
+      "published_date": "2016-11-07"
+    },
+    {
+      "url": "https://poll.qu.edu/poll-release-legacy?releaseid=2400",
+      "title": "Rubio Up In Florida Senate Race, GOP Holding Ohio, \r\nDem Edge In North Carolina And PA Too Close To Call,\r\nQuinnipiac University Swing State Poll Finds",
+      "year": 2016,
+      "published_date": "2016-11-03"
+    },
+    {
+      "url": "https://poll.qu.edu/poll-release-legacy?releaseid=2398",
+      "title": "North Carolina Gov, Senate Races Close,\r\nQuinnipiac University Swing State Poll Finds;\r\nGOP Incumbents Lead In Georgia, Iowa Senate Races",
+      "year": 2016,
+      "published_date": "2016-10-28"
+    },
+    {
+      "url": "https://poll.qu.edu/poll-release-legacy?releaseid=2389",
+      "title": "Florida Senate Race Too Close To Call As Incumbents \r\nLead In Colorado, Ohio, Pennsylvania",
+      "year": 2016,
+      "published_date": "2016-10-18"
+    },
+    {
+      "url": "https://poll.qu.edu/poll-release-legacy?releaseid=2385",
+      "title": "Democrats Gain On Republicans In Florida, North Carolina, \r\nBut Lose Ground In Ohio, Pennsylvania Senate Races,\r\nQuinnipiac University Swing State Poll Finds",
+      "year": 2016,
+      "published_date": "2016-10-05"
+    },
+    {
+      "url": "https://poll.qu.edu/poll-release-legacy?releaseid=2382",
+      "title": "Incumbents Have Big Leads In U.S. Senate Races\r\nIn Colorado, Georgia, Iowa,\r\nQuinnipiac University Swing State Poll Finds",
+      "year": 2016,
+      "published_date": "2016-09-23"
+    },
+    {
+      "url": "https://poll.qu.edu/poll-release-legacy?releaseid=2377",
+      "title": "Republicans Lead In Florida, North Carolina, \r\nOhio Senate Races; Pennsylvania Is Close,\r\nQuinnipiac University Swing State Poll Finds",
+      "year": 2016,
+      "published_date": "2016-09-09"
+    },
+    {
+      "url": "https://poll.qu.edu/poll-release-legacy?releaseid=2374",
+      "title": "Grassley Up 9 Points In Iowa Senate Race,\r\nQuinnipiac University Swing State Poll Finds;\r\nBennet Swamping GOP Challenger In Colorado",
+      "year": 2016,
+      "published_date": "2016-08-18"
+    },
+    {
+      "url": "https://poll.qu.edu/poll-release-legacy?releaseid=2372",
+      "title": "Florida, Pennsylvania Senate Races Close,\r\nQuinnipiac University Swing State Poll Finds;\r\nPortman Has Big Lead In Ohio",
+      "year": 2016,
+      "published_date": "2016-08-11"
+    },
+    {
+      "url": "https://poll.qu.edu/poll-release-legacy?releaseid=2110",
+      "title": "Ernst-Braley Dead Heat In Iowa Senate Race, \r\nQuinnipiac University Poll Finds;\r\nBranstad Has 11-Point Lead Over Hatch",
+      "year": 2014,
+      "published_date": "2014-11-03"
+    },
+    {
+      "url": "https://poll.qu.edu/poll-release-legacy?releaseid=2111",
+      "title": "Beauprez-45%, Hickenlooper-43% In Colorado Gov Race,\r\n Quinnipiac University Poll Finds;\r\nGardner At 45% To Udall's 43% In Senate Race",
+      "year": 2014,
+      "published_date": "2014-11-03"
+    },
+    {
+      "url": "https://poll.qu.edu/poll-release-legacy?releaseid=2107",
+      "title": "Udall Down 7 Points In Colorado Senate Race,\r\n Quinnipiac University Poll Finds;\r\nMen Give Republican Big Lead",
+      "year": 2014,
+      "published_date": "2014-10-30"
+    },
+    {
+      "url": "https://poll.qu.edu/poll-release-legacy?releaseid=2103",
+      "title": "Ernst Inching Ahead In Iowa Senate Race, \r\nQuinnipiac University Poll Finds;\r\nBranstad, The Iowa Institution, Cruising To Reelection",
+      "year": 2014,
+      "published_date": "2014-10-29"
+    },
+    {
+      "url": "https://poll.qu.edu/poll-release-legacy?releaseid=2101",
+      "title": "Udall Gains No Ground In Colorado Senate Race,\r\n Quinnipiac University Poll Finds;\r\nMen Go Republican More Than Women Go Democratic",
+      "year": 2014,
+      "published_date": "2014-10-24"
+    },
+    {
+      "url": "https://poll.qu.edu/poll-release-legacy?releaseid=2100",
+      "title": "Iowa Senate Race Is Snout To Snout, \r\nQuinnipiac University Poll Finds;\r\nBranstad Headed For Place In U.S. History",
+      "year": 2014,
+      "published_date": "2014-10-23"
+    },
+    {
+      "url": "https://poll.qu.edu/poll-release-legacy?releaseid=2096",
+      "title": "GOP Challenger Up 6 Points In Colorado Senate Race,\r\n Quinnipiac University Poll Finds;\r\nWomen's Shift To Udall Widens Gender Gap",
+      "year": 2014,
+      "published_date": "2014-10-16"
+    },
+    {
+      "url": "https://poll.qu.edu/poll-release-legacy?releaseid=2095",
+      "title": "Shift By Independents Leaves Iowa Senate Race Close, \r\nQuinnipiac University Poll Finds;\r\nBranstad Up 15 Points In Governor's Race",
+      "year": 2014,
+      "published_date": "2014-10-15"
+    },
+    {
+      "url": "https://poll.qu.edu/poll-release-legacy?releaseid=2089",
+      "title": "Women Ring Booker's Bell In New Jersey Senate Race, \r\nQuinnipiac University Poll Finds;\r\nRepublican Challenger Is Little Known",
+      "year": 2014,
+      "published_date": "2014-10-02"
+    },
+    {
+      "url": "https://poll.qu.edu/poll-release-legacy?releaseid=2086",
+      "title": "Warner Up 9 Points In Virginia Senate Race,\r\nQuinnipiac University Poll Finds;\r\nOutscores Republican On Honesty, Leadership, Caring",
+      "year": 2014,
+      "published_date": "2014-09-25"
+    },
+    {
+      "url": "https://poll.qu.edu/poll-release-legacy?releaseid=2082",
+      "title": "GOP Challenger Leads Udall In Colorado Senate Race, \r\nQuinnipiac University Poll Finds;\r\nMore Than One-Third Are Voting Against Obama",
+      "year": 2014,
+      "published_date": "2014-09-18"
+    },
+    {
+      "url": "https://poll.qu.edu/poll-release-legacy?releaseid=2079",
+      "title": "Republican Up 6 Points In Iowa Senate Race, \r\nQuinnipiac University Poll Finds;\r\nBig Gender Gap As Men Back Ernst By 17 Points",
+      "year": 2014,
+      "published_date": "2014-09-17"
+    }
+  ],
+  "errors": []
+}
