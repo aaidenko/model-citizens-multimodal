@@ -2,6 +2,8 @@
 
 Open **reports/index.html** for the research report. It contains the current race review, scoring calculator, source checks, document evidence, and strategy comparisons.
 
+**Paused at the user's request on October 21, 2026.** [The resume checkpoint](docs/RESUME.md) records completed work, saved research, recovered GitHub access, and the remaining implementation steps. No background training or recurring work is scheduled.
+
 This is an initial research system, **not a finished competition submission**. It uses publicly accessible sources and local computation. There are no paid data feeds, model API calls, registrations, or new service charges. Work performed in Codex or Claude continues to use your existing access and limits.
 
 ## Actual multimodal model, now trained

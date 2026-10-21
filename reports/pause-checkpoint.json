@@ -1,0 +1,136 @@
+{
+  "paused_at": "2026-10-21T23:21:21.383313+00:00",
+  "reason": "User requested a pause and preparation to finish later.",
+  "resume_document": "docs/RESUME.md",
+  "v2_implementation_started": false,
+  "v2_discovery_saved": true,
+  "github_auth_recovered": true,
+  "github_publication_complete": false,
+  "background_training_running": false,
+  "recurring_work_scheduled": false,
+  "preserved_v1_artifact_hashes": {
+    "data/multimodal/cases.json": "fadf7f98164feff65dca3298bcba84fdac8de0d1b6765436f821652c7e432aed",
+    "data/multimodal/discovery.json": "f7466511346042bddbc91401600a509e3e6cd55965b995a1965925404acc0db9",
+    "data/multimodal/embeddings-manifest.json": "015cc4a7fd9ca8fafab92d8096b0d06b22beddb132e8af6ea7f5e76915afa230",
+    "data/multimodal/embeddings.npz": "9f8476b99d11ed878bae34f5f8d896895f6516be86e593152553f9efbee1d949",
+    "data/multimodal/labels-source-2022.json": "5802578b2113dfbcf5f77a013f3c0af5815969815b95746a3a959b75668458ec",
+    "data/multimodal/labels-source.json": "fa5d28f112dcabd1ce4c720c49bdd5126d6e08d940b21f65d6ab31414aa6857e",
+    "data/multimodal/labels.json": "6d35802af2fc81f1a878755621c31467edc6bee8e92a7fdd20e0f77759cc8c47",
+    "data/multimodal/sources.json": "4ad35e8c2ee635cc253971e4f13949ece3e66f7e4197ca534712c0cafc0a1b5e",
+    "data/multimodal/visual-reviews.json": "fcdbcd7189a75ba34ca26bc7876f085ee8d3cfaf8bf3747e8bee7c43082412f8",
+    "models/multimodal/multimodal-seed17.safetensors": "235a74a53dd67ef8b5d94d95debb3e5bad82d851a56fef1eb52141fd9a641ffc",
+    "models/multimodal/multimodal-seed29.safetensors": "b1771271bf1a186a7755a4060d6bd4373ec24fd994250f11b72bcaf1e3aa0663",
+    "models/multimodal/multimodal-seed43.safetensors": "a4253c414bed8e23da91a190d4e4574fb6b8179dda4c53ac16265c3b3c31295c",
+    "models/multimodal/numeric-seed17.safetensors": "9bd02dff87100d86e8b95484de9d52292a3d93e203a998c6ee434583bd0fbb2e",
+    "models/multimodal/numeric-seed29.safetensors": "366db921d17c964938a6c5997d95fdf93c913b69792cfb791ea3188c338a0cf7",
+    "models/multimodal/numeric-seed43.safetensors": "04aea60a48f2c84728ce89c9a4cf9894d7fdcfb21c111d04de8324c742087f8c",
+    "models/multimodal/numeric_image-seed17.safetensors": "36aa35279c0b38f2fd7698ac495f57bfbddb442b1db41991748e1aa21f0468fd",
+    "models/multimodal/numeric_image-seed29.safetensors": "78706f8196a6b0e208daa8370d52110d5a5dc44f97183a7775ed251a52a48cf4",
+    "models/multimodal/numeric_image-seed43.safetensors": "005a4edbd8f03c00656d1825e69e1ee2eea341a39250efedcb84ab62e01f90b6",
+    "models/multimodal/numeric_text-seed17.safetensors": "5b3cf897a7929b2e33b26de95314f325f8d33659f8da1dd379d2a1088efef74e",
+    "models/multimodal/numeric_text-seed29.safetensors": "d266e53e59c5efc63b90ec20413677110d8900ad5cbb8342795ba78a34c8ea0b",
+    "models/multimodal/numeric_text-seed43.safetensors": "2c8d3f81dafbeac4eb51f957dc565f0b6531b845a3136d4881437343644c34b4",
+    "models/multimodal/preprocessing.npz": "fbbf2584977b46227bf380ba93a4dbf157b49590d82e4ed8075782936acccebc",
+    "models/multimodal/run.json": "0b93662e24df1da5179aabfafd266e15e5d46a58856f8cc347b65612ab9f51b3",
+    "reports/multimodal.json": "0b93662e24df1da5179aabfafd266e15e5d46a58856f8cc347b65612ab9f51b3",
+    "reports/image-input-audit.json": "0cdad8e7dba57a6ffa44c18776ea7ba8d935cbfa8cd1a3be9a09e82d3babb878"
+  },
+  "local_discovery_inventory": {
+    "work/v2-discovery/archive-locations.json": {
+      "bytes": 2457,
+      "sha256": "5167c64eb071f700a90401c913c407978fa666f5adc9ae5d9e8b35bf64ddc995"
+    },
+    "work/v2-discovery/mirror-repo.json": {
+      "bytes": 9328,
+      "sha256": "cc1dc83e684d9c0d7c160ca81abf6b37a3a78981ad17342fcdf9685d706edcd6"
+    },
+    "work/v2-discovery/monmouth-archive.html": {
+      "bytes": 131840,
+      "sha256": "adff3838d91296517167b9b63d31629ee0b275413924ebdb3c09ebdc4e29ec42"
+    },
+    "work/v2-discovery/old-raw-polls.csv": {
+      "bytes": 2672085,
+      "sha256": "f637423f4b17ad7f4506c5fc3884056e6b32fcbc97e67291c4b078cd6a2d5283"
+    },
+    "work/v2-discovery/polls-2024-filtered.csv": {
+      "bytes": 938255,
+      "sha256": "78ecd1ac1866617faf42f90218e6d1f7d30dc8817e0a58cbf30c1ec52f2d0445"
+    },
+    "work/v2-discovery/ppp-page-120.html": {
+      "bytes": 47671,
+      "sha256": "40b07826ccf28ecf5790e303f7212d6a5bb73b290fb75e880fa3c42a1090323b"
+    },
+    "work/v2-discovery/ppp-page-35.html": {
+      "bytes": 47931,
+      "sha256": "fa16d3408b559d013e1d5692754bc6a7c507023ed119831840bd2d2d973ff5af"
+    },
+    "work/v2-discovery/ppp-page-65.html": {
+      "bytes": 48014,
+      "sha256": "c886d6cb1b9849b68f840da897d5f14de54610cfba92152c83ec21d6f883d0c2"
+    },
+    "work/v2-discovery/ppp-page-95.html": {
+      "bytes": 48082,
+      "sha256": "4b696f4c8a4e4eaebaadbfdd3892903167a622ce39a67880b6c1067cbf40dbdc"
+    },
+    "work/v2-discovery/ppp-polls.html": {
+      "bytes": 47551,
+      "sha256": "19242b91dd165e71c9bc7b69121ded631866b58814961cd487bb5950bacdd6b9"
+    },
+    "work/v2-discovery/ppp-polls.html.source.json": {
+      "bytes": 333,
+      "sha256": "96e61e9a9f4daca98e447823e7a0414a5b15e2114af2f4723449ec487acd1053"
+    },
+    "work/v2-discovery/raw_polls.csv": {
+      "bytes": 4961378,
+      "sha256": "9f0b185506e59117c150fb988e73b612346effe8e3a8f0d90fdafcad07f54756"
+    },
+    "work/v2-discovery/raw_polls.source.json": {
+      "bytes": 286,
+      "sha256": "58ce9e17555a1b81bcf0a7572ccfc799f1ed70013e4c03b8c4a67685a67065a2"
+    },
+    "work/v2-discovery/senate-2024.csv": {
+      "bytes": 1497307,
+      "sha256": "eabff005edb5068b61bb074c42f9a1e833bcf09539f5755ce2299354c8ed1429"
+    },
+    "work/v2-discovery/senate-2024.csv.source.json": {
+      "bytes": 482,
+      "sha256": "edb7b9dce7f03c4440b81fdb2ea6cc53b0939d688e5a15631c1caf1f34c28a6d"
+    },
+    "work/v2-discovery/senate_polls_historical.csv": {
+      "bytes": 332587,
+      "sha256": "a9c5a21ac899ff963c60accbe4f55ae91d96408d69120285eed24baee55b9f09"
+    },
+    "work/v2-discovery/sources.json": {
+      "bytes": 4203,
+      "sha256": "b59fa3674b995a3ee6dc3c2a55f45c5d093e034f6f01a3968b87977a560f101c"
+    },
+    "work/v2-discovery/vision_ocr": {
+      "bytes": 97352,
+      "sha256": "027356396c1e372752e8fe43a751de7c6b9ca8811fa5aaf4bce93af52b6bdf3d"
+    },
+    "work/v2-discovery/vision_ocr.swift": {
+      "bytes": 959,
+      "sha256": "662ed6b1d3643b6c54eb5d19344a239aa250b65522a1be63b7628d0ec5ae85a6"
+    },
+    "work/v2-discovery/wp-sitemap-posts-polls-1.urls.json": {
+      "bytes": 115323,
+      "sha256": "665ad46d893b7a99a34a9c4bd210a4f9ea70da83154bfb4116ba51ffe0f86e33"
+    },
+    "work/v2-discovery/wp-sitemap-posts-polls-1.xml": {
+      "bytes": 189982,
+      "sha256": "927fc901b04a1509d3e94206a385ab4017881e0590cbfa393199215dfaf966ab"
+    },
+    "work/v2-discovery/wp-sitemap-posts-polls-1.xml.source.json": {
+      "bytes": 380,
+      "sha256": "fea2b72ae39c7daa749a1ded65d8351d74539583b509fa948b3585748b888182"
+    },
+    "work/v2-discovery/wp-sitemap-posts-post-1.xml": {
+      "bytes": 1084,
+      "sha256": "6a86bffa49081a6f588f31c59418791c75e6e1246fe3626ba65f4c71c4d21f69"
+    },
+    "work/v2-discovery/wp-sitemap-posts-post-1.xml.source.json": {
+      "bytes": 375,
+      "sha256": "886e39483ae66f9d7a6928a063c83d01c888cbed7b26a7f85e9586ee09574cec"
+    }
+  }
+}
