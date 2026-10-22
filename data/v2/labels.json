@@ -1,0 +1,2770 @@
+{
+  "1998-AL": {
+    "margin": -26.5682094417121,
+    "dem_candidate": "Clayton Suddith",
+    "rep_candidate": "Richard C. Shelby",
+    "winner": "Richard C. Shelby",
+    "source": "MEDSL regular returns",
+    "year": 1998
+  },
+  "1998-AR": {
+    "margin": 13.202532313992855,
+    "dem_candidate": "Blanche Lambert Lincoln",
+    "rep_candidate": "Fay Boozman",
+    "winner": "Blanche Lambert Lincoln",
+    "source": "MEDSL regular returns",
+    "year": 1998
+  },
+  "1998-CA": {
+    "margin": 10.456656081162821,
+    "dem_candidate": "Barbara Boxer",
+    "rep_candidate": "Matt Fong",
+    "winner": "Barbara Boxer",
+    "source": "MEDSL regular returns",
+    "year": 1998
+  },
+  "1998-CO": {
+    "margin": -28.174734414940144,
+    "dem_candidate": "Dottie Lamm",
+    "rep_candidate": "Ben Nighthorse Campbell",
+    "winner": "Ben Nighthorse Campbell",
+    "source": "MEDSL regular returns",
+    "year": 1998
+  },
+  "1998-CT": {
+    "margin": 33.613473077131644,
+    "dem_candidate": "Christopher J. Dodd",
+    "rep_candidate": "Gary Franks",
+    "winner": "Christopher J. Dodd",
+    "source": "MEDSL regular returns",
+    "year": 1998
+  },
+  "1998-FL": {
+    "margin": 24.93875895411524,
+    "dem_candidate": "Bob Graham",
+    "rep_candidate": "Charlie Crist",
+    "winner": "Bob Graham",
+    "source": "MEDSL regular returns",
+    "year": 1998
+  },
+  "1998-GA": {
+    "margin": -7.403691673039281,
+    "dem_candidate": "Michael J. Coles",
+    "rep_candidate": "Paul Coverdell",
+    "winner": "Paul Coverdell",
+    "source": "MEDSL regular returns",
+    "year": 1998
+  },
+  "1998-IA": {
+    "margin": -38.338120740798416,
+    "dem_candidate": "David Osterberg",
+    "rep_candidate": "Charles E. Grassley",
+    "winner": "Charles E. Grassley",
+    "source": "MEDSL regular returns",
+    "year": 1998
+  },
+  "1998-IL": {
+    "margin": -2.9686368912291083,
+    "dem_candidate": "Carol Moseley-Braun",
+    "rep_candidate": "Peter G. Fitzgerald",
+    "winner": "Peter G. Fitzgerald",
+    "source": "MEDSL regular returns",
+    "year": 1998
+  },
+  "1998-IN": {
+    "margin": 29.362239420924027,
+    "dem_candidate": "Evan Bayh",
+    "rep_candidate": "Paul Helmke",
+    "winner": "Evan Bayh",
+    "source": "MEDSL regular returns",
+    "year": 1998
+  },
+  "1998-KY": {
+    "margin": -0.597245221861682,
+    "dem_candidate": "Scotty Baesler",
+    "rep_candidate": "Jim Bunning",
+    "winner": "Jim Bunning",
+    "source": "MEDSL regular returns",
+    "year": 1998
+  },
+  "1998-MD": {
+    "margin": 41.0079425677984,
+    "dem_candidate": "Barbara A. Mikulski",
+    "rep_candidate": "Ross Z. Pierpont",
+    "winner": "Barbara A. Mikulski",
+    "source": "MEDSL regular returns",
+    "year": 1998
+  },
+  "1998-NC": {
+    "margin": 4.217033384299152,
+    "dem_candidate": "John Edwards",
+    "rep_candidate": "Lauch Faircloth",
+    "winner": "John Edwards",
+    "source": "MEDSL regular returns",
+    "year": 1998
+  },
+  "1998-NH": {
+    "margin": -41.207170260616486,
+    "dem_candidate": "George Condodemetraky",
+    "rep_candidate": "Judd Gregg",
+    "winner": "Judd Gregg",
+    "source": "MEDSL regular returns",
+    "year": 1998
+  },
+  "1998-NV": {
+    "margin": 0.0961997500245897,
+    "dem_candidate": "Harry Reid",
+    "rep_candidate": "John E. Ensign",
+    "winner": "Harry Reid",
+    "source": "MEDSL regular returns",
+    "year": 1998
+  },
+  "1998-NY": {
+    "margin": 10.673998758799518,
+    "dem_candidate": "Charles E. Schumer",
+    "rep_candidate": "Alfonse D'Amato",
+    "winner": "Charles E. Schumer",
+    "source": "MEDSL regular returns",
+    "year": 1998
+  },
+  "1998-OH": {
+    "margin": -12.926403459786185,
+    "dem_candidate": "Mary O. Boyle",
+    "rep_candidate": "George V. Voinovich",
+    "winner": "George V. Voinovich",
+    "source": "MEDSL regular returns",
+    "year": 1998
+  },
+  "1998-OK": {
+    "margin": -35.944638986159745,
+    "dem_candidate": "Don E. Carroll",
+    "rep_candidate": "Don Nickles",
+    "winner": "Don Nickles",
+    "source": "MEDSL regular returns",
+    "year": 1998
+  },
+  "1998-OR": {
+    "margin": 28.739515773031343,
+    "dem_candidate": "Ron Wyden",
+    "rep_candidate": "John Lim",
+    "winner": "Ron Wyden",
+    "source": "MEDSL regular returns",
+    "year": 1998
+  },
+  "1998-PA": {
+    "margin": -27.62348756726564,
+    "dem_candidate": "Bill Lloyd",
+    "rep_candidate": "Arlen Specter",
+    "winner": "Arlen Specter",
+    "source": "MEDSL regular returns",
+    "year": 1998
+  },
+  "1998-SC": {
+    "margin": 7.1451053855260716,
+    "dem_candidate": "Ernest F. Hollings",
+    "rep_candidate": "Bob Inglis",
+    "winner": "Ernest F. Hollings",
+    "source": "MEDSL regular returns",
+    "year": 1998
+  },
+  "1998-UT": {
+    "margin": -31.986728467104605,
+    "dem_candidate": "Scott Leckman",
+    "rep_candidate": "Robert F. Bennett",
+    "winner": "Robert F. Bennett",
+    "source": "MEDSL regular returns",
+    "year": 1998
+  },
+  "1998-VT": {
+    "margin": 52.56986052571835,
+    "dem_candidate": "Patrick J. Leahy",
+    "rep_candidate": "Fred H. Tuttle",
+    "winner": "Patrick J. Leahy",
+    "source": "MEDSL regular returns",
+    "year": 1998
+  },
+  "1998-WA": {
+    "margin": 16.827997612997407,
+    "dem_candidate": "Patty Murray",
+    "rep_candidate": "Linda Smith",
+    "winner": "Patty Murray",
+    "source": "MEDSL regular returns",
+    "year": 1998
+  },
+  "2000-CA": {
+    "margin": 20.832985806123098,
+    "dem_candidate": "Dianne Feinstein",
+    "rep_candidate": "Tom Campbell",
+    "winner": "Dianne Feinstein",
+    "source": "MEDSL regular returns",
+    "year": 2000
+  },
+  "2000-CT": {
+    "margin": 29.822338503608908,
+    "dem_candidate": "Joseph I. Lieberman",
+    "rep_candidate": "Phil Giordano",
+    "winner": "Joseph I. Lieberman",
+    "source": "MEDSL regular returns",
+    "year": 2000
+  },
+  "2000-DE": {
+    "margin": 11.919915427930357,
+    "dem_candidate": "Thomas R. Carper",
+    "rep_candidate": "William V. Roth, Jr.",
+    "winner": "Thomas R. Carper",
+    "source": "MEDSL regular returns",
+    "year": 2000
+  },
+  "2000-FL": {
+    "margin": 4.989415847869165,
+    "dem_candidate": "Bill Nelson",
+    "rep_candidate": "Bill McCollum",
+    "winner": "Bill Nelson",
+    "source": "MEDSL regular returns",
+    "year": 2000
+  },
+  "2000-IN": {
+    "margin": -35.27212029838714,
+    "dem_candidate": "David L. Johnson",
+    "rep_candidate": "Richard G. Lugar",
+    "winner": "Richard G. Lugar",
+    "source": "MEDSL regular returns",
+    "year": 2000
+  },
+  "2000-MD": {
+    "margin": 26.467066730207986,
+    "dem_candidate": "Paul S. Sarbanes",
+    "rep_candidate": "Paul H. Rappaport",
+    "winner": "Paul S. Sarbanes",
+    "source": "MEDSL regular returns",
+    "year": 2000
+  },
+  "2000-ME": {
+    "margin": -37.88259680691541,
+    "dem_candidate": "Mark W. Lawrence",
+    "rep_candidate": "Olympia J. Snowe",
+    "winner": "Olympia J. Snowe",
+    "source": "MEDSL regular returns",
+    "year": 2000
+  },
+  "2000-MI": {
+    "margin": 1.657995708276174,
+    "dem_candidate": "Debbie Stabenow",
+    "rep_candidate": "Spencer Abraham",
+    "winner": "Debbie Stabenow",
+    "source": "MEDSL regular returns",
+    "year": 2000
+  },
+  "2000-MO": {
+    "margin": 2.0970897739460583,
+    "dem_candidate": "Mel Carnahan",
+    "rep_candidate": "John Ashcroft",
+    "winner": "Mel Carnahan",
+    "source": "MEDSL regular returns",
+    "year": 2000
+  },
+  "2000-MT": {
+    "margin": -3.3917001232261397,
+    "dem_candidate": "Brian Schweitzer",
+    "rep_candidate": "Conrad Burns",
+    "winner": "Conrad Burns",
+    "source": "MEDSL regular returns",
+    "year": 2000
+  },
+  "2000-NE": {
+    "margin": 2.1873326869926344,
+    "dem_candidate": "Ben Nelson",
+    "rep_candidate": "Don Stenberg",
+    "winner": "Ben Nelson",
+    "source": "MEDSL regular returns",
+    "year": 2000
+  },
+  "2000-NJ": {
+    "margin": 3.1031852591707194,
+    "dem_candidate": "Jon S. Corzine",
+    "rep_candidate": "Bob Franks",
+    "winner": "Jon S. Corzine",
+    "source": "MEDSL regular returns",
+    "year": 2000
+  },
+  "2000-NM": {
+    "margin": 23.457686831471964,
+    "dem_candidate": "Jeff Bingaman",
+    "rep_candidate": "Bill Redmond",
+    "winner": "Jeff Bingaman",
+    "source": "MEDSL regular returns",
+    "year": 2000
+  },
+  "2000-NV": {
+    "margin": -16.24527416437735,
+    "dem_candidate": "Ed Bernstein",
+    "rep_candidate": "John Ensign",
+    "winner": "John Ensign",
+    "source": "MEDSL regular returns",
+    "year": 2000
+  },
+  "2000-NY": {
+    "margin": 12.480489386226107,
+    "dem_candidate": "Hillary Rodham Clinton",
+    "rep_candidate": "Rick Lazio",
+    "winner": "Hillary Rodham Clinton",
+    "source": "MEDSL regular returns",
+    "year": 2000
+  },
+  "2000-OH": {
+    "margin": -25.12443147385167,
+    "dem_candidate": "Ted Celeste",
+    "rep_candidate": "Mike DeWine",
+    "winner": "Mike DeWine",
+    "source": "MEDSL regular returns",
+    "year": 2000
+  },
+  "2000-PA": {
+    "margin": -7.0533355474706,
+    "dem_candidate": "Ron Klink",
+    "rep_candidate": "Rick Santorum",
+    "winner": "Rick Santorum",
+    "source": "MEDSL regular returns",
+    "year": 2000
+  },
+  "2000-RI": {
+    "margin": -16.04880986207382,
+    "dem_candidate": "Robert A. Weygand",
+    "rep_candidate": "Lincoln D. Chafee",
+    "winner": "Lincoln D. Chafee",
+    "source": "MEDSL regular returns",
+    "year": 2000
+  },
+  "2000-TN": {
+    "margin": -33.8001359909112,
+    "dem_candidate": "Jeff Clark",
+    "rep_candidate": "Bill Frist",
+    "winner": "Bill Frist",
+    "source": "MEDSL regular returns",
+    "year": 2000
+  },
+  "2000-TX": {
+    "margin": -33.64904001947583,
+    "dem_candidate": "Gene Kelly",
+    "rep_candidate": "Kay Bailey Hutchison",
+    "winner": "Kay Bailey Hutchison",
+    "source": "MEDSL regular returns",
+    "year": 2000
+  },
+  "2000-UT": {
+    "margin": -35.08747986277249,
+    "dem_candidate": "Scott N. Howell",
+    "rep_candidate": "Orrin G. Hatch",
+    "winner": "Orrin G. Hatch",
+    "source": "MEDSL regular returns",
+    "year": 2000
+  },
+  "2000-VA": {
+    "margin": -4.578117931069263,
+    "dem_candidate": "Charles S. Robb",
+    "rep_candidate": "George F. Allen",
+    "winner": "George F. Allen",
+    "source": "MEDSL regular returns",
+    "year": 2000
+  },
+  "2000-WA": {
+    "margin": 0.09300501325811708,
+    "dem_candidate": "Maria Cantwell",
+    "rep_candidate": "Slade Gorton",
+    "winner": "Maria Cantwell",
+    "source": "MEDSL regular returns",
+    "year": 2000
+  },
+  "2000-WI": {
+    "margin": 24.860162732799196,
+    "dem_candidate": "Herb Kohl",
+    "rep_candidate": "John Gillespie",
+    "winner": "Herb Kohl",
+    "source": "MEDSL regular returns",
+    "year": 2000
+  },
+  "2000-WY": {
+    "margin": -53.9961604033042,
+    "dem_candidate": "Mel Logan",
+    "rep_candidate": "Craig Thomas",
+    "winner": "Craig Thomas",
+    "source": "MEDSL regular returns",
+    "year": 2000
+  },
+  "2002-AL": {
+    "margin": -19.05329496882696,
+    "dem_candidate": "Susan Parker",
+    "rep_candidate": "Jeff Sessions",
+    "winner": "Jeff Sessions",
+    "source": "MEDSL regular returns",
+    "year": 2002
+  },
+  "2002-AR": {
+    "margin": 7.791240373028438,
+    "dem_candidate": "Mark Pryor",
+    "rep_candidate": "Tim Hutchinson",
+    "winner": "Mark Pryor",
+    "source": "MEDSL regular returns",
+    "year": 2002
+  },
+  "2002-CO": {
+    "margin": -5.107015035617994,
+    "dem_candidate": "Tom Strickland",
+    "rep_candidate": "Wayne Allard",
+    "winner": "Wayne Allard",
+    "source": "MEDSL regular returns",
+    "year": 2002
+  },
+  "2002-GA": {
+    "margin": -6.933416642795046,
+    "dem_candidate": "Max Cleland",
+    "rep_candidate": "Saxby Chambliss",
+    "winner": "Saxby Chambliss",
+    "source": "MEDSL regular returns",
+    "year": 2002
+  },
+  "2002-IA": {
+    "margin": 10.615564225630383,
+    "dem_candidate": "Tom Harkin",
+    "rep_candidate": "Greg Ganske",
+    "winner": "Tom Harkin",
+    "source": "MEDSL regular returns",
+    "year": 2002
+  },
+  "2002-IL": {
+    "margin": 22.687564751277822,
+    "dem_candidate": "Richard J. Durbin",
+    "rep_candidate": "Jim Durkin",
+    "winner": "Richard J. Durbin",
+    "source": "MEDSL regular returns",
+    "year": 2002
+  },
+  "2002-KY": {
+    "margin": -29.350409656743977,
+    "dem_candidate": "Lois Combs Weinberg",
+    "rep_candidate": "Mitch McConnell",
+    "winner": "Mitch McConnell",
+    "source": "MEDSL regular returns",
+    "year": 2002
+  },
+  "2002-ME": {
+    "margin": -16.871295051089426,
+    "dem_candidate": "Chellie Pingree",
+    "rep_candidate": "Susan M. Collins",
+    "winner": "Susan M. Collins",
+    "source": "MEDSL regular returns",
+    "year": 2002
+  },
+  "2002-MI": {
+    "margin": 23.070484034081304,
+    "dem_candidate": "Carl Levin",
+    "rep_candidate": "Andrew Raczkowski",
+    "winner": "Carl Levin",
+    "source": "MEDSL regular returns",
+    "year": 2002
+  },
+  "2002-MT": {
+    "margin": 32.821334094092016,
+    "dem_candidate": "Max Baucus",
+    "rep_candidate": "Mike Taylor",
+    "winner": "Max Baucus",
+    "source": "MEDSL regular returns",
+    "year": 2002
+  },
+  "2002-NC": {
+    "margin": -8.737999352969785,
+    "dem_candidate": "Erskine B. Bowles",
+    "rep_candidate": "Elizabeth H. Dole",
+    "winner": "Elizabeth H. Dole",
+    "source": "MEDSL regular returns",
+    "year": 2002
+  },
+  "2002-NH": {
+    "margin": -4.543520118148546,
+    "dem_candidate": "Jeanne Shaheen",
+    "rep_candidate": "John E. Sununu",
+    "winner": "John E. Sununu",
+    "source": "MEDSL regular returns",
+    "year": 2002
+  },
+  "2002-NJ": {
+    "margin": 10.14955734741357,
+    "dem_candidate": "Frank R. Lautenberg",
+    "rep_candidate": "Douglas R. Forrester",
+    "winner": "Frank R. Lautenberg",
+    "source": "MEDSL regular returns",
+    "year": 2002
+  },
+  "2002-NM": {
+    "margin": -30.085538736709616,
+    "dem_candidate": "Gloria Tristani",
+    "rep_candidate": "Pete V. Domenici",
+    "winner": "Pete V. Domenici",
+    "source": "MEDSL regular returns",
+    "year": 2002
+  },
+  "2002-OK": {
+    "margin": -22.42470903155969,
+    "dem_candidate": "David Walters",
+    "rep_candidate": "James M. Inhofe",
+    "winner": "James M. Inhofe",
+    "source": "MEDSL regular returns",
+    "year": 2002
+  },
+  "2002-OR": {
+    "margin": -17.32759011188575,
+    "dem_candidate": "Bill Bradbury",
+    "rep_candidate": "Gordon Smith",
+    "winner": "Gordon Smith",
+    "source": "MEDSL regular returns",
+    "year": 2002
+  },
+  "2002-RI": {
+    "margin": 56.85297698883127,
+    "dem_candidate": "Jack Reed",
+    "rep_candidate": "Robert G. Tingle",
+    "winner": "Jack Reed",
+    "source": "MEDSL regular returns",
+    "year": 2002
+  },
+  "2002-SC": {
+    "margin": -10.359960602150696,
+    "dem_candidate": "Alex Sanders",
+    "rep_candidate": "Lindsey O. Graham",
+    "winner": "Lindsey O. Graham",
+    "source": "MEDSL regular returns",
+    "year": 2002
+  },
+  "2002-SD": {
+    "margin": 0.1590766378614359,
+    "dem_candidate": "Tim Johnson",
+    "rep_candidate": "John Thune",
+    "winner": "Tim Johnson",
+    "source": "MEDSL regular returns",
+    "year": 2002
+  },
+  "2002-TN": {
+    "margin": -10.079828119501398,
+    "dem_candidate": "Bob Clement",
+    "rep_candidate": "Lamar Alexander",
+    "winner": "Lamar Alexander",
+    "source": "MEDSL regular returns",
+    "year": 2002
+  },
+  "2002-TX": {
+    "margin": -12.140271307216688,
+    "dem_candidate": "Ron Kirk",
+    "rep_candidate": "John Cornyn",
+    "winner": "John Cornyn",
+    "source": "MEDSL regular returns",
+    "year": 2002
+  },
+  "2004-AK": {
+    "margin": -3.2216046340933917,
+    "dem_candidate": "Tony Knowles",
+    "rep_candidate": "Lisa Murkowski",
+    "winner": "Lisa Murkowski",
+    "source": "MEDSL regular returns",
+    "year": 2004
+  },
+  "2004-AR": {
+    "margin": 11.832140048834995,
+    "dem_candidate": "Blanche L. Lincoln",
+    "rep_candidate": "Jim Holt",
+    "winner": "Blanche L. Lincoln",
+    "source": "MEDSL regular returns",
+    "year": 2004
+  },
+  "2004-CA": {
+    "margin": 20.846759587027055,
+    "dem_candidate": "Barbara Boxer",
+    "rep_candidate": "Bill Jones",
+    "winner": "Barbara Boxer",
+    "source": "MEDSL regular returns",
+    "year": 2004
+  },
+  "2004-CO": {
+    "margin": 4.875219219964925,
+    "dem_candidate": "Ken Salazar",
+    "rep_candidate": "Pete Coors",
+    "winner": "Ken Salazar",
+    "source": "MEDSL regular returns",
+    "year": 2004
+  },
+  "2004-CT": {
+    "margin": 34.75157793907188,
+    "dem_candidate": "Christopher J. Dodd",
+    "rep_candidate": "Jack C. Orchulli",
+    "winner": "Christopher J. Dodd",
+    "source": "MEDSL regular returns",
+    "year": 2004
+  },
+  "2004-FL": {
+    "margin": -1.1381283246122678,
+    "dem_candidate": "Betty Castor",
+    "rep_candidate": "Mel Martinez",
+    "winner": "Mel Martinez",
+    "source": "MEDSL regular returns",
+    "year": 2004
+  },
+  "2004-GA": {
+    "margin": -18.29098205141547,
+    "dem_candidate": "Denise L. Majette",
+    "rep_candidate": "Johnny Isakson",
+    "winner": "Johnny Isakson",
+    "source": "MEDSL regular returns",
+    "year": 2004
+  },
+  "2004-IA": {
+    "margin": -43.143243205978465,
+    "dem_candidate": "Arthur Small",
+    "rep_candidate": "Charles E. Grassley",
+    "winner": "Charles E. Grassley",
+    "source": "MEDSL regular returns",
+    "year": 2004
+  },
+  "2004-IL": {
+    "margin": 44.24020467724882,
+    "dem_candidate": "Barack Obama",
+    "rep_candidate": "Alan Keyes",
+    "winner": "Barack Obama",
+    "source": "MEDSL regular returns",
+    "year": 2004
+  },
+  "2004-IN": {
+    "margin": 24.701808371815606,
+    "dem_candidate": "Evan Bayh",
+    "rep_candidate": "Marvin Scott",
+    "winner": "Evan Bayh",
+    "source": "MEDSL regular returns",
+    "year": 2004
+  },
+  "2004-KY": {
+    "margin": -1.3136452786595854,
+    "dem_candidate": "Daniel Mongiardo",
+    "rep_candidate": "Jim Bunning",
+    "winner": "Jim Bunning",
+    "source": "MEDSL regular returns",
+    "year": 2004
+  },
+  "2004-MD": {
+    "margin": 31.543536738781317,
+    "dem_candidate": "Barbara A. Mikulski",
+    "rep_candidate": "E. J. Pipkin",
+    "winner": "Barbara A. Mikulski",
+    "source": "MEDSL regular returns",
+    "year": 2004
+  },
+  "2004-MO": {
+    "margin": -13.44472882844172,
+    "dem_candidate": "Nancy Farmer",
+    "rep_candidate": "Christopher S. Bond",
+    "winner": "Christopher S. Bond",
+    "source": "MEDSL regular returns",
+    "year": 2004
+  },
+  "2004-NC": {
+    "margin": -4.641473935134494,
+    "dem_candidate": "Erskine Bowles",
+    "rep_candidate": "Richard Burr",
+    "winner": "Richard Burr",
+    "source": "MEDSL regular returns",
+    "year": 2004
+  },
+  "2004-NH": {
+    "margin": -32.49532294529522,
+    "dem_candidate": "Doris R. Haddock",
+    "rep_candidate": "Judd Gregg",
+    "winner": "Judd Gregg",
+    "source": "MEDSL regular returns",
+    "year": 2004
+  },
+  "2004-NV": {
+    "margin": 26.963416276966303,
+    "dem_candidate": "Harry Reid",
+    "rep_candidate": "Richard Ziser",
+    "winner": "Harry Reid",
+    "source": "MEDSL regular returns",
+    "year": 2004
+  },
+  "2004-NY": {
+    "margin": 49.17603781642632,
+    "dem_candidate": "Charles E. Schumer",
+    "rep_candidate": "Howard Mills",
+    "winner": "Charles E. Schumer",
+    "source": "MEDSL regular returns",
+    "year": 2004
+  },
+  "2004-OH": {
+    "margin": -27.70578784328232,
+    "dem_candidate": "Eric D. Fingerhut",
+    "rep_candidate": "George V. Voinovich",
+    "winner": "George V. Voinovich",
+    "source": "MEDSL regular returns",
+    "year": 2004
+  },
+  "2004-OK": {
+    "margin": -12.254453996263738,
+    "dem_candidate": "Brad Carson",
+    "rep_candidate": "Tom Coburn",
+    "winner": "Tom Coburn",
+    "source": "MEDSL regular returns",
+    "year": 2004
+  },
+  "2004-PA": {
+    "margin": -11.236563085758572,
+    "dem_candidate": "Joseph M. Hoeffel",
+    "rep_candidate": "Arlen Specter",
+    "winner": "Arlen Specter",
+    "source": "MEDSL regular returns",
+    "year": 2004
+  },
+  "2004-SC": {
+    "margin": -9.784054443306687,
+    "dem_candidate": "Inez Tenenbaum",
+    "rep_candidate": "Jim DeMint",
+    "winner": "Jim DeMint",
+    "source": "MEDSL regular returns",
+    "year": 2004
+  },
+  "2004-SD": {
+    "margin": -1.1523870875384725,
+    "dem_candidate": "Tom Daschle",
+    "rep_candidate": "John Thune",
+    "winner": "John Thune",
+    "source": "MEDSL regular returns",
+    "year": 2004
+  },
+  "2004-UT": {
+    "margin": -41.518414173521755,
+    "dem_candidate": "R. Paul Van Dam",
+    "rep_candidate": "Robert F. Bennett",
+    "winner": "Robert F. Bennett",
+    "source": "MEDSL regular returns",
+    "year": 2004
+  },
+  "2004-WA": {
+    "margin": 12.530407088282578,
+    "dem_candidate": "Patty Murray",
+    "rep_candidate": "George R. Nethercutt",
+    "winner": "Patty Murray",
+    "source": "MEDSL regular returns",
+    "year": 2004
+  },
+  "2004-WI": {
+    "margin": 11.299507818997368,
+    "dem_candidate": "Russel D. Feingold",
+    "rep_candidate": "Tim Michels",
+    "winner": "Russel D. Feingold",
+    "source": "MEDSL regular returns",
+    "year": 2004
+  },
+  "2006-AZ": {
+    "margin": -10.16253206712843,
+    "dem_candidate": "Jim Pederson",
+    "rep_candidate": "Jon Kyl",
+    "winner": "Jon Kyl",
+    "source": "MEDSL regular returns",
+    "year": 2006
+  },
+  "2006-CA": {
+    "margin": 25.851472726729558,
+    "dem_candidate": "Dianne Feinstein",
+    "rep_candidate": "Richard \"Dick\" Mountjoy",
+    "winner": "Dianne Feinstein",
+    "source": "MEDSL regular returns",
+    "year": 2006
+  },
+  "2006-DE": {
+    "margin": 41.96112375728774,
+    "dem_candidate": "Thomas R. Carper",
+    "rep_candidate": "Jan Ting",
+    "winner": "Thomas R. Carper",
+    "source": "MEDSL regular returns",
+    "year": 2006
+  },
+  "2006-FL": {
+    "margin": 22.56718981061871,
+    "dem_candidate": "Bill Nelson",
+    "rep_candidate": "Katherine Harris",
+    "winner": "Bill Nelson",
+    "source": "MEDSL regular returns",
+    "year": 2006
+  },
+  "2006-MD": {
+    "margin": 10.172828827512939,
+    "dem_candidate": "Benjamin L. Cardin",
+    "rep_candidate": "Michael S. Steele",
+    "winner": "Benjamin L. Cardin",
+    "source": "MEDSL regular returns",
+    "year": 2006
+  },
+  "2006-ME": {
+    "margin": -56.38129497789782,
+    "dem_candidate": "Jean M. Hay Bright",
+    "rep_candidate": "Olympia J. Snowe",
+    "winner": "Olympia J. Snowe",
+    "source": "MEDSL regular returns",
+    "year": 2006
+  },
+  "2006-MI": {
+    "margin": 15.944514433927308,
+    "dem_candidate": "Debbie Stabenow",
+    "rep_candidate": "Michael Bouchard",
+    "winner": "Debbie Stabenow",
+    "source": "MEDSL regular returns",
+    "year": 2006
+  },
+  "2006-MO": {
+    "margin": 2.342842290451538,
+    "dem_candidate": "Claire McCaskill",
+    "rep_candidate": "James M. Talent",
+    "winner": "Claire McCaskill",
+    "source": "MEDSL regular returns",
+    "year": 2006
+  },
+  "2006-MT": {
+    "margin": 0.8992042976007755,
+    "dem_candidate": "Jon Tester",
+    "rep_candidate": "Conrad Burns",
+    "winner": "Jon Tester",
+    "source": "MEDSL regular returns",
+    "year": 2006
+  },
+  "2006-NE": {
+    "margin": 27.765584586605797,
+    "dem_candidate": "E. Benjamin Nelson",
+    "rep_candidate": "Pete Ricketts",
+    "winner": "E. Benjamin Nelson",
+    "source": "MEDSL regular returns",
+    "year": 2006
+  },
+  "2006-NJ": {
+    "margin": 16.281109527464093,
+    "dem_candidate": "Robert Menendez",
+    "rep_candidate": "Thomas H. Kean, Jr.",
+    "winner": "Robert Menendez",
+    "source": "MEDSL regular returns",
+    "year": 2006
+  },
+  "2006-NV": {
+    "margin": -14.912782359428252,
+    "dem_candidate": "Jack Carter",
+    "rep_candidate": "John Ensign",
+    "winner": "John Ensign",
+    "source": "MEDSL regular returns",
+    "year": 2006
+  },
+  "2006-NY": {
+    "margin": 36.72755434067541,
+    "dem_candidate": "Hillary Rodham Clinton",
+    "rep_candidate": "John Spencer",
+    "winner": "Hillary Rodham Clinton",
+    "source": "MEDSL regular returns",
+    "year": 2006
+  },
+  "2006-OH": {
+    "margin": 12.351464735021796,
+    "dem_candidate": "Sherrod Brown",
+    "rep_candidate": "Mike DeWine",
+    "winner": "Sherrod Brown",
+    "source": "MEDSL regular returns",
+    "year": 2006
+  },
+  "2006-PA": {
+    "margin": 17.36751678984698,
+    "dem_candidate": "Bob Casey, Jr.",
+    "rep_candidate": "Rick Santorum",
+    "winner": "Bob Casey, Jr.",
+    "source": "MEDSL regular returns",
+    "year": 2006
+  },
+  "2006-RI": {
+    "margin": 7.037270807521176,
+    "dem_candidate": "Sheldon Whitehouse",
+    "rep_candidate": "Lincoln Chafee",
+    "winner": "Sheldon Whitehouse",
+    "source": "MEDSL regular returns",
+    "year": 2006
+  },
+  "2006-TN": {
+    "margin": -2.75901202671769,
+    "dem_candidate": "Harold E. Ford, Jr.",
+    "rep_candidate": "Bob Corker",
+    "winner": "Bob Corker",
+    "source": "MEDSL regular returns",
+    "year": 2006
+  },
+  "2006-TX": {
+    "margin": -26.241151569922724,
+    "dem_candidate": "Barbara Ann Radnofsky",
+    "rep_candidate": "Kay Bailey Hutchison",
+    "winner": "Kay Bailey Hutchison",
+    "source": "MEDSL regular returns",
+    "year": 2006
+  },
+  "2006-UT": {
+    "margin": -33.49822090062339,
+    "dem_candidate": "Pete Ashdown",
+    "rep_candidate": "Orrin G. Hatch",
+    "winner": "Orrin G. Hatch",
+    "source": "MEDSL regular returns",
+    "year": 2006
+  },
+  "2006-VA": {
+    "margin": 0.3983546573419765,
+    "dem_candidate": "James H. \"Jim\" Webb, Jr.",
+    "rep_candidate": "George Allen",
+    "winner": "James H. \"Jim\" Webb, Jr.",
+    "source": "MEDSL regular returns",
+    "year": 2006
+  },
+  "2006-WA": {
+    "margin": 17.481114557224068,
+    "dem_candidate": "Maria Cantwell",
+    "rep_candidate": "Mike McGavick",
+    "winner": "Maria Cantwell",
+    "source": "MEDSL regular returns",
+    "year": 2006
+  },
+  "2006-WI": {
+    "margin": 39.08721520473657,
+    "dem_candidate": "Herb Kohl",
+    "rep_candidate": "Robert Gerald Lorge",
+    "winner": "Herb Kohl",
+    "source": "MEDSL regular returns",
+    "year": 2006
+  },
+  "2006-WY": {
+    "margin": -40.18927117633333,
+    "dem_candidate": "Dale Groutage",
+    "rep_candidate": "Craig Thomas",
+    "winner": "Craig Thomas",
+    "source": "MEDSL regular returns",
+    "year": 2006
+  },
+  "2008-AK": {
+    "margin": 1.3195095817157965,
+    "dem_candidate": "Mark Begich",
+    "rep_candidate": "Ted Stevens",
+    "winner": "Mark Begich",
+    "source": "MEDSL regular returns",
+    "year": 2008
+  },
+  "2008-AL": {
+    "margin": -26.873310674544435,
+    "dem_candidate": "Vivian Davis Figures",
+    "rep_candidate": "Jeff Sessions",
+    "winner": "Jeff Sessions",
+    "source": "MEDSL regular returns",
+    "year": 2008
+  },
+  "2008-CO": {
+    "margin": 10.81305764062457,
+    "dem_candidate": "Mark Udall",
+    "rep_candidate": "Bob Schaffer",
+    "winner": "Mark Udall",
+    "source": "MEDSL regular returns",
+    "year": 2008
+  },
+  "2008-DE": {
+    "margin": 29.373025162382515,
+    "dem_candidate": "Joseph R. Biden Jr.",
+    "rep_candidate": "Christine O'Donnell",
+    "winner": "Joseph R. Biden Jr.",
+    "source": "MEDSL regular returns",
+    "year": 2008
+  },
+  "2008-IA": {
+    "margin": 25.41562033228317,
+    "dem_candidate": "Tom Harkin",
+    "rep_candidate": "Christopher Reed",
+    "winner": "Tom Harkin",
+    "source": "MEDSL regular returns",
+    "year": 2008
+  },
+  "2008-ID": {
+    "margin": -25.6641206665461,
+    "dem_candidate": "Larry LaRocco",
+    "rep_candidate": "Jim Risch",
+    "winner": "Jim Risch",
+    "source": "MEDSL regular returns",
+    "year": 2008
+  },
+  "2008-IL": {
+    "margin": 40.791147218953114,
+    "dem_candidate": "Richard J. Durbin",
+    "rep_candidate": "Steve Sauerberg",
+    "winner": "Richard J. Durbin",
+    "source": "MEDSL regular returns",
+    "year": 2008
+  },
+  "2008-KS": {
+    "margin": -24.45161400746243,
+    "dem_candidate": "Jim Slattery",
+    "rep_candidate": "Pat Roberts",
+    "winner": "Pat Roberts",
+    "source": "MEDSL regular returns",
+    "year": 2008
+  },
+  "2008-KY": {
+    "margin": -5.931239140369865,
+    "dem_candidate": "Bruce Lunsford",
+    "rep_candidate": "Mitch McConnell",
+    "winner": "Mitch McConnell",
+    "source": "MEDSL regular returns",
+    "year": 2008
+  },
+  "2008-MA": {
+    "margin": 36.09121820499389,
+    "dem_candidate": "John F. Kerry",
+    "rep_candidate": "Jeffrey K. Beatty",
+    "winner": "John F. Kerry",
+    "source": "MEDSL regular returns",
+    "year": 2008
+  },
+  "2008-ME": {
+    "margin": -22.76702449537862,
+    "dem_candidate": "Thomas H. Allen",
+    "rep_candidate": "Susan M. Collins",
+    "winner": "Susan M. Collins",
+    "source": "MEDSL regular returns",
+    "year": 2008
+  },
+  "2008-MI": {
+    "margin": 29.860650468772437,
+    "dem_candidate": "Carl Levin",
+    "rep_candidate": "Jack Hoogendyk",
+    "winner": "Carl Levin",
+    "source": "MEDSL regular returns",
+    "year": 2008
+  },
+  "2008-MT": {
+    "margin": 45.83195508083189,
+    "dem_candidate": "Max Baucus",
+    "rep_candidate": "Bob Kelleher",
+    "winner": "Max Baucus",
+    "source": "MEDSL regular returns",
+    "year": 2008
+  },
+  "2008-NC": {
+    "margin": 8.745870319262062,
+    "dem_candidate": "Kay Hagan",
+    "rep_candidate": "Elizabeth Dole",
+    "winner": "Kay Hagan",
+    "source": "MEDSL regular returns",
+    "year": 2008
+  },
+  "2008-NE": {
+    "margin": -17.89683309410198,
+    "dem_candidate": "Scott Kleeb",
+    "rep_candidate": "Mike Johanns",
+    "winner": "Mike Johanns",
+    "source": "MEDSL regular returns",
+    "year": 2008
+  },
+  "2008-NH": {
+    "margin": 6.54463684585214,
+    "dem_candidate": "Jeanne Shaheen",
+    "rep_candidate": "John E. Sununu",
+    "winner": "Jeanne Shaheen",
+    "source": "MEDSL regular returns",
+    "year": 2008
+  },
+  "2008-NJ": {
+    "margin": 14.36571193786609,
+    "dem_candidate": "Frank R. Lautenberg",
+    "rep_candidate": "Dick Zimmer",
+    "winner": "Frank R. Lautenberg",
+    "source": "MEDSL regular returns",
+    "year": 2008
+  },
+  "2008-NM": {
+    "margin": 22.655982516845746,
+    "dem_candidate": "Tom Udall",
+    "rep_candidate": "Steve Pearce",
+    "winner": "Tom Udall",
+    "source": "MEDSL regular returns",
+    "year": 2008
+  },
+  "2008-OK": {
+    "margin": -18.250870761692838,
+    "dem_candidate": "Andrew Rice",
+    "rep_candidate": "James M. Inhofe",
+    "winner": "James M. Inhofe",
+    "source": "MEDSL regular returns",
+    "year": 2008
+  },
+  "2008-OR": {
+    "margin": 3.547840107909252,
+    "dem_candidate": "Jeff Merkley",
+    "rep_candidate": "Gordon H. Smith",
+    "winner": "Jeff Merkley",
+    "source": "MEDSL regular returns",
+    "year": 2008
+  },
+  "2008-SC": {
+    "margin": -15.312761929245296,
+    "dem_candidate": "Bob Conley",
+    "rep_candidate": "Lindsey Graham",
+    "winner": "Lindsey Graham",
+    "source": "MEDSL regular returns",
+    "year": 2008
+  },
+  "2008-SD": {
+    "margin": 24.983384689746842,
+    "dem_candidate": "Tim Johnson",
+    "rep_candidate": "Joel Dykstra",
+    "winner": "Tim Johnson",
+    "source": "MEDSL regular returns",
+    "year": 2008
+  },
+  "2008-TN": {
+    "margin": -34.61185922607494,
+    "dem_candidate": "Robert D. Tuke",
+    "rep_candidate": "Lamar Alexander",
+    "winner": "Lamar Alexander",
+    "source": "MEDSL regular returns",
+    "year": 2008
+  },
+  "2008-TX": {
+    "margin": -12.270277839539455,
+    "dem_candidate": "Richard J. \"Rick\" Noriega",
+    "rep_candidate": "John Cornyn",
+    "winner": "John Cornyn",
+    "source": "MEDSL regular returns",
+    "year": 2008
+  },
+  "2008-VA": {
+    "margin": 31.69669917127018,
+    "dem_candidate": "Mark R. Warner",
+    "rep_candidate": "James S. \"Jim\" Gilmore III",
+    "winner": "Mark R. Warner",
+    "source": "MEDSL regular returns",
+    "year": 2008
+  },
+  "2008-WV": {
+    "margin": 27.47565114235626,
+    "dem_candidate": "John D. Rockefeller IV",
+    "rep_candidate": "Jay Wolfe",
+    "winner": "John D. Rockefeller IV",
+    "source": "MEDSL regular returns",
+    "year": 2008
+  },
+  "2008-WY": {
+    "margin": -51.43245072633843,
+    "dem_candidate": "Chris Rothfuss",
+    "rep_candidate": "Michael B. Enzi",
+    "winner": "Michael B. Enzi",
+    "source": "MEDSL regular returns",
+    "year": 2008
+  },
+  "2010-AL": {
+    "margin": -30.500202183582694,
+    "dem_candidate": "William G. Barnes",
+    "rep_candidate": "Richard C. Shelby",
+    "winner": "Richard C. Shelby",
+    "source": "MEDSL regular returns",
+    "year": 2010
+  },
+  "2010-AR": {
+    "margin": -22.096207760748552,
+    "dem_candidate": "Blanche L. Lincoln",
+    "rep_candidate": "John Boozman",
+    "winner": "John Boozman",
+    "source": "MEDSL regular returns",
+    "year": 2010
+  },
+  "2010-AZ": {
+    "margin": -25.888662302691618,
+    "dem_candidate": "Rodney Glassman",
+    "rep_candidate": "John McCain",
+    "winner": "John McCain",
+    "source": "MEDSL regular returns",
+    "year": 2010
+  },
+  "2010-CA": {
+    "margin": 10.609320432264035,
+    "dem_candidate": "Barbara Boxer",
+    "rep_candidate": "Carly Fiorina",
+    "winner": "Barbara Boxer",
+    "source": "MEDSL regular returns",
+    "year": 2010
+  },
+  "2010-CO": {
+    "margin": 1.723624084031676,
+    "dem_candidate": "Michael F. Bennet",
+    "rep_candidate": "Ken Buck",
+    "winner": "Michael F. Bennet",
+    "source": "MEDSL regular returns",
+    "year": 2010
+  },
+  "2010-CT": {
+    "margin": 12.138690616292058,
+    "dem_candidate": "Richard Blumenthal",
+    "rep_candidate": "Linda E. McMahon",
+    "winner": "Richard Blumenthal",
+    "source": "MEDSL regular returns",
+    "year": 2010
+  },
+  "2010-GA": {
+    "margin": -19.843308853693262,
+    "dem_candidate": "Michael \"Mike\" Thurmond",
+    "rep_candidate": "Johnny Isakson",
+    "winner": "Johnny Isakson",
+    "source": "MEDSL regular returns",
+    "year": 2010
+  },
+  "2010-HI": {
+    "margin": 55.23718596622868,
+    "dem_candidate": "Daniel K. Inouye",
+    "rep_candidate": "Cam Cavasso",
+    "winner": "Daniel K. Inouye",
+    "source": "MEDSL regular returns",
+    "year": 2010
+  },
+  "2010-IA": {
+    "margin": -31.794539137040886,
+    "dem_candidate": "Roxanne Conlin",
+    "rep_candidate": "Chuck Grassley",
+    "winner": "Chuck Grassley",
+    "source": "MEDSL regular returns",
+    "year": 2010
+  },
+  "2010-ID": {
+    "margin": -48.12296011666397,
+    "dem_candidate": "P. Tom Sullivan",
+    "rep_candidate": "Mike Crapo",
+    "winner": "Mike Crapo",
+    "source": "MEDSL regular returns",
+    "year": 2010
+  },
+  "2010-IN": {
+    "margin": -15.415624426098452,
+    "dem_candidate": "Brad Ellsworth",
+    "rep_candidate": "Dan Coats",
+    "winner": "Dan Coats",
+    "source": "MEDSL regular returns",
+    "year": 2010
+  },
+  "2010-KS": {
+    "margin": -45.31408928584686,
+    "dem_candidate": "Lisa Johnston",
+    "rep_candidate": "Jerry Moran",
+    "winner": "Jerry Moran",
+    "source": "MEDSL regular returns",
+    "year": 2010
+  },
+  "2010-KY": {
+    "margin": -11.48095751601687,
+    "dem_candidate": "Jack Conway",
+    "rep_candidate": "Rand Paul",
+    "winner": "Rand Paul",
+    "source": "MEDSL regular returns",
+    "year": 2010
+  },
+  "2010-MD": {
+    "margin": 26.99397671858933,
+    "dem_candidate": "Barbara Mikulski",
+    "rep_candidate": "Eric Wargotz",
+    "winner": "Barbara Mikulski",
+    "source": "MEDSL regular returns",
+    "year": 2010
+  },
+  "2010-MO": {
+    "margin": -14.34050510440936,
+    "dem_candidate": "Robin Carnahan",
+    "rep_candidate": "Roy Blunt",
+    "winner": "Roy Blunt",
+    "source": "MEDSL regular returns",
+    "year": 2010
+  },
+  "2010-NC": {
+    "margin": -12.02295706690433,
+    "dem_candidate": "Elaine Marshall",
+    "rep_candidate": "Richard Burr",
+    "winner": "Richard Burr",
+    "source": "MEDSL regular returns",
+    "year": 2010
+  },
+  "2010-NH": {
+    "margin": -23.97501605171033,
+    "dem_candidate": "Paul W. Hodes",
+    "rep_candidate": "Kelly Ayotte",
+    "winner": "Kelly Ayotte",
+    "source": "MEDSL regular returns",
+    "year": 2010
+  },
+  "2010-NV": {
+    "margin": 6.054847941813589,
+    "dem_candidate": "Harry Reid",
+    "rep_candidate": "Sharron Angle",
+    "winner": "Harry Reid",
+    "source": "MEDSL regular returns",
+    "year": 2010
+  },
+  "2010-NY": {
+    "margin": 34.61466690722772,
+    "dem_candidate": "Charles E. Schumer",
+    "rep_candidate": "Jay Townsend",
+    "winner": "Charles E. Schumer",
+    "source": "MEDSL regular returns",
+    "year": 2010
+  },
+  "2010-OH": {
+    "margin": -18.12194805120534,
+    "dem_candidate": "Lee Fisher",
+    "rep_candidate": "Rob Portman",
+    "winner": "Rob Portman",
+    "source": "MEDSL regular returns",
+    "year": 2010
+  },
+  "2010-OK": {
+    "margin": -45.989011435584416,
+    "dem_candidate": "Jim Rogers",
+    "rep_candidate": "Thomas A. Coburn",
+    "winner": "Thomas A. Coburn",
+    "source": "MEDSL regular returns",
+    "year": 2010
+  },
+  "2010-OR": {
+    "margin": 18.632383563769935,
+    "dem_candidate": "Ron Wyden",
+    "rep_candidate": "Jim Huffman",
+    "winner": "Ron Wyden",
+    "source": "MEDSL regular returns",
+    "year": 2010
+  },
+  "2010-PA": {
+    "margin": -2.0169893814480417,
+    "dem_candidate": "Joe Sestak",
+    "rep_candidate": "Pat Toomey",
+    "winner": "Pat Toomey",
+    "source": "MEDSL regular returns",
+    "year": 2010
+  },
+  "2010-SC": {
+    "margin": -37.960249079225335,
+    "dem_candidate": "Alvin M. Greene",
+    "rep_candidate": "Jim DeMint",
+    "winner": "Jim DeMint",
+    "source": "MEDSL regular returns",
+    "year": 2010
+  },
+  "2010-UT": {
+    "margin": -30.548869388827008,
+    "dem_candidate": "Sam F. Granato",
+    "rep_candidate": "Mike Lee",
+    "winner": "Mike Lee",
+    "source": "MEDSL regular returns",
+    "year": 2010
+  },
+  "2010-VT": {
+    "margin": 35.084382534154834,
+    "dem_candidate": "Patrick J. Leahy",
+    "rep_candidate": "Len Britton",
+    "winner": "Patrick J. Leahy",
+    "source": "MEDSL regular returns",
+    "year": 2010
+  },
+  "2010-WA": {
+    "margin": 4.729651697626612,
+    "dem_candidate": "Patty Murray",
+    "rep_candidate": "Dino Rossi",
+    "winner": "Patty Murray",
+    "source": "MEDSL regular returns",
+    "year": 2010
+  },
+  "2010-WI": {
+    "margin": -4.8925525755755706,
+    "dem_candidate": "Russell D. Feingold",
+    "rep_candidate": "Ron Johnson",
+    "winner": "Ron Johnson",
+    "source": "MEDSL regular returns",
+    "year": 2010
+  },
+  "2012-AZ": {
+    "margin": -3.1721173153280313,
+    "dem_candidate": "Richard Carmona",
+    "rep_candidate": "Jeff Flake",
+    "winner": "Jeff Flake",
+    "source": "MEDSL regular returns",
+    "year": 2012
+  },
+  "2012-CA": {
+    "margin": 25.048568944289194,
+    "dem_candidate": "Dianne Feinstein",
+    "rep_candidate": "Elizabeth Emken",
+    "winner": "Dianne Feinstein",
+    "source": "MEDSL regular returns",
+    "year": 2012
+  },
+  "2012-CT": {
+    "margin": 12.006081697469337,
+    "dem_candidate": "Christopher S. Murphy",
+    "rep_candidate": "Linda E. McMahon",
+    "winner": "Christopher S. Murphy",
+    "source": "MEDSL regular returns",
+    "year": 2012
+  },
+  "2012-FL": {
+    "margin": 13.345297340747944,
+    "dem_candidate": "Bill Nelson",
+    "rep_candidate": "Connie Mack",
+    "winner": "Bill Nelson",
+    "source": "MEDSL regular returns",
+    "year": 2012
+  },
+  "2012-HI": {
+    "margin": 25.203085836142193,
+    "dem_candidate": "Mazie K. Hirono",
+    "rep_candidate": "Linda Lingle",
+    "winner": "Mazie K. Hirono",
+    "source": "MEDSL regular returns",
+    "year": 2012
+  },
+  "2012-IN": {
+    "margin": 6.1106459245934035,
+    "dem_candidate": "Joe Donnelly",
+    "rep_candidate": "Richard E. Mourdock",
+    "winner": "Joe Donnelly",
+    "source": "MEDSL regular returns",
+    "year": 2012
+  },
+  "2012-MA": {
+    "margin": 7.554477975801374,
+    "dem_candidate": "Elizabeth A. Warren",
+    "rep_candidate": "Scott P. Brown",
+    "winner": "Elizabeth A. Warren",
+    "source": "MEDSL regular returns",
+    "year": 2012
+  },
+  "2012-MI": {
+    "margin": 21.505538713256225,
+    "dem_candidate": "Debbie Stabenow",
+    "rep_candidate": "Pete Hoekstra",
+    "winner": "Debbie Stabenow",
+    "source": "MEDSL regular returns",
+    "year": 2012
+  },
+  "2012-MN": {
+    "margin": 36.23860405374483,
+    "dem_candidate": "Amy Klobuchar",
+    "rep_candidate": "Kurt Bills",
+    "winner": "Amy Klobuchar",
+    "source": "MEDSL regular returns",
+    "year": 2012
+  },
+  "2012-MO": {
+    "margin": 16.715567491731385,
+    "dem_candidate": "Claire McCaskill",
+    "rep_candidate": "W. Todd Akin",
+    "winner": "Claire McCaskill",
+    "source": "MEDSL regular returns",
+    "year": 2012
+  },
+  "2012-MT": {
+    "margin": 3.9790917137484754,
+    "dem_candidate": "Jon Tester",
+    "rep_candidate": "Denny Rehberg",
+    "winner": "Jon Tester",
+    "source": "MEDSL regular returns",
+    "year": 2012
+  },
+  "2012-ND": {
+    "margin": 0.9182518186765414,
+    "dem_candidate": "Heidi Heitkamp",
+    "rep_candidate": "Rick Berg",
+    "winner": "Heidi Heitkamp",
+    "source": "MEDSL regular returns",
+    "year": 2012
+  },
+  "2012-NE": {
+    "margin": -15.54886554430033,
+    "dem_candidate": "Bob Kerrey",
+    "rep_candidate": "Deb Fischer",
+    "winner": "Deb Fischer",
+    "source": "MEDSL regular returns",
+    "year": 2012
+  },
+  "2012-NJ": {
+    "margin": 19.840323838015877,
+    "dem_candidate": "Robert Menendez",
+    "rep_candidate": "Joe Kyrillos",
+    "winner": "Robert Menendez",
+    "source": "MEDSL regular returns",
+    "year": 2012
+  },
+  "2012-NM": {
+    "margin": 5.9515888708755424,
+    "dem_candidate": "Martin Heinrich",
+    "rep_candidate": "Heather A. Wilson",
+    "winner": "Martin Heinrich",
+    "source": "MEDSL regular returns",
+    "year": 2012
+  },
+  "2012-NV": {
+    "margin": -1.280905043065674,
+    "dem_candidate": "Shelley Berkley",
+    "rep_candidate": "Dean Heller",
+    "winner": "Dean Heller",
+    "source": "MEDSL regular returns",
+    "year": 2012
+  },
+  "2012-NY": {
+    "margin": 46.51511255351639,
+    "dem_candidate": "Kirsten E. Gillibrand",
+    "rep_candidate": "Wendy Long",
+    "winner": "Kirsten E. Gillibrand",
+    "source": "MEDSL regular returns",
+    "year": 2012
+  },
+  "2012-OH": {
+    "margin": 6.289971418139651,
+    "dem_candidate": "Sherrod Brown",
+    "rep_candidate": "Josh Mandel",
+    "winner": "Sherrod Brown",
+    "source": "MEDSL regular returns",
+    "year": 2012
+  },
+  "2012-PA": {
+    "margin": 9.261954081514569,
+    "dem_candidate": "Robert P. Casey, Jr.",
+    "rep_candidate": "Tom Smith",
+    "winner": "Robert P. Casey, Jr.",
+    "source": "MEDSL regular returns",
+    "year": 2012
+  },
+  "2012-RI": {
+    "margin": 29.912571658646012,
+    "dem_candidate": "Sheldon Whitehouse",
+    "rep_candidate": "Benjamin Barrett Hinckley III",
+    "winner": "Sheldon Whitehouse",
+    "source": "MEDSL regular returns",
+    "year": 2012
+  },
+  "2012-TN": {
+    "margin": -36.18641022453753,
+    "dem_candidate": "Mark E. Clayton",
+    "rep_candidate": "Bob Corker",
+    "winner": "Bob Corker",
+    "source": "MEDSL regular returns",
+    "year": 2012
+  },
+  "2012-TX": {
+    "margin": -16.309097081569977,
+    "dem_candidate": "Paul Sadler",
+    "rep_candidate": "Ted Cruz",
+    "winner": "Ted Cruz",
+    "source": "MEDSL regular returns",
+    "year": 2012
+  },
+  "2012-VA": {
+    "margin": 5.91538801810197,
+    "dem_candidate": "Timothy M. Kaine",
+    "rep_candidate": "George F. Allen",
+    "winner": "Timothy M. Kaine",
+    "source": "MEDSL regular returns",
+    "year": 2012
+  },
+  "2012-WA": {
+    "margin": 20.90198236342602,
+    "dem_candidate": "Maria Cantwell",
+    "rep_candidate": "Michael Baumgartner",
+    "winner": "Maria Cantwell",
+    "source": "MEDSL regular returns",
+    "year": 2012
+  },
+  "2012-WI": {
+    "margin": 5.704300652835616,
+    "dem_candidate": "Tammy Baldwin",
+    "rep_candidate": "Tommy G. Thompson",
+    "winner": "Tammy Baldwin",
+    "source": "MEDSL regular returns",
+    "year": 2012
+  },
+  "2014-AK": {
+    "margin": -2.270496383213277,
+    "dem_candidate": "Mark Begich",
+    "rep_candidate": "Dan Sullivan",
+    "winner": "Dan Sullivan",
+    "source": "MEDSL regular returns",
+    "year": 2014
+  },
+  "2014-AR": {
+    "margin": -17.791666102906174,
+    "dem_candidate": "Mark L. Pryor",
+    "rep_candidate": "Tom Cotton",
+    "winner": "Tom Cotton",
+    "source": "MEDSL regular returns",
+    "year": 2014
+  },
+  "2014-CO": {
+    "margin": -2.0584058661040383,
+    "dem_candidate": "Mark Udall",
+    "rep_candidate": "Cory Gardner",
+    "winner": "Cory Gardner",
+    "source": "MEDSL regular returns",
+    "year": 2014
+  },
+  "2014-DE": {
+    "margin": 13.871482233591019,
+    "dem_candidate": "Christopher A. Coons",
+    "rep_candidate": "Kevin Wade",
+    "winner": "Christopher A. Coons",
+    "source": "MEDSL regular returns",
+    "year": 2014
+  },
+  "2014-GA": {
+    "margin": -7.831874164069302,
+    "dem_candidate": "M. Michelle Nunn",
+    "rep_candidate": "David A. Perdue",
+    "winner": "David A. Perdue",
+    "source": "MEDSL regular returns",
+    "year": 2014
+  },
+  "2014-IA": {
+    "margin": -8.698964398007286,
+    "dem_candidate": "Bruce Braley",
+    "rep_candidate": "Joni Ernst",
+    "winner": "Joni Ernst",
+    "source": "MEDSL regular returns",
+    "year": 2014
+  },
+  "2014-ID": {
+    "margin": -30.656723928906374,
+    "dem_candidate": "Nels Mitchell",
+    "rep_candidate": "James E. Risch",
+    "winner": "James E. Risch",
+    "source": "MEDSL regular returns",
+    "year": 2014
+  },
+  "2014-IL": {
+    "margin": 11.277308796972688,
+    "dem_candidate": "Richard J. Durbin",
+    "rep_candidate": "James D. \"Jim\" Oberweis",
+    "winner": "Richard J. Durbin",
+    "source": "MEDSL regular returns",
+    "year": 2014
+  },
+  "2014-KY": {
+    "margin": -15.960574494155525,
+    "dem_candidate": "Alison Lundergan Grimes",
+    "rep_candidate": "Mich McConnell",
+    "winner": "Mich McConnell",
+    "source": "MEDSL regular returns",
+    "year": 2014
+  },
+  "2014-MA": {
+    "margin": 23.92023801403914,
+    "dem_candidate": "Edward J. Markey",
+    "rep_candidate": "Brian J. Herr",
+    "winner": "Edward J. Markey",
+    "source": "MEDSL regular returns",
+    "year": 2014
+  },
+  "2014-ME": {
+    "margin": -36.97684009679359,
+    "dem_candidate": "Shenna Bellows",
+    "rep_candidate": "Susan M. Collins",
+    "winner": "Susan M. Collins",
+    "source": "MEDSL regular returns",
+    "year": 2014
+  },
+  "2014-MI": {
+    "margin": 13.84702192054782,
+    "dem_candidate": "Gary C. Peters",
+    "rep_candidate": "Terri Lynn Land",
+    "winner": "Gary C. Peters",
+    "source": "MEDSL regular returns",
+    "year": 2014
+  },
+  "2014-MN": {
+    "margin": 10.663790458498124,
+    "dem_candidate": "Al Franken",
+    "rep_candidate": "Mike McFadden",
+    "winner": "Al Franken",
+    "source": "MEDSL regular returns",
+    "year": 2014
+  },
+  "2014-MS": {
+    "margin": -22.501618332470223,
+    "dem_candidate": "Travis W. Childers",
+    "rep_candidate": "Thad Cochran",
+    "winner": "Thad Cochran",
+    "source": "MEDSL regular returns",
+    "year": 2014
+  },
+  "2014-MT": {
+    "margin": -18.106180556131232,
+    "dem_candidate": "Amanda Curtis",
+    "rep_candidate": "Steve Daines",
+    "winner": "Steve Daines",
+    "source": "MEDSL regular returns",
+    "year": 2014
+  },
+  "2014-NC": {
+    "margin": -1.6283279362778527,
+    "dem_candidate": "Kay R. Hagan",
+    "rep_candidate": "Thom Tillis",
+    "winner": "Thom Tillis",
+    "source": "MEDSL regular returns",
+    "year": 2014
+  },
+  "2014-NE": {
+    "margin": -34.283832564319965,
+    "dem_candidate": "Dave Domina",
+    "rep_candidate": "Ben Sasse",
+    "winner": "Ben Sasse",
+    "source": "MEDSL regular returns",
+    "year": 2014
+  },
+  "2014-NH": {
+    "margin": 3.2550854930107227,
+    "dem_candidate": "Jeanne Shaheen",
+    "rep_candidate": "Scott P. Brown",
+    "winner": "Jeanne Shaheen",
+    "source": "MEDSL regular returns",
+    "year": 2014
+  },
+  "2014-NJ": {
+    "margin": 13.762755678923343,
+    "dem_candidate": "Cory A. Booker",
+    "rep_candidate": "Jeff Bell",
+    "winner": "Cory A. Booker",
+    "source": "MEDSL regular returns",
+    "year": 2014
+  },
+  "2014-NM": {
+    "margin": 11.117620357474015,
+    "dem_candidate": "Tom Udall",
+    "rep_candidate": "Allen E. Weh",
+    "winner": "Tom Udall",
+    "source": "MEDSL regular returns",
+    "year": 2014
+  },
+  "2014-OK": {
+    "margin": -40.86688126914103,
+    "dem_candidate": "Matt Silverstein",
+    "rep_candidate": "James M. Inhofe",
+    "winner": "James M. Inhofe",
+    "source": "MEDSL regular returns",
+    "year": 2014
+  },
+  "2014-OR": {
+    "margin": 20.370419629609927,
+    "dem_candidate": "Jeff Merkley",
+    "rep_candidate": "Monica Wehby",
+    "winner": "Jeff Merkley",
+    "source": "MEDSL regular returns",
+    "year": 2014
+  },
+  "2014-RI": {
+    "margin": 41.40580795867985,
+    "dem_candidate": "Jack Reed",
+    "rep_candidate": "Mark S. Zaccaria",
+    "winner": "Jack Reed",
+    "source": "MEDSL regular returns",
+    "year": 2014
+  },
+  "2014-SC": {
+    "margin": -16.640291747625824,
+    "dem_candidate": "Brad Hutto",
+    "rep_candidate": "Lindsey Graham",
+    "winner": "Lindsey Graham",
+    "source": "MEDSL regular returns",
+    "year": 2014
+  },
+  "2014-TN": {
+    "margin": -32.00774883825659,
+    "dem_candidate": "Gordon Ball",
+    "rep_candidate": "Lamar Alexander",
+    "winner": "Lamar Alexander",
+    "source": "MEDSL regular returns",
+    "year": 2014
+  },
+  "2014-TX": {
+    "margin": -28.350913831561826,
+    "dem_candidate": "David M. Alameel",
+    "rep_candidate": "John Cornyn",
+    "winner": "John Cornyn",
+    "source": "MEDSL regular returns",
+    "year": 2014
+  },
+  "2014-VA": {
+    "margin": 0.8324071060998579,
+    "dem_candidate": "Mark R. Warner",
+    "rep_candidate": "Ed. W. Gillespie",
+    "winner": "Mark R. Warner",
+    "source": "MEDSL regular returns",
+    "year": 2014
+  },
+  "2014-WV": {
+    "margin": -28.632069012734494,
+    "dem_candidate": "Natalie Tennant",
+    "rep_candidate": "Shelley Moore Capito",
+    "winner": "Shelley Moore Capito",
+    "source": "MEDSL regular returns",
+    "year": 2014
+  },
+  "2014-WY": {
+    "margin": -61.07227806083575,
+    "dem_candidate": "Charlie Hardy",
+    "rep_candidate": "Michael B. Enzi",
+    "winner": "Michael B. Enzi",
+    "source": "MEDSL regular returns",
+    "year": 2014
+  },
+  "2016-AR": {
+    "margin": -24.598667778419816,
+    "dem_candidate": "Conner Eldridge",
+    "rep_candidate": "John Boozman",
+    "winner": "John Boozman",
+    "source": "MEDSL regular returns",
+    "year": 2016
+  },
+  "2016-AZ": {
+    "margin": -13.7218303024624,
+    "dem_candidate": "Ann Kirkpatrick",
+    "rep_candidate": "John McCain",
+    "winner": "John McCain",
+    "source": "MEDSL regular returns",
+    "year": 2016
+  },
+  "2016-CO": {
+    "margin": 6.008906322746699,
+    "dem_candidate": "Michael F. Bennet",
+    "rep_candidate": "Darryl Glenn",
+    "winner": "Michael F. Bennet",
+    "source": "MEDSL regular returns",
+    "year": 2016
+  },
+  "2016-FL": {
+    "margin": -7.961156507461697,
+    "dem_candidate": "Patrick Murphy",
+    "rep_candidate": "Marco Rubio",
+    "winner": "Marco Rubio",
+    "source": "MEDSL regular returns",
+    "year": 2016
+  },
+  "2016-GA": {
+    "margin": -14.350834098061535,
+    "dem_candidate": "Jim Barksdale",
+    "rep_candidate": "Johnny Isakson",
+    "winner": "Johnny Isakson",
+    "source": "MEDSL regular returns",
+    "year": 2016
+  },
+  "2016-IA": {
+    "margin": -25.520530110127844,
+    "dem_candidate": "Patty Judge",
+    "rep_candidate": "Chuck Grassley",
+    "winner": "Chuck Grassley",
+    "source": "MEDSL regular returns",
+    "year": 2016
+  },
+  "2016-IL": {
+    "margin": 15.93510275448512,
+    "dem_candidate": "Tammy Duckworth",
+    "rep_candidate": "Mark Kirk",
+    "winner": "Tammy Duckworth",
+    "source": "MEDSL regular returns",
+    "year": 2016
+  },
+  "2016-IN": {
+    "margin": -10.261338057669212,
+    "dem_candidate": "Evan Bayh",
+    "rep_candidate": "Todd C. Young",
+    "winner": "Todd C. Young",
+    "source": "MEDSL regular returns",
+    "year": 2016
+  },
+  "2016-KS": {
+    "margin": -31.708562775825545,
+    "dem_candidate": "Patrick Wiesner",
+    "rep_candidate": "Jerry Moran",
+    "winner": "Jerry Moran",
+    "source": "MEDSL regular returns",
+    "year": 2016
+  },
+  "2016-MD": {
+    "margin": 26.11051851041458,
+    "dem_candidate": "Chris Van Hollen",
+    "rep_candidate": "Kathy Szeliga",
+    "winner": "Chris Van Hollen",
+    "source": "MEDSL regular returns",
+    "year": 2016
+  },
+  "2016-MO": {
+    "margin": -2.9215375759055466,
+    "dem_candidate": "Jason Kander",
+    "rep_candidate": "Roy Blunt",
+    "winner": "Roy Blunt",
+    "source": "MEDSL regular returns",
+    "year": 2016
+  },
+  "2016-NC": {
+    "margin": -5.907120107897773,
+    "dem_candidate": "Deborah K. Ross",
+    "rep_candidate": "Richard Burr",
+    "winner": "Richard Burr",
+    "source": "MEDSL regular returns",
+    "year": 2016
+  },
+  "2016-NH": {
+    "margin": 0.14358707913949406,
+    "dem_candidate": "Maggie Hassan",
+    "rep_candidate": "Kelly Ayotte",
+    "winner": "Maggie Hassan",
+    "source": "MEDSL regular returns",
+    "year": 2016
+  },
+  "2016-NV": {
+    "margin": 2.646319389070401,
+    "dem_candidate": "Catherine Cortez Masto",
+    "rep_candidate": "Joseph J. Heck",
+    "winner": "Catherine Cortez Masto",
+    "source": "MEDSL regular returns",
+    "year": 2016
+  },
+  "2016-NY": {
+    "margin": 44.42624578533714,
+    "dem_candidate": "Charles E. Schumer",
+    "rep_candidate": "Wendy Long",
+    "winner": "Charles E. Schumer",
+    "source": "MEDSL regular returns",
+    "year": 2016
+  },
+  "2016-OH": {
+    "margin": -21.926780992967416,
+    "dem_candidate": "Ted Strickland",
+    "rep_candidate": "Rob Portman",
+    "winner": "Rob Portman",
+    "source": "MEDSL regular returns",
+    "year": 2016
+  },
+  "2016-OR": {
+    "margin": 25.85164201625646,
+    "dem_candidate": "Ron Wyden",
+    "rep_candidate": "Mark Callahan",
+    "winner": "Ron Wyden",
+    "source": "MEDSL regular returns",
+    "year": 2016
+  },
+  "2016-PA": {
+    "margin": -1.4903603649758266,
+    "dem_candidate": "Katie McGinty",
+    "rep_candidate": "Patrick J. Toomey",
+    "winner": "Patrick J. Toomey",
+    "source": "MEDSL regular returns",
+    "year": 2016
+  },
+  "2016-UT": {
+    "margin": -43.15709392342182,
+    "dem_candidate": "Misty K. Snow",
+    "rep_candidate": "Mike Lee",
+    "winner": "Mike Lee",
+    "source": "MEDSL regular returns",
+    "year": 2016
+  },
+  "2016-VT": {
+    "margin": 29.946599972962012,
+    "dem_candidate": "Patrick J. Leahy",
+    "rep_candidate": "Scott Milne",
+    "winner": "Patrick J. Leahy",
+    "source": "MEDSL regular returns",
+    "year": 2016
+  },
+  "2016-WA": {
+    "margin": 18.02602089157489,
+    "dem_candidate": "Patty Murray",
+    "rep_candidate": "Chris Vance",
+    "winner": "Patty Murray",
+    "source": "MEDSL regular returns",
+    "year": 2016
+  },
+  "2016-WI": {
+    "margin": -3.4665288484603503,
+    "dem_candidate": "Russ Feingold",
+    "rep_candidate": "Ron Johnson",
+    "winner": "Ron Johnson",
+    "source": "MEDSL regular returns",
+    "year": 2016
+  },
+  "2018-AZ": {
+    "margin": 2.402957486136784,
+    "dem_candidate": "Kyrsten Sinema",
+    "rep_candidate": "Martha McSally",
+    "winner": "Kyrsten Sinema",
+    "source": "MEDSL regular returns",
+    "year": 2018
+  },
+  "2018-CT": {
+    "margin": 20.408576995776258,
+    "dem_candidate": "Christopher S Murphy",
+    "rep_candidate": "Matthew Corey",
+    "winner": "Christopher S Murphy",
+    "source": "MEDSL regular returns",
+    "year": 2018
+  },
+  "2018-DE": {
+    "margin": 22.63900798844609,
+    "dem_candidate": "Thomas R Carper",
+    "rep_candidate": "Robert B Arlett",
+    "winner": "Thomas R Carper",
+    "source": "MEDSL regular returns",
+    "year": 2018
+  },
+  "2018-FL": {
+    "margin": -0.12251835607793257,
+    "dem_candidate": "Bill Nelson",
+    "rep_candidate": "Rick Scott",
+    "winner": "Rick Scott",
+    "source": "MEDSL regular returns",
+    "year": 2018
+  },
+  "2018-IN": {
+    "margin": -6.162903216195068,
+    "dem_candidate": "Joe Donnelly",
+    "rep_candidate": "Mike Braun",
+    "winner": "Mike Braun",
+    "source": "MEDSL regular returns",
+    "year": 2018
+  },
+  "2018-MA": {
+    "margin": 25.038879177334596,
+    "dem_candidate": "Elizabeth A. Warren",
+    "rep_candidate": "Geoff Diehl",
+    "winner": "Elizabeth A. Warren",
+    "source": "MEDSL regular returns",
+    "year": 2018
+  },
+  "2018-MD": {
+    "margin": 36.305663220524615,
+    "dem_candidate": "Ben Cardin",
+    "rep_candidate": "Tony Campbell",
+    "winner": "Ben Cardin",
+    "source": "MEDSL regular returns",
+    "year": 2018
+  },
+  "2018-MI": {
+    "margin": 6.637138311355607,
+    "dem_candidate": "Debbie Stabenow",
+    "rep_candidate": "John James",
+    "winner": "Debbie Stabenow",
+    "source": "MEDSL regular returns",
+    "year": 2018
+  },
+  "2018-MO": {
+    "margin": -5.99663324974175,
+    "dem_candidate": "Claire McCaskill",
+    "rep_candidate": "Josh Hawley",
+    "winner": "Josh Hawley",
+    "source": "MEDSL regular returns",
+    "year": 2018
+  },
+  "2018-MS": {
+    "margin": -19.412856279969386,
+    "dem_candidate": "David Baria",
+    "rep_candidate": "Roger F. Wicker",
+    "winner": "Roger F. Wicker",
+    "source": "MEDSL regular returns",
+    "year": 2018
+  },
+  "2018-MT": {
+    "margin": 3.656915843777241,
+    "dem_candidate": "Jon Tester",
+    "rep_candidate": "Matt Rosendale",
+    "winner": "Jon Tester",
+    "source": "MEDSL regular returns",
+    "year": 2018
+  },
+  "2018-NJ": {
+    "margin": 11.544410589867935,
+    "dem_candidate": "Robert Menendez",
+    "rep_candidate": "Bob Hugin",
+    "winner": "Robert Menendez",
+    "source": "MEDSL regular returns",
+    "year": 2018
+  },
+  "2018-NV": {
+    "margin": 5.247548248472789,
+    "dem_candidate": "Jacky Rosen",
+    "rep_candidate": "Dean Heller",
+    "winner": "Jacky Rosen",
+    "source": "MEDSL regular returns",
+    "year": 2018
+  },
+  "2018-NY": {
+    "margin": 33.99933379035469,
+    "dem_candidate": "Kirsten E. Gillibrand",
+    "rep_candidate": "Chele Chiavacci Farley",
+    "winner": "Kirsten E. Gillibrand",
+    "source": "MEDSL regular returns",
+    "year": 2018
+  },
+  "2018-OH": {
+    "margin": 6.84734253901348,
+    "dem_candidate": "Sherrod Brown",
+    "rep_candidate": "Jim Renacci",
+    "winner": "Sherrod Brown",
+    "source": "MEDSL regular returns",
+    "year": 2018
+  },
+  "2018-PA": {
+    "margin": 13.085564092459117,
+    "dem_candidate": "Robert P Casey Jr",
+    "rep_candidate": "Louis J. Barletta",
+    "winner": "Robert P Casey Jr",
+    "source": "MEDSL regular returns",
+    "year": 2018
+  },
+  "2018-RI": {
+    "margin": 23.15947411265822,
+    "dem_candidate": "Sheldon Whitehouse",
+    "rep_candidate": "Robert G. Flanders, Jr.",
+    "winner": "Sheldon Whitehouse",
+    "source": "MEDSL regular returns",
+    "year": 2018
+  },
+  "2018-TN": {
+    "margin": -10.93720415394411,
+    "dem_candidate": "Phil Bredesen",
+    "rep_candidate": "Marsha Blackburn",
+    "winner": "Marsha Blackburn",
+    "source": "MEDSL regular returns",
+    "year": 2018
+  },
+  "2018-TX": {
+    "margin": -2.5874814972216487,
+    "dem_candidate": "Beto O'Rourke",
+    "rep_candidate": "Ted Cruz",
+    "winner": "Ted Cruz",
+    "source": "MEDSL regular returns",
+    "year": 2018
+  },
+  "2018-UT": {
+    "margin": -33.87894010199687,
+    "dem_candidate": "Jenny Wilson",
+    "rep_candidate": "Mitt Romney",
+    "winner": "Mitt Romney",
+    "source": "MEDSL regular returns",
+    "year": 2018
+  },
+  "2018-VA": {
+    "margin": 16.319900580969303,
+    "dem_candidate": "Timothy M. Kaine",
+    "rep_candidate": "Corey A. Stewart",
+    "winner": "Timothy M. Kaine",
+    "source": "MEDSL regular returns",
+    "year": 2018
+  },
+  "2018-WA": {
+    "margin": 16.867519849859114,
+    "dem_candidate": "Maria Cantwell",
+    "rep_candidate": "Susan Hutchison",
+    "winner": "Maria Cantwell",
+    "source": "MEDSL regular returns",
+    "year": 2018
+  },
+  "2018-WI": {
+    "margin": 10.837125004562045,
+    "dem_candidate": "Tammy Baldwin",
+    "rep_candidate": "Leah Vukmir",
+    "winner": "Tammy Baldwin",
+    "source": "MEDSL regular returns",
+    "year": 2018
+  },
+  "2018-WV": {
+    "margin": 3.3894179136536122,
+    "dem_candidate": "Joe Manchin",
+    "rep_candidate": "Patrick Morrisey",
+    "winner": "Joe Manchin",
+    "source": "MEDSL regular returns",
+    "year": 2018
+  },
+  "2020-AL": {
+    "margin": -20.39295082406724,
+    "dem_candidate": "Gordon Douglas Jones",
+    "rep_candidate": "Tommy Tuberville",
+    "winner": "Tommy Tuberville",
+    "source": "538 archived actual vote shares",
+    "year": 2020
+  },
+  "2020-CO": {
+    "margin": 9.543169885775068,
+    "dem_candidate": "John Wright Hickenlooper",
+    "rep_candidate": "Cory Gardner",
+    "winner": "John Wright Hickenlooper",
+    "source": "538 archived actual vote shares",
+    "year": 2020
+  },
+  "2020-DE": {
+    "margin": 22.130005147972838,
+    "dem_candidate": "Christopher A. Coons",
+    "rep_candidate": "Lauren E. Witzke",
+    "winner": "Christopher A. Coons",
+    "source": "538 archived actual vote shares",
+    "year": 2020
+  },
+  "2020-IA": {
+    "margin": -6.799246352762234,
+    "dem_candidate": "Theresa Greenfield",
+    "rep_candidate": "Joni K. Ernst",
+    "winner": "Joni K. Ernst",
+    "source": "538 archived actual vote shares",
+    "year": 2020
+  },
+  "2020-KS": {
+    "margin": -12.037934823761901,
+    "dem_candidate": "Barbara Goolsbee Bollier",
+    "rep_candidate": "Roger Marshall",
+    "winner": "Roger Marshall",
+    "source": "538 archived actual vote shares",
+    "year": 2020
+  },
+  "2020-KY": {
+    "margin": -20.348541061255727,
+    "dem_candidate": "Amy McGrath",
+    "rep_candidate": "Mitch McConnell",
+    "winner": "Mitch McConnell",
+    "source": "538 archived actual vote shares",
+    "year": 2020
+  },
+  "2020-MA": {
+    "margin": 33.376306082124145,
+    "dem_candidate": "Edward J. Markey",
+    "rep_candidate": "Kevin J. O'Connor",
+    "winner": "Edward J. Markey",
+    "source": "538 archived actual vote shares",
+    "year": 2020
+  },
+  "2020-ME": {
+    "margin": -9.207078868510642,
+    "dem_candidate": "Sara I. Gideon",
+    "rep_candidate": "Susan M. Collins",
+    "winner": "Susan M. Collins",
+    "source": "538 archived actual vote shares",
+    "year": 2020
+  },
+  "2020-MI": {
+    "margin": 1.7172850548123348,
+    "dem_candidate": "Gary C. Peters",
+    "rep_candidate": "John James",
+    "winner": "Gary C. Peters",
+    "source": "538 archived actual vote shares",
+    "year": 2020
+  },
+  "2020-MN": {
+    "margin": 5.679457423042787,
+    "dem_candidate": "Tina Smith",
+    "rep_candidate": "Jason Lewis",
+    "winner": "Tina Smith",
+    "source": "538 archived actual vote shares",
+    "year": 2020
+  },
+  "2020-MT": {
+    "margin": -10.024321499512084,
+    "dem_candidate": "Steve Bullock",
+    "rep_candidate": "Steve Daines",
+    "winner": "Steve Daines",
+    "source": "538 archived actual vote shares",
+    "year": 2020
+  },
+  "2020-NC": {
+    "margin": -1.8266039392516202,
+    "dem_candidate": "Cal Cunningham",
+    "rep_candidate": "Thomas Roland Tillis",
+    "winner": "Thomas Roland Tillis",
+    "source": "538 archived actual vote shares",
+    "year": 2020
+  },
+  "2020-NH": {
+    "margin": 16.02932792111268,
+    "dem_candidate": "Jeanne Shaheen",
+    "rep_candidate": "Bryant Messner",
+    "winner": "Jeanne Shaheen",
+    "source": "538 archived actual vote shares",
+    "year": 2020
+  },
+  "2020-NJ": {
+    "margin": 16.615139632373694,
+    "dem_candidate": "Cory A. Booker",
+    "rep_candidate": "Rikin Mehta",
+    "winner": "Cory A. Booker",
+    "source": "538 archived actual vote shares",
+    "year": 2020
+  },
+  "2020-NM": {
+    "margin": 6.271235410978707,
+    "dem_candidate": "Ben Ray Luj\u00e1n",
+    "rep_candidate": "Mark V. Ronchetti",
+    "winner": "Ben Ray Luj\u00e1n",
+    "source": "538 archived actual vote shares",
+    "year": 2020
+  },
+  "2020-OK": {
+    "margin": -31.52502211359639,
+    "dem_candidate": "Abby Broyles",
+    "rep_candidate": "James M. Inhofe",
+    "winner": "James M. Inhofe",
+    "source": "538 archived actual vote shares",
+    "year": 2020
+  },
+  "2020-OR": {
+    "margin": 18.274771796454655,
+    "dem_candidate": "Jeff Merkley",
+    "rep_candidate": "Jo Rae Perkins",
+    "winner": "Jeff Merkley",
+    "source": "538 archived actual vote shares",
+    "year": 2020
+  },
+  "2020-SC": {
+    "margin": -10.4158324815068,
+    "dem_candidate": "Jaime Harrison",
+    "rep_candidate": "Lindsey Graham",
+    "winner": "Lindsey Graham",
+    "source": "538 archived actual vote shares",
+    "year": 2020
+  },
+  "2020-TX": {
+    "margin": -9.899042062075344,
+    "dem_candidate": "Mary Jennings Hegar",
+    "rep_candidate": "John Cornyn",
+    "winner": "John Cornyn",
+    "source": "538 archived actual vote shares",
+    "year": 2020
+  },
+  "2020-VA": {
+    "margin": 12.095828412713523,
+    "dem_candidate": "Mark R. Warner",
+    "rep_candidate": "Daniel M. Gade",
+    "winner": "Mark R. Warner",
+    "source": "538 archived actual vote shares",
+    "year": 2020
+  },
+  "2020-WV": {
+    "margin": -44.49214332185656,
+    "dem_candidate": "Paula Jean Swearengin",
+    "rep_candidate": "Shelley Moore Capito",
+    "winner": "Shelley Moore Capito",
+    "source": "538 archived actual vote shares",
+    "year": 2020
+  },
+  "2022-AR": {
+    "margin": -35.782880140816665,
+    "dem_candidate": "Natalie James",
+    "rep_candidate": "John Boozman",
+    "winner": "John Boozman",
+    "source": "538 archived actual vote shares",
+    "year": 2022
+  },
+  "2022-AZ": {
+    "margin": 4.992147589578039,
+    "dem_candidate": "Mark Kelly",
+    "rep_candidate": "Blake Masters",
+    "winner": "Mark Kelly",
+    "source": "538 archived actual vote shares",
+    "year": 2022
+  },
+  "2022-CA": {
+    "margin": 22.12901552163153,
+    "dem_candidate": "Alex Padilla",
+    "rep_candidate": "Mark P. Meuser",
+    "winner": "Alex Padilla",
+    "source": "538 archived actual vote shares",
+    "year": 2022
+  },
+  "2022-CO": {
+    "margin": 15.047246386477958,
+    "dem_candidate": "Michael Bennet",
+    "rep_candidate": "Joe O'Dea",
+    "winner": "Michael Bennet",
+    "source": "538 archived actual vote shares",
+    "year": 2022
+  },
+  "2022-CT": {
+    "margin": 13.356203692776281,
+    "dem_candidate": "Richard Blumenthal",
+    "rep_candidate": "Leora R. Levy",
+    "winner": "Richard Blumenthal",
+    "source": "538 archived actual vote shares",
+    "year": 2022
+  },
+  "2022-FL": {
+    "margin": -16.58759499445637,
+    "dem_candidate": "Val Demings",
+    "rep_candidate": "Marco Rubio",
+    "winner": "Marco Rubio",
+    "source": "538 archived actual vote shares",
+    "year": 2022
+  },
+  "2022-IA": {
+    "margin": -12.196840548191467,
+    "dem_candidate": "Michael Franken",
+    "rep_candidate": "Chuck Grassley",
+    "winner": "Chuck Grassley",
+    "source": "538 archived actual vote shares",
+    "year": 2022
+  },
+  "2022-IL": {
+    "margin": 15.584397861044307,
+    "dem_candidate": "Tammy Duckworth",
+    "rep_candidate": "Kathy Salvi",
+    "winner": "Tammy Duckworth",
+    "source": "538 archived actual vote shares",
+    "year": 2022
+  },
+  "2022-IN": {
+    "margin": -21.500721500721497,
+    "dem_candidate": "Thomas McDermott",
+    "rep_candidate": "Todd Young",
+    "winner": "Todd Young",
+    "source": "538 archived actual vote shares",
+    "year": 2022
+  },
+  "2022-KS": {
+    "margin": -23.66328612885693,
+    "dem_candidate": "Mark R. Holland",
+    "rep_candidate": "Jerry Moran",
+    "winner": "Jerry Moran",
+    "source": "538 archived actual vote shares",
+    "year": 2022
+  },
+  "2022-MD": {
+    "margin": 31.743055937654752,
+    "dem_candidate": "Chris Van Hollen",
+    "rep_candidate": "Chris Chaffee",
+    "winner": "Chris Van Hollen",
+    "source": "538 archived actual vote shares",
+    "year": 2022
+  },
+  "2022-MO": {
+    "margin": -13.580107542853748,
+    "dem_candidate": "Trudy Busch Valentine",
+    "rep_candidate": "Eric Schmitt",
+    "winner": "Eric Schmitt",
+    "source": "538 archived actual vote shares",
+    "year": 2022
+  },
+  "2022-NC": {
+    "margin": -3.299253218639861,
+    "dem_candidate": "Cheri Beasley",
+    "rep_candidate": "Ted Budd",
+    "winner": "Ted Budd",
+    "source": "538 archived actual vote shares",
+    "year": 2022
+  },
+  "2022-NH": {
+    "margin": 9.25227051853167,
+    "dem_candidate": "Maggie Hassan",
+    "rep_candidate": "Donald C. Bolduc",
+    "winner": "Maggie Hassan",
+    "source": "538 archived actual vote shares",
+    "year": 2022
+  },
+  "2022-NV": {
+    "margin": 0.8018577855455221,
+    "dem_candidate": "Catherine Cortez Masto",
+    "rep_candidate": "Adam Paul Laxalt",
+    "winner": "Catherine Cortez Masto",
+    "source": "538 archived actual vote shares",
+    "year": 2022
+  },
+  "2022-NY": {
+    "margin": 15.654730214578361,
+    "dem_candidate": "Charles E. Schumer",
+    "rep_candidate": "Joe Pinion",
+    "winner": "Charles E. Schumer",
+    "source": "538 archived actual vote shares",
+    "year": 2022
+  },
+  "2022-OH": {
+    "margin": -6.114454849606805,
+    "dem_candidate": "Tim Ryan",
+    "rep_candidate": "J.D. Vance",
+    "winner": "J.D. Vance",
+    "source": "538 archived actual vote shares",
+    "year": 2022
+  },
+  "2022-OK": {
+    "margin": -33.40665086133072,
+    "dem_candidate": "Madison Horn",
+    "rep_candidate": "James Lankford",
+    "winner": "James Lankford",
+    "source": "538 archived actual vote shares",
+    "year": 2022
+  },
+  "2022-OR": {
+    "margin": 15.408528397166316,
+    "dem_candidate": "Ron Wyden",
+    "rep_candidate": "Jo Rae Perkins",
+    "winner": "Ron Wyden",
+    "source": "538 archived actual vote shares",
+    "year": 2022
+  },
+  "2022-PA": {
+    "margin": 5.035095542957682,
+    "dem_candidate": "John Fetterman",
+    "rep_candidate": "Mehmet Oz",
+    "winner": "John Fetterman",
+    "source": "538 archived actual vote shares",
+    "year": 2022
+  },
+  "2022-SD": {
+    "margin": -45.39410721732374,
+    "dem_candidate": "Brian L. Bengs",
+    "rep_candidate": "John R. Thune",
+    "winner": "John R. Thune",
+    "source": "538 archived actual vote shares",
+    "year": 2022
+  },
+  "2022-VT": {
+    "margin": 41.90937868850683,
+    "dem_candidate": "Peter Welch",
+    "rep_candidate": "Gerald Malloy",
+    "winner": "Peter Welch",
+    "source": "538 archived actual vote shares",
+    "year": 2022
+  },
+  "2022-WA": {
+    "margin": 14.550585979180896,
+    "dem_candidate": "Patty Murray",
+    "rep_candidate": "Tiffany Smiley",
+    "winner": "Patty Murray",
+    "source": "538 archived actual vote shares",
+    "year": 2022
+  },
+  "2022-WI": {
+    "margin": -1.0091205339674485,
+    "dem_candidate": "Mandela Barnes",
+    "rep_candidate": "Ron Johnson",
+    "winner": "Ron Johnson",
+    "source": "538 archived actual vote shares",
+    "year": 2022
+  },
+  "2024-AZ": {
+    "margin": 2.462458314181491,
+    "dem_candidate": "RUBEN GALLEGO",
+    "rep_candidate": "KARI LAKE",
+    "winner": "RUBEN GALLEGO",
+    "year": 2024,
+    "source": "MEDSL 2024 state returns; some rows marked unofficial"
+  },
+  "2024-CA": {
+    "margin": 17.7450343823894,
+    "dem_candidate": "ADAM B. SCHIFF",
+    "rep_candidate": "STEVE GARVEY",
+    "winner": "ADAM B. SCHIFF",
+    "year": 2024,
+    "source": "MEDSL 2024 state returns; some rows marked unofficial"
+  },
+  "2024-CT": {
+    "margin": 19.20478918086353,
+    "dem_candidate": "CHRISTOPHER S. MURPHY",
+    "rep_candidate": "MATTHEW M. COREY",
+    "winner": "CHRISTOPHER S. MURPHY",
+    "year": 2024,
+    "source": "MEDSL 2024 state returns; some rows marked unofficial"
+  },
+  "2024-DE": {
+    "margin": 17.782937775828344,
+    "dem_candidate": "LISA BLUNT ROCHESTER",
+    "rep_candidate": "ERIC HANSEN",
+    "winner": "LISA BLUNT ROCHESTER",
+    "year": 2024,
+    "source": "MEDSL 2024 state returns; some rows marked unofficial"
+  },
+  "2024-FL": {
+    "margin": -12.991751177582982,
+    "dem_candidate": "DEBBIE MUCARSEL-POWELL",
+    "rep_candidate": "RICK SCOTT",
+    "winner": "RICK SCOTT",
+    "year": 2024,
+    "source": "MEDSL 2024 state returns; some rows marked unofficial"
+  },
+  "2024-IN": {
+    "margin": -20.401222284822257,
+    "dem_candidate": "VALERIE MCCRAY",
+    "rep_candidate": "JIM BANKS",
+    "winner": "JIM BANKS",
+    "year": 2024,
+    "source": "MEDSL 2024 state returns; some rows marked unofficial"
+  },
+  "2024-MA": {
+    "margin": 19.84756573610229,
+    "dem_candidate": "ELIZABETH ANN WARREN",
+    "rep_candidate": "JOHN DEATON",
+    "winner": "ELIZABETH ANN WARREN",
+    "year": 2024,
+    "source": "MEDSL 2024 state returns; some rows marked unofficial"
+  },
+  "2024-MD": {
+    "margin": 12.106519772814316,
+    "dem_candidate": "ANGELA ALSOBROOKS",
+    "rep_candidate": "LARRY HOGAN",
+    "winner": "ANGELA ALSOBROOKS",
+    "year": 2024,
+    "source": "MEDSL 2024 state returns; some rows marked unofficial"
+  },
+  "2024-MI": {
+    "margin": 0.3515485263113892,
+    "dem_candidate": "ELISSA SLOTKIN",
+    "rep_candidate": "MIKE ROGERS",
+    "winner": "ELISSA SLOTKIN",
+    "year": 2024,
+    "source": "MEDSL 2024 state returns; some rows marked unofficial"
+  },
+  "2024-MN": {
+    "margin": 16.23554343769586,
+    "dem_candidate": "AMY KLOBUCHAR",
+    "rep_candidate": "ROYCE WHITE",
+    "winner": "AMY KLOBUCHAR",
+    "year": 2024,
+    "source": "MEDSL 2024 state returns; some rows marked unofficial"
+  },
+  "2024-MO": {
+    "margin": -14.096355376281887,
+    "dem_candidate": "LUCAS KUNCE",
+    "rep_candidate": "JOSH HAWLEY",
+    "winner": "JOSH HAWLEY",
+    "year": 2024,
+    "source": "MEDSL 2024 state returns; some rows marked unofficial"
+  },
+  "2024-MS": {
+    "margin": -25.6243824054777,
+    "dem_candidate": "TY PINKINS",
+    "rep_candidate": "ROGER F. WICKER",
+    "winner": "ROGER F. WICKER",
+    "year": 2024,
+    "source": "MEDSL 2024 state returns; some rows marked unofficial"
+  },
+  "2024-MT": {
+    "margin": -7.278178886452221,
+    "dem_candidate": "JON TESTER",
+    "rep_candidate": "TIM SHEEHY",
+    "winner": "TIM SHEEHY",
+    "year": 2024,
+    "source": "MEDSL 2024 state returns; some rows marked unofficial"
+  },
+  "2024-ND": {
+    "margin": -33.0331992367232,
+    "dem_candidate": "KATRINA CHRISTIANSEN",
+    "rep_candidate": "KEVIN CRAMER",
+    "winner": "KEVIN CRAMER",
+    "year": 2024,
+    "source": "MEDSL 2024 state returns; some rows marked unofficial"
+  },
+  "2024-NJ": {
+    "margin": 9.857537839129066,
+    "dem_candidate": "ANDY KIM",
+    "rep_candidate": "CURTIS BASHAW",
+    "winner": "ANDY KIM",
+    "year": 2024,
+    "source": "MEDSL 2024 state returns; some rows marked unofficial"
+  },
+  "2024-NM": {
+    "margin": 10.113349665840447,
+    "dem_candidate": "MARTIN HEINRICH",
+    "rep_candidate": "NELLA LOUISE DOMENICI",
+    "winner": "MARTIN HEINRICH",
+    "year": 2024,
+    "source": "MEDSL 2024 state returns; some rows marked unofficial"
+  },
+  "2024-NV": {
+    "margin": 1.7457448421834763,
+    "dem_candidate": "JACKY S. ROSEN",
+    "rep_candidate": "SAM BROWN",
+    "winner": "JACKY S. ROSEN",
+    "year": 2024,
+    "source": "MEDSL 2024 state returns; some rows marked unofficial"
+  },
+  "2024-NY": {
+    "margin": 18.408053720622554,
+    "dem_candidate": "KIRSTEN E. GILLIBRAND",
+    "rep_candidate": "MICHAEL D. SAPRAICONE",
+    "winner": "KIRSTEN E. GILLIBRAND",
+    "year": 2024,
+    "source": "MEDSL 2024 state returns; some rows marked unofficial"
+  },
+  "2024-OH": {
+    "margin": -3.747668078104225,
+    "dem_candidate": "SHERROD BROWN",
+    "rep_candidate": "BERNIE MORENO",
+    "winner": "BERNIE MORENO",
+    "year": 2024,
+    "source": "MEDSL 2024 state returns; some rows marked unofficial"
+  },
+  "2024-PA": {
+    "margin": -0.2228208993178275,
+    "dem_candidate": "ROBERT P CASEY JR",
+    "rep_candidate": "DAVE MCCORMICK",
+    "winner": "DAVE MCCORMICK",
+    "year": 2024,
+    "source": "MEDSL 2024 state returns; some rows marked unofficial"
+  },
+  "2024-RI": {
+    "margin": 20.09887834621279,
+    "dem_candidate": "SHELDON WHITEHOUSE",
+    "rep_candidate": "PATRICIA MORGAN",
+    "winner": "SHELDON WHITEHOUSE",
+    "year": 2024,
+    "source": "MEDSL 2024 state returns; some rows marked unofficial"
+  },
+  "2024-TN": {
+    "margin": -30.251876652125922,
+    "dem_candidate": "GLORIA JOHNSON",
+    "rep_candidate": "MARSHA BLACKBURN",
+    "winner": "MARSHA BLACKBURN",
+    "year": 2024,
+    "source": "MEDSL 2024 state returns; some rows marked unofficial"
+  },
+  "2024-TX": {
+    "margin": -8.70525195540914,
+    "dem_candidate": "COLIN ALLRED",
+    "rep_candidate": "TED CRUZ",
+    "winner": "TED CRUZ",
+    "year": 2024,
+    "source": "MEDSL 2024 state returns; some rows marked unofficial"
+  },
+  "2024-UT": {
+    "margin": -32.640668786229845,
+    "dem_candidate": "CAROLINE GLEICH",
+    "rep_candidate": "JOHN CURTIS",
+    "winner": "JOHN CURTIS",
+    "year": 2024,
+    "source": "MEDSL 2024 state returns; some rows marked unofficial"
+  },
+  "2024-VA": {
+    "margin": 8.952032284687988,
+    "dem_candidate": "TIMOTHY M. KAINE",
+    "rep_candidate": "HUNG CAO",
+    "winner": "TIMOTHY M. KAINE",
+    "year": 2024,
+    "source": "MEDSL 2024 state returns; some rows marked unofficial"
+  },
+  "2024-WA": {
+    "margin": 18.50167448584394,
+    "dem_candidate": "MARIA CANTWELL",
+    "rep_candidate": "DR RAUL GARCIA",
+    "winner": "MARIA CANTWELL",
+    "year": 2024,
+    "source": "MEDSL 2024 state returns; some rows marked unofficial"
+  },
+  "2024-WI": {
+    "margin": 0.8677410241822398,
+    "dem_candidate": "TAMMY BALDWIN",
+    "rep_candidate": "ERIC HOVDE",
+    "winner": "TAMMY BALDWIN",
+    "year": 2024,
+    "source": "MEDSL 2024 state returns; some rows marked unofficial"
+  },
+  "2024-WV": {
+    "margin": -42.47776205712924,
+    "dem_candidate": "GLENN ELLIOTT",
+    "rep_candidate": "JIM JUSTICE",
+    "winner": "JIM JUSTICE",
+    "year": 2024,
+    "source": "MEDSL 2024 state returns; some rows marked unofficial"
+  }
+}

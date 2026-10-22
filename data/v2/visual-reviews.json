@@ -1,0 +1,366 @@
+[
+  {
+    "id": "2024-OH-the-washington-post",
+    "race": "2024-OH",
+    "pdf_url": "https://www.washingtonpost.com/documents/cdd47965-4238-4d78-a022-791256a2bf05.pdf?itid=lk_inline_manual_2",
+    "pdf_sha256": "8e678e8f2db8da16358cd521aa8bebaba2284a47af834f169d8e30283fa6a632",
+    "page": 1,
+    "crop": [
+      0,
+      541.23,
+      612.0,
+      785.67
+    ],
+    "dem_poll": 48.0,
+    "rep_poll": 47.0,
+    "population": "lv",
+    "sample_size": 1002.0,
+    "sample_size_verified": false,
+    "review_method": "Codex visual inspection of rendered original source, reconciled with extracted/archived figures; not user sign-off",
+    "review_scope": [
+      "candidate identity",
+      "topline",
+      "population when shown",
+      "source crop visibility"
+    ],
+    "review_notes": "Senate Q4 LV row Brown 48, Moreno 47; RV row has same figures."
+  },
+  {
+    "id": "2024-TX-yougov",
+    "race": "2024-TX",
+    "pdf_url": "https://texaspolitics.utexas.edu/sites/texaspolitics.utexas.edu/files/202410_poll_crosstabs.pdf",
+    "pdf_sha256": "15673beda18714be68d0775fd7edbebc14e2d53b949648bf5b8e0958b1094d21",
+    "page": 89,
+    "crop": [
+      0,
+      0,
+      612.0,
+      792.0
+    ],
+    "dem_poll": 44.0,
+    "rep_poll": 51.0,
+    "population": "lv",
+    "sample_size": 1091.0,
+    "sample_size_verified": false,
+    "review_method": "Codex visual inspection of rendered original source, reconciled with extracted/archived figures; not user sign-off",
+    "review_scope": [
+      "candidate identity",
+      "topline",
+      "population when shown",
+      "source crop visibility"
+    ],
+    "review_notes": "Rejected automated table-of-contents crop. Original PDF page 89, likely-voter Senate Q23: Cruz 51, Allred 44."
+  },
+  {
+    "id": "2024-MD-umbc",
+    "race": "2024-MD",
+    "pdf_url": "https://politics.umbc.edu/wp-content/uploads/sites/778/2024/10/UMBC-Poll-October-9-2024-FINAL.pdf",
+    "pdf_sha256": "7da02af006c665cc6d274043a51daddd5cc58d62f2266ea3e86f3bd74d804c1e",
+    "page": 13,
+    "crop": [
+      0,
+      361.84,
+      612.0,
+      781.48
+    ],
+    "dem_poll": 48.0,
+    "rep_poll": 39.0,
+    "population": "lv",
+    "sample_size": 863.0,
+    "sample_size_verified": false,
+    "review_method": "Codex visual inspection of rendered original source, reconciled with extracted/archived figures; not user sign-off",
+    "review_scope": [
+      "candidate identity",
+      "topline",
+      "population when shown",
+      "source crop visibility"
+    ],
+    "review_notes": "Senate table Alsobrooks 48, Hogan 39. The 811 noted below is the screened follow-up denominator, not the full Senate sample."
+  },
+  {
+    "id": "2024-NV-tarrance",
+    "race": "2024-NV",
+    "pdf_url": "https://s3.documentcloud.org/documents/25185473/17869-key-findings.pdf",
+    "pdf_sha256": "021f308c0778ada8b57ee7e66030a41efa65944055353f74bcfb992842857faa",
+    "page": 1,
+    "crop": [
+      0,
+      449.86,
+      612.0,
+      636.96
+    ],
+    "dem_poll": 48.0,
+    "rep_poll": 41.0,
+    "population": "lv",
+    "sample_size": 600.0,
+    "sample_size_verified": false,
+    "review_method": "Codex visual inspection of rendered original source, reconciled with extracted/archived figures; not user sign-off",
+    "review_scope": [
+      "candidate identity",
+      "topline",
+      "population when shown",
+      "source crop visibility"
+    ],
+    "review_notes": "U.S. Senate summary Rosen 48, Brown 41. Original report dated September 20; archived ingestion is later."
+  },
+  {
+    "id": "2024-MO-gqr",
+    "race": "2024-MO",
+    "pdf_url": "https://lucaskunce.com/wp-content/uploads/sept-poll-toplines.pdf",
+    "pdf_sha256": "3c98232848e39837c9a96df86c8ff79eab4d2165ab8cf48ee37f59ee6ba2b8e9",
+    "page": 2,
+    "crop": [
+      0,
+      0,
+      612.0,
+      557.63
+    ],
+    "dem_poll": 48.0,
+    "rep_poll": 52.0,
+    "population": "lv",
+    "sample_size": 645.0,
+    "sample_size_verified": false,
+    "review_method": "Codex visual inspection of rendered original source, reconciled with extracted/archived figures; not user sign-off",
+    "review_scope": [
+      "candidate identity",
+      "topline",
+      "population when shown",
+      "source crop visibility"
+    ],
+    "review_notes": "Q26 head-to-head Kunce 48, Hawley 52. Q24 full ballot is separately 46/50; do not mix questions."
+  },
+  {
+    "id": "2024-WV-research-america",
+    "race": "2024-WV",
+    "pdf_url": "https://s3.documentcloud.org/documents/25082344/final-metronews-wv-poll-slides-by-release-date-82924.pdf",
+    "pdf_sha256": "ca16ad927ac1017ccfb637e926bac0dcef86d3f1e1f54ccf969462a604ea77d5",
+    "page": 10,
+    "crop": [
+      0,
+      0,
+      960.009,
+      540.0
+    ],
+    "dem_poll": 28.0,
+    "rep_poll": 62.0,
+    "population": "rv",
+    "sample_size": 400.0,
+    "sample_size_verified": false,
+    "review_method": "Codex visual inspection of rendered original source, reconciled with extracted/archived figures; not user sign-off",
+    "review_scope": [
+      "candidate identity",
+      "topline",
+      "population when shown",
+      "source crop visibility"
+    ],
+    "review_notes": "Rejected partial chart crop; whole original slide shows Justice 0.62, Elliott 0.28, other 0.05, unsure 0.05."
+  },
+  {
+    "id": "2024-MN-surveyusa",
+    "race": "2024-MN",
+    "pdf_url": "https://kstp.com/wp-content/uploads/2024/09/Poll-Report-House-and-Senate-1.pdf",
+    "pdf_sha256": "7840f9c5718f55e4e2026d7ea0713ec30b32990ffdcfc0c6c1be5799f58de19d",
+    "page": 2,
+    "crop": [
+      0,
+      42.74,
+      792.0,
+      595.4
+    ],
+    "dem_poll": 50.0,
+    "rep_poll": 36.0,
+    "population": "lv",
+    "sample_size": 635.0,
+    "sample_size_verified": true,
+    "review_method": "Codex visual inspection of rendered original source, reconciled with extracted/archived figures; not user sign-off",
+    "review_scope": [
+      "candidate identity",
+      "topline",
+      "population when shown",
+      "source crop visibility"
+    ],
+    "review_notes": "Q7 total Klobuchar 50, White 36, n635 likely voters. Field Aug27\u201329, release Aug30. Repeated subgroup blocks are one poll."
+  },
+  {
+    "id": "2024-AZ-yougov",
+    "race": "2024-AZ",
+    "pdf_url": "https://d3nkl3psvxxpe9.cloudfront.net/documents/cbsnews_20241016_az_1_updated.pdf",
+    "pdf_sha256": "61068525bf401f5664e43d32b0911642a343c63e5f8f8c074a65f6f2ddd486ef",
+    "page": 33,
+    "crop": [
+      0,
+      37.83,
+      792.0,
+      465.78
+    ],
+    "dem_poll": 54.0,
+    "rep_poll": 45.0,
+    "population": "lv",
+    "sample_size": 1403.0,
+    "sample_size_verified": true,
+    "review_method": "Codex visual inspection of rendered original source, reconciled with extracted/archived figures; not user sign-off",
+    "review_scope": [
+      "candidate identity",
+      "topline",
+      "population when shown",
+      "source crop visibility"
+    ],
+    "review_notes": "Q30 includes leaners: Gallego 54, Lake 45; weighted likely-voter N1403."
+  },
+  {
+    "id": "2024-MT-fabrizio-david-binder-research",
+    "race": "2024-MT",
+    "pdf_url": "https://www.aarp.org/content/dam/aarp/research/topics/voter-opinion-research/politics/montana-older-voter-survey-2024.doi.10.26419-2fres.00813.034.pdf",
+    "pdf_sha256": "22ebed1223c29a377237b555452ff289ccabcd2dfb59d23004a2f6ff21ac46c4",
+    "page": 3,
+    "crop": [
+      0,
+      1.81,
+      960.0,
+      540
+    ],
+    "dem_poll": 45.0,
+    "rep_poll": 51.0,
+    "population": "lv",
+    "sample_size": 600.0,
+    "sample_size_verified": false,
+    "review_method": "Codex visual inspection of rendered original source, reconciled with extracted/archived figures; not user sign-off",
+    "review_scope": [
+      "candidate identity",
+      "topline",
+      "population when shown",
+      "source crop visibility"
+    ],
+    "review_notes": "Head-to-head chart Tester 45, Sheehy 51. Full ballot is 41/49; do not mix denominators."
+  },
+  {
+    "id": "2024-VA-christopher-newport-u",
+    "race": "2024-VA",
+    "pdf_url": "https://mcusercontent.com/0a86688a0d7c707f9159df222/files/b7697019-6a4e-1436-e08e-1d32090d6a9f/WasonOct7Survey24.pdf",
+    "pdf_sha256": "5e0bbdc42bc18cb26fb5b8d2df94af4a7dec79352a0909afd85b8604240642f7",
+    "page": 3,
+    "crop": [
+      0,
+      46.11,
+      612.0,
+      319.35
+    ],
+    "dem_poll": 55.0,
+    "rep_poll": 35.0,
+    "population": "lv",
+    "sample_size": 800.0,
+    "sample_size_verified": false,
+    "review_method": "Codex visual inspection of rendered original source, reconciled with extracted/archived figures; not user sign-off",
+    "review_scope": [
+      "candidate identity",
+      "topline",
+      "population when shown",
+      "source crop visibility"
+    ],
+    "review_notes": "Narrative Senate vote choice explicitly Kaine 55, Cao 35, likely voters."
+  },
+  {
+    "id": "2024-CA-usc-dornsife-csu-long-beach-cal-poly-pomona",
+    "race": "2024-CA",
+    "pdf_url": "https://today.usc.edu/wp-content/uploads/2024/09/California-Elections-and-Policy-Poll-Statewide-Poll-Toplines-and-Crosstabs-FINAL.pdf",
+    "pdf_sha256": "35a051de1430f0e122da922c20f5fd2719906a1a9b6bcaa7749e0e31b3dacd21",
+    "page": 11,
+    "crop": [
+      0,
+      102.27,
+      612.0,
+      629.72
+    ],
+    "dem_poll": 56.4,
+    "rep_poll": 36.5,
+    "population": "lv",
+    "sample_size": 1685.0,
+    "sample_size_verified": false,
+    "review_method": "Codex visual inspection of rendered original source, reconciled with extracted/archived figures; not user sign-off",
+    "review_scope": [
+      "candidate identity",
+      "topline",
+      "population when shown",
+      "source crop visibility"
+    ],
+    "review_notes": "Combined likely voters including undecided leaners: Schiff 56.4, Garvey 36.5. Base row 52.7/33.8 is different."
+  },
+  {
+    "id": "2024-MA-suffolk",
+    "race": "2024-MA",
+    "pdf_url": "https://www.suffolk.edu/-/media/suffolk/documents/academics/research-at-suffolk/suprc/polls/massachusetts2/2024/10_8_2024_massachusetts_tables_part_1.pdf",
+    "pdf_sha256": "c4ef4b56fc7890509eacedebb04c0482489b39e74598a22ea32d0340347e5874",
+    "page": 3,
+    "crop": [
+      0,
+      0,
+      768.0,
+      600.0
+    ],
+    "dem_poll": 58.6,
+    "rep_poll": 35.0,
+    "population": "lv",
+    "sample_size": 500.0,
+    "sample_size_verified": true,
+    "review_method": "Codex visual inspection of rendered original source, reconciled with extracted/archived figures; not user sign-off",
+    "review_scope": [
+      "candidate identity",
+      "topline",
+      "population when shown",
+      "source crop visibility"
+    ],
+    "review_notes": "Total n500; Warren 293/500=58.6 (rounded display59), Deaton175/500=35.0."
+  },
+  {
+    "id": "2024-RI-u-rhode-island",
+    "race": "2024-RI",
+    "pdf_url": "https://web.uri.edu/harrington/wp-content/uploads/sites/2164/Report_2024-RISI.docx_.pdf",
+    "pdf_sha256": "6cee4e5a1498a7f348f08e096d2235007dd490e4129283ef4b9b9d3d8ddefb37",
+    "page": 23,
+    "crop": [
+      0,
+      343.45,
+      612.0,
+      557.08
+    ],
+    "dem_poll": 52.0,
+    "rep_poll": 24.0,
+    "population": "rv",
+    "sample_size": null,
+    "sample_size_verified": false,
+    "review_method": "Codex visual inspection of rendered original source, reconciled with extracted/archived figures; not user sign-off",
+    "review_scope": [
+      "candidate identity",
+      "topline",
+      "population when shown",
+      "source crop visibility"
+    ],
+    "review_notes": "Table explicitly restricted to registered voters: Whitehouse52, Morgan24. Overall sample is adults; its n500 is not a verified registered-voter denominator."
+  },
+  {
+    "id": "2024-TN-targoz-market-research",
+    "race": "2024-TN",
+    "pdf_url": "https://www.beacontn.org/wp-content/uploads/2024/10/Marginal-Crosstabs-D1.pdf",
+    "pdf_sha256": "aa21db15290069b003574928bcf4ffefd17d965184bc68fdaea15dadac66a877",
+    "page": 8,
+    "crop": [
+      0,
+      0,
+      792.0,
+      612.0
+    ],
+    "dem_poll": 31.0,
+    "rep_poll": 54.0,
+    "population": "lv",
+    "sample_size": 954,
+    "sample_size_verified": true,
+    "review_method": "Codex visual inspection of rendered original source, reconciled with extracted/archived figures; not user sign-off",
+    "review_scope": [
+      "candidate identity",
+      "topline",
+      "population when shown",
+      "source crop visibility"
+    ],
+    "review_notes": "Likely-voter column Johnson31, Blackburn54, n954. Total sample1159 is a different population; feed n971 is not this table denominator."
+  }
+]

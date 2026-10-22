@@ -1,0 +1,15 @@
+{
+  "status": "REPAIRED IN VERSIONED v0.2 INPUTS",
+  "cases": 50,
+  "all_first_views_retain_complete_source": true,
+  "minimum_views": 5,
+  "maximum_views": 16,
+  "additional_center_crop": false,
+  "manual_actual_tensor_preview_checks": [
+    "v2-2016-CO-2016-10-18",
+    "2024-TX-yougov",
+    "2010-CT-quinnipiac-html"
+  ],
+  "checks": "Inverse-normalized actual encoder tensors visually inspected: Colorado name/56/38 columns present across views, Texas corrected page89 shows overall51/44, HTML candidate/total columns preserved. Not a general numeric OCR accuracy claim.",
+  "manifest_sha256": "52a0e80129368fbc89fd098f6ab084ce1537dadafe1739630cbc67cc8dd8b5ff"
+}

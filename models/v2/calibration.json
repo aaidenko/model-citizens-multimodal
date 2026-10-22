@@ -1,0 +1,10 @@
+{
+  "df": 5,
+  "location_points": 0.42795332473765063,
+  "scale_points": 5.5892272310809865,
+  "races": 24,
+  "fit_years": [
+    2022
+  ],
+  "objective": "Student-t margin error maximum likelihood"
+}

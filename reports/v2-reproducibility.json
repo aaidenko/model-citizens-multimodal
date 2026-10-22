@@ -1,0 +1,11 @@
+{
+  "tests_run": 43,
+  "failures": 0,
+  "errors": 0,
+  "skipped": 0,
+  "network_requests_allowed": false,
+  "model_artifact_mismatches": [],
+  "exact_model_artifacts": 19,
+  "publisher_originals_required": false,
+  "public_export_contains_credentials": false
+}

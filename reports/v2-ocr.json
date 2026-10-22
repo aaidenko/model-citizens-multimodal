@@ -1,0 +1,148 @@
+{
+  "status": "LIMITED LOCAL READER DIAGNOSTIC",
+  "cases": 5,
+  "correct_cells": {
+    "old_center_crop": 0,
+    "preserved_full_source": 8
+  },
+  "total_cells": 10,
+  "exact_pairs": {
+    "old_center_crop": 0,
+    "preserved_full_source": 4
+  },
+  "results": [
+    {
+      "id": "v2-2016-CO-2016-10-18",
+      "expected": [
+        56,
+        38
+      ],
+      "source_sha256": "bf54aa7b5498c53bf76251659a4b9d043e3cb21ffc1cc2d9445fe7a0166eb006",
+      "visual_review_passed": false,
+      "old_center_crop": {
+        "extracted": [
+          null,
+          null
+        ],
+        "correct_cells": 0
+      },
+      "preserved_full_source": {
+        "extracted": [
+          56.0,
+          38.0
+        ],
+        "correct_cells": 2
+      }
+    },
+    {
+      "id": "v2-2014-NJ-2014-10-02",
+      "expected": [
+        51,
+        40
+      ],
+      "source_sha256": "44b0dc6630f332a64a1c422dd5548718c5a75626407d0b48b7f02538e2a5e22a",
+      "visual_review_passed": false,
+      "old_center_crop": {
+        "extracted": [
+          null,
+          null
+        ],
+        "correct_cells": 0
+      },
+      "preserved_full_source": {
+        "extracted": [
+          51.0,
+          40.0
+        ],
+        "correct_cells": 2
+      }
+    },
+    {
+      "id": "v2-2018-CT-2018-10-10",
+      "expected": [
+        57,
+        42
+      ],
+      "source_sha256": "3af29b2493027390aabfe8b5a3ae97b9f080f9061e7c115b0db2473af684e0d7",
+      "visual_review_passed": false,
+      "old_center_crop": {
+        "extracted": [
+          null,
+          null
+        ],
+        "correct_cells": 0
+      },
+      "preserved_full_source": {
+        "extracted": [
+          57.0,
+          42.0
+        ],
+        "correct_cells": 2
+      }
+    },
+    {
+      "id": "2024-AZ-yougov",
+      "expected": [
+        54.0,
+        45.0
+      ],
+      "source_sha256": "61068525bf401f5664e43d32b0911642a343c63e5f8f8c074a65f6f2ddd486ef",
+      "visual_review_passed": false,
+      "old_center_crop": {
+        "extracted": [
+          null,
+          null
+        ],
+        "correct_cells": 0
+      },
+      "preserved_full_source": {
+        "extracted": [
+          54.0,
+          45.0
+        ],
+        "correct_cells": 2
+      }
+    },
+    {
+      "id": "2024-TX-yougov",
+      "expected": [
+        44.0,
+        51.0
+      ],
+      "source_sha256": "15673beda18714be68d0775fd7edbebc14e2d53b949648bf5b8e0958b1094d21",
+      "visual_review_passed": false,
+      "old_center_crop": {
+        "extracted": [
+          null,
+          null
+        ],
+        "correct_cells": 0
+      },
+      "preserved_full_source": {
+        "extracted": [
+          null,
+          null
+        ],
+        "correct_cells": 0
+      }
+    }
+  ],
+  "packages": {
+    "rapidocr": "3.10.0",
+    "onnxruntime": "1.24.4",
+    "opencv-python-headless": "5.0.0.93"
+  },
+  "model_hashes": {
+    "PP-OCRv6_det_small.onnx": "090f04abcd9d9a7498bc4ebf677e4cb9bdce1fe4197ddb7e529f1ef44e1ff94f",
+    "ch_ppocr_mobile_v2.0_cls_mobile.onnx": "e47acedf663230f8863ff1ab0e64dd2d82b838fceb5957146dab185a89d6215c",
+    "PP-OCRv6_rec_small.onnx": "6f327246b50388f3c176ae304bd95767ea6dc0c9ae92153ef8cbe210b3c14884"
+  },
+  "new_service_spend_usd": 0,
+  "limitations": [
+    "Five reviewed convenience cases, not a general chart-reading accuracy estimate.",
+    "Candidate-as-column layouts are intentionally unsupported and failures are retained.",
+    "Compares the old cropped encoder image to preserved full-resolution source for the OCR reader, not to new encoder tiles.",
+    "OCR is an optional extraction fallback; these outputs do not enter the forecasting model or automatically approve a source.",
+    "The OCR release is newer than the historical elections; this is a present-day extraction diagnostic only."
+  ]
+}

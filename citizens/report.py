@@ -126,8 +126,8 @@ document.getElementById('filter').addEventListener('input',e=>{const text=e.targ
             audit_notice = f'''<p><strong>Input defect found after the first experiment:</strong>
             the default square crop discards over half the source image area in
             {audit['training_images_losing_over_half_the_area']} of {audit['training_images']} training images.
-            In a checked example it cuts off candidate names and topline values. Fixing this is the first recommended change;
-            its effect on forecasting accuracy is not yet measured.</p><p><a href="image-input-audit.json">Image-input audit</a> ·
+            In a checked example it cuts off candidate names and topline values. The versioned v0.2 experiment repairs this;
+            the original failed experiment is preserved below.</p><p><a href="image-input-audit.json">Original image-input audit</a> ·
             <a href="../docs/IMPROVEMENT_PLAN.md">Ranked improvement plan</a></p>'''
         mm_rows = []
         entries = [('Uncorrected poll', mm['raw_poll'])] + [
@@ -154,6 +154,27 @@ document.getElementById('filter').addEventListener('input',e=>{const text=e.targ
         html = html.replace('<section><h2>Strategy sensitivity', mm_html+'<section><h2>Strategy sensitivity')
         html = html.replace('Subgroup and visual features are held out of the predictive model until historical testing supports their use.',
                             'The separate multimodal neural experiment below has now been trained and tested. Its features remain excluded from contest picks because the first holdout did not support them.')
+    v2=data.get('v2_document_experiment');numeric=data.get('v2_numeric_experiment')
+    if v2 and numeric:
+        entries=[('Numeric baseline; no document correction',v2['baseline']['test'],None)]
+        entries.extend((name.replace('_',' + '),m['test'],m['selected']['weight']) for name,m in v2['models'].items())
+        cells=''.join(f'<tr><td>{escape(name)}</td><td>{scores["margin_rmse"]:.2f}</td><td>{scores["brier"]:.3f}</td><td>{scores["accuracy"]:.0%}</td><td>{"—" if weight is None else f"{weight:.2f}"}</td></tr>' for name,scores,weight in entries)
+        num=numeric['test']['selected'];raw=numeric['test']['raw_poll_same_calibration']
+        section=f'''<section id="version-two"><h2>Version 0.2: larger data, repaired images, calibrated uncertainty</h2>
+        <p><strong>{numeric['data']['races']} numeric race snapshots and 50 reviewed document races.</strong>
+        Numeric selection uses 249 training and 45 development races, then refits through 2020. Probability calibration uses 24 races in 2022.
+        The document head uses 29 earlier training races, selects on five 2020 races, and refits on 34. Fourteen new 2024 races have reviewed documents.</p>
+        <p>The larger selected numeric model reduced margin RMSE from <strong>{raw['margin_rmse']:.2f} to {num['margin_rmse']:.2f} points</strong>
+        and Brier score from {raw['brier']:.3f} to {num['brier']:.3f} on 25 new 2024 test races. This test excludes the three consumed v0.1 races (MI, PA, WI), includes many safe seats, and covers only one election cycle. It is not a probability of winning this competition.</p>
+        <div class="notice"><strong>Direct image/text correction was not selected.</strong> Earlier-cycle validation selected zero contribution for the full multimodal branch. Its test result therefore equals the numeric baseline.
+        A lower score than the separately trained numeric document head does not demonstrate an image benefit. All neural heads were actually trained; unblended diagnostic scores and weights are retained.</div>
+        <div class="scroll"><table><thead><tr><th>Matched document arm</th><th>Margin RMSE ↓</th><th>Brier ↓</th><th>Accuracy</th><th>Document weight</th></tr></thead><tbody>{cells}</tbody></table></div>
+        <p><img src="v2-ablation.png" alt="Matched 14-race document comparison; validation suppresses the image and full document corrections" style="max-width:100%;height:auto" loading="lazy"></p>
+        <p>Full-image padding and overlapping readable tiles replace square center cropping. Original PDFs and publisher table screenshots are hash-pinned and visually reviewed; their images are excluded from public Git. OCR is a separately tested local extraction fallback, not an automatic reviewer or an extra forecast signal.</p>
+        <p>All 14 new document-test races use publishers absent from head training. This is confounded with the new election cycle. Historical availability is partly proxied from median field dates and the archives have retrospective revisions. The prespecified Monmouth/Emerson PDF test was unavailable under the collection rule; it is not reported as passed.</p>
+        <p><a href="v2-numeric.json">Expanded numeric results</a> · <a href="v2-documents.json">Matched document results</a> · <a href="v2-image-audit.json">Actual-input audit</a> ·
+        <a href="v2-ocr.json">Limited OCR diagnostic</a> · <a href="../docs/V2_MODEL_CARD.md">v0.2 model card</a> · <a href="https://github.com/aaidenko/model-citizens-multimodal">Public GitHub repository</a></p></section>'''
+        html=html.replace('<section id="multimodal">',section+'<section id="multimodal">')
     if not evidence['visual_review_passed']:
         html=html.replace("The University of Houston's Texas poll gives the same 48 / 46 / 3 / 3 figures in its chart and overall table. The original methodology says October 10–14, while the university-hosted tracker lists October 10–15. The original report controls the field dates.",
                           'The source PDF has changed since its page images were visually verified. The new extraction requires review before it can supply a primary-source correction.')

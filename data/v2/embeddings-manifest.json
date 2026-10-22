@@ -1,0 +1,3500 @@
+{
+  "encoder": "openai/clip-vit-base-patch32",
+  "revision": "3d74acf9a28c67741b2f4f2ea7635f0aaf6f0268",
+  "frozen": true,
+  "cases_sha256": "0b8e54fe6476c1fb3c403e1797f389106d3d322a188657c0394a0c34746f76ba",
+  "embeddings_sha256": "3cd732c05780dbc07c96e773abe43b132599ec449caefaa98577086686ec9ffe",
+  "records": [
+    {
+      "id": "2000-CT-quinnipiac-html",
+      "source_sha256": "54afe00b4f337556baee811d59dbd921c9d7e39ce9b60910b1b567d9f315d25f",
+      "source_kind": "publisher_html_screenshot",
+      "page": null,
+      "crop": [
+        35,
+        329,
+        1245,
+        634
+      ],
+      "source_pixels": [
+        1210,
+        305
+      ],
+      "source_boxes": [
+        [
+          0,
+          0,
+          1210,
+          305
+        ],
+        [
+          0,
+          0,
+          305,
+          305
+        ],
+        [
+          228,
+          0,
+          533,
+          305
+        ],
+        [
+          456,
+          0,
+          761,
+          305
+        ],
+        [
+          684,
+          0,
+          989,
+          305
+        ],
+        [
+          905,
+          0,
+          1210,
+          305
+        ]
+      ],
+      "views": 6,
+      "first_view_retained_area_fraction": 1.0,
+      "additional_center_crop": false,
+      "text_chunks": 4,
+      "preview_sha256": "61b89dcd4e4bdaa3d3b96fd8e9f0b544f2ca2babe7ae72309ab2501e2bf6c13f"
+    },
+    {
+      "id": "2000-NY-quinnipiac-html",
+      "source_sha256": "bc1c18ad4638136ab7117d705212cad6288b9edc4272cfbd1fcf7a305934dcc6",
+      "source_kind": "publisher_html_screenshot",
+      "page": null,
+      "crop": [
+        35,
+        329,
+        1245,
+        634
+      ],
+      "source_pixels": [
+        1210,
+        305
+      ],
+      "source_boxes": [
+        [
+          0,
+          0,
+          1210,
+          305
+        ],
+        [
+          0,
+          0,
+          305,
+          305
+        ],
+        [
+          228,
+          0,
+          533,
+          305
+        ],
+        [
+          456,
+          0,
+          761,
+          305
+        ],
+        [
+          684,
+          0,
+          989,
+          305
+        ],
+        [
+          905,
+          0,
+          1210,
+          305
+        ]
+      ],
+      "views": 6,
+      "first_view_retained_area_fraction": 1.0,
+      "additional_center_crop": false,
+      "text_chunks": 4,
+      "preview_sha256": "1232a9e3bb3672a0e7ee682543bca8181c0a641cf98fdc4cb0b5f85147c38779"
+    },
+    {
+      "id": "2002-NJ-quinnipiac-html",
+      "source_sha256": "4d73b11c03c2a8638c734414a5765d920acb68e81e60be69b8f896dfc96518b6",
+      "source_kind": "publisher_html_screenshot",
+      "page": null,
+      "crop": [
+        35,
+        329,
+        1245,
+        634
+      ],
+      "source_pixels": [
+        1210,
+        305
+      ],
+      "source_boxes": [
+        [
+          0,
+          0,
+          1210,
+          305
+        ],
+        [
+          0,
+          0,
+          305,
+          305
+        ],
+        [
+          228,
+          0,
+          533,
+          305
+        ],
+        [
+          456,
+          0,
+          761,
+          305
+        ],
+        [
+          684,
+          0,
+          989,
+          305
+        ],
+        [
+          905,
+          0,
+          1210,
+          305
+        ]
+      ],
+      "views": 6,
+      "first_view_retained_area_fraction": 1.0,
+      "additional_center_crop": false,
+      "text_chunks": 7,
+      "preview_sha256": "c3bb4c1d2166a84b2bf35ddaabaa4c94e46e2ec9f3b04a1fdac77c7ec60c3a2b"
+    },
+    {
+      "id": "2004-FL-quinnipiac-html",
+      "source_sha256": "d7d5ebc71d806333e11f246a5669929d287a8640e9620efb0b2e7a68b84a6b71",
+      "source_kind": "publisher_html_screenshot",
+      "page": null,
+      "crop": [
+        35,
+        329,
+        1245,
+        634
+      ],
+      "source_pixels": [
+        1210,
+        305
+      ],
+      "source_boxes": [
+        [
+          0,
+          0,
+          1210,
+          305
+        ],
+        [
+          0,
+          0,
+          305,
+          305
+        ],
+        [
+          228,
+          0,
+          533,
+          305
+        ],
+        [
+          456,
+          0,
+          761,
+          305
+        ],
+        [
+          684,
+          0,
+          989,
+          305
+        ],
+        [
+          905,
+          0,
+          1210,
+          305
+        ]
+      ],
+      "views": 6,
+      "first_view_retained_area_fraction": 1.0,
+      "additional_center_crop": false,
+      "text_chunks": 4,
+      "preview_sha256": "86787e8d514d2f498c78697b59000943f4d3f935597aa350e637df7371b1770b"
+    },
+    {
+      "id": "2006-FL-quinnipiac-html",
+      "source_sha256": "eb75fef5247c730e1a65d8434e0c31e83f1c675489e81846a1edeaee362415ad",
+      "source_kind": "publisher_html_screenshot",
+      "page": null,
+      "crop": [
+        35,
+        293,
+        1245,
+        598
+      ],
+      "source_pixels": [
+        1210,
+        305
+      ],
+      "source_boxes": [
+        [
+          0,
+          0,
+          1210,
+          305
+        ],
+        [
+          0,
+          0,
+          305,
+          305
+        ],
+        [
+          228,
+          0,
+          533,
+          305
+        ],
+        [
+          456,
+          0,
+          761,
+          305
+        ],
+        [
+          684,
+          0,
+          989,
+          305
+        ],
+        [
+          905,
+          0,
+          1210,
+          305
+        ]
+      ],
+      "views": 6,
+      "first_view_retained_area_fraction": 1.0,
+      "additional_center_crop": false,
+      "text_chunks": 5,
+      "preview_sha256": "65b7241dd64a2287dc32e03ed9d1d041ce32f80490673e14cb2c29f1b5aa3b13"
+    },
+    {
+      "id": "2006-NJ-quinnipiac-html",
+      "source_sha256": "5b1b98c3eb88a323216fffd54e578b6def52a953932d9fb156365a578aa490a8",
+      "source_kind": "publisher_html_screenshot",
+      "page": null,
+      "crop": [
+        35,
+        293,
+        1245,
+        598
+      ],
+      "source_pixels": [
+        1210,
+        305
+      ],
+      "source_boxes": [
+        [
+          0,
+          0,
+          1210,
+          305
+        ],
+        [
+          0,
+          0,
+          305,
+          305
+        ],
+        [
+          228,
+          0,
+          533,
+          305
+        ],
+        [
+          456,
+          0,
+          761,
+          305
+        ],
+        [
+          684,
+          0,
+          989,
+          305
+        ],
+        [
+          905,
+          0,
+          1210,
+          305
+        ]
+      ],
+      "views": 6,
+      "first_view_retained_area_fraction": 1.0,
+      "additional_center_crop": false,
+      "text_chunks": 5,
+      "preview_sha256": "c11c51ecb5b102f71e1df91eb51054b6c5568e6de686ad882394fda0ced81ced"
+    },
+    {
+      "id": "2006-OH-quinnipiac-html",
+      "source_sha256": "8217fb1e82bced2b4981ecb34658415236c975674f4ffcc54837451cca7b7334",
+      "source_kind": "publisher_html_screenshot",
+      "page": null,
+      "crop": [
+        35,
+        293,
+        1245,
+        598
+      ],
+      "source_pixels": [
+        1210,
+        305
+      ],
+      "source_boxes": [
+        [
+          0,
+          0,
+          1210,
+          305
+        ],
+        [
+          0,
+          0,
+          305,
+          305
+        ],
+        [
+          228,
+          0,
+          533,
+          305
+        ],
+        [
+          456,
+          0,
+          761,
+          305
+        ],
+        [
+          684,
+          0,
+          989,
+          305
+        ],
+        [
+          905,
+          0,
+          1210,
+          305
+        ]
+      ],
+      "views": 6,
+      "first_view_retained_area_fraction": 1.0,
+      "additional_center_crop": false,
+      "text_chunks": 5,
+      "preview_sha256": "5bd8d85049eb4cb0ee4fa8373e5908d288437d0348632bc14fa59d6aa8ed3b70"
+    },
+    {
+      "id": "2008-NJ-quinnipiac-html",
+      "source_sha256": "1a27dd4b52af8b649c299387e99a67a16a2458953789ba9096c6eb5fbad33b1f",
+      "source_kind": "publisher_html_screenshot",
+      "page": null,
+      "crop": [
+        35,
+        293,
+        1245,
+        598
+      ],
+      "source_pixels": [
+        1210,
+        305
+      ],
+      "source_boxes": [
+        [
+          0,
+          0,
+          1210,
+          305
+        ],
+        [
+          0,
+          0,
+          305,
+          305
+        ],
+        [
+          228,
+          0,
+          533,
+          305
+        ],
+        [
+          456,
+          0,
+          761,
+          305
+        ],
+        [
+          684,
+          0,
+          989,
+          305
+        ],
+        [
+          905,
+          0,
+          1210,
+          305
+        ]
+      ],
+      "views": 6,
+      "first_view_retained_area_fraction": 1.0,
+      "additional_center_crop": false,
+      "text_chunks": 8,
+      "preview_sha256": "b1afe7051feb16d974711842de01ed73e429fd2637b4dc47a521fa9cbf0872ad"
+    },
+    {
+      "id": "2010-CT-quinnipiac-html",
+      "source_sha256": "e4b916e45305c31e46723fbd34fd626c49df91771969d901e9ce8ca0a13df1bc",
+      "source_kind": "publisher_html_screenshot",
+      "page": null,
+      "crop": [
+        35,
+        294,
+        1245,
+        599
+      ],
+      "source_pixels": [
+        1210,
+        305
+      ],
+      "source_boxes": [
+        [
+          0,
+          0,
+          1210,
+          305
+        ],
+        [
+          0,
+          0,
+          305,
+          305
+        ],
+        [
+          228,
+          0,
+          533,
+          305
+        ],
+        [
+          456,
+          0,
+          761,
+          305
+        ],
+        [
+          684,
+          0,
+          989,
+          305
+        ],
+        [
+          905,
+          0,
+          1210,
+          305
+        ]
+      ],
+      "views": 6,
+      "first_view_retained_area_fraction": 1.0,
+      "additional_center_crop": false,
+      "text_chunks": 7,
+      "preview_sha256": "d977c7111342de376664c0580ffc89b3714732a54596a95fdb1fb78d393a6744"
+    },
+    {
+      "id": "2010-OH-quinnipiac-html",
+      "source_sha256": "bf40d7aa00f7c2b9972247f21e4141ae3ad51071c88e5971a8a2af55653a30f9",
+      "source_kind": "publisher_html_screenshot",
+      "page": null,
+      "crop": [
+        35,
+        329,
+        1245,
+        634
+      ],
+      "source_pixels": [
+        1210,
+        305
+      ],
+      "source_boxes": [
+        [
+          0,
+          0,
+          1210,
+          305
+        ],
+        [
+          0,
+          0,
+          305,
+          305
+        ],
+        [
+          228,
+          0,
+          533,
+          305
+        ],
+        [
+          456,
+          0,
+          761,
+          305
+        ],
+        [
+          684,
+          0,
+          989,
+          305
+        ],
+        [
+          905,
+          0,
+          1210,
+          305
+        ]
+      ],
+      "views": 6,
+      "first_view_retained_area_fraction": 1.0,
+      "additional_center_crop": false,
+      "text_chunks": 8,
+      "preview_sha256": "23a8aaa40598d90914f981b60bf92fc26f4d8067d219345002b924f3c87cb3f0"
+    },
+    {
+      "id": "2010-PA-quinnipiac-html",
+      "source_sha256": "7b7f6b63e966e391360ce8fab3a871463d347ab9b928039a0e25faae069ad0cb",
+      "source_kind": "publisher_html_screenshot",
+      "page": null,
+      "crop": [
+        35,
+        293,
+        1245,
+        598
+      ],
+      "source_pixels": [
+        1210,
+        305
+      ],
+      "source_boxes": [
+        [
+          0,
+          0,
+          1210,
+          305
+        ],
+        [
+          0,
+          0,
+          305,
+          305
+        ],
+        [
+          228,
+          0,
+          533,
+          305
+        ],
+        [
+          456,
+          0,
+          761,
+          305
+        ],
+        [
+          684,
+          0,
+          989,
+          305
+        ],
+        [
+          905,
+          0,
+          1210,
+          305
+        ]
+      ],
+      "views": 6,
+      "first_view_retained_area_fraction": 1.0,
+      "additional_center_crop": false,
+      "text_chunks": 5,
+      "preview_sha256": "2d5e61e299dd754819815022da9ec967b4a23e0677b5171cd52a574eed5fbcde"
+    },
+    {
+      "id": "2012-CT-quinnipiac-html",
+      "source_sha256": "1bcf9c03d1c9f602cf6f447781a01bd69b86b1f7a3ea63244b0a4ed129a9fac1",
+      "source_kind": "publisher_html_screenshot",
+      "page": null,
+      "crop": [
+        35,
+        293,
+        1245,
+        598
+      ],
+      "source_pixels": [
+        1210,
+        305
+      ],
+      "source_boxes": [
+        [
+          0,
+          0,
+          1210,
+          305
+        ],
+        [
+          0,
+          0,
+          305,
+          305
+        ],
+        [
+          228,
+          0,
+          533,
+          305
+        ],
+        [
+          456,
+          0,
+          761,
+          305
+        ],
+        [
+          684,
+          0,
+          989,
+          305
+        ],
+        [
+          905,
+          0,
+          1210,
+          305
+        ]
+      ],
+      "views": 6,
+      "first_view_retained_area_fraction": 1.0,
+      "additional_center_crop": false,
+      "text_chunks": 10,
+      "preview_sha256": "bba60253cb60ba799889315993bfc4c78e2357b125bd77079838960813eb52f1"
+    },
+    {
+      "id": "2012-NY-quinnipiac-html",
+      "source_sha256": "7cb77cea2b132646a018355382acfa2f7adaef58e76d15aa8547e0be869e7b87",
+      "source_kind": "publisher_html_screenshot",
+      "page": null,
+      "crop": [
+        35,
+        294,
+        1245,
+        599
+      ],
+      "source_pixels": [
+        1210,
+        305
+      ],
+      "source_boxes": [
+        [
+          0,
+          0,
+          1210,
+          305
+        ],
+        [
+          0,
+          0,
+          305,
+          305
+        ],
+        [
+          228,
+          0,
+          533,
+          305
+        ],
+        [
+          456,
+          0,
+          761,
+          305
+        ],
+        [
+          684,
+          0,
+          989,
+          305
+        ],
+        [
+          905,
+          0,
+          1210,
+          305
+        ]
+      ],
+      "views": 6,
+      "first_view_retained_area_fraction": 1.0,
+      "additional_center_crop": false,
+      "text_chunks": 11,
+      "preview_sha256": "e8107316fa2b5cf94cbb3dcfd3e32f5b57df29b953fe0cf944472d8444700706"
+    },
+    {
+      "id": "2012-OH-quinnipiac-html",
+      "source_sha256": "27fcd86e6fdac776c0614f4195b7b8d5d3ce8ae8d04c8dec20d311600dd01ace",
+      "source_kind": "publisher_html_screenshot",
+      "page": null,
+      "crop": [
+        35,
+        293,
+        1245,
+        598
+      ],
+      "source_pixels": [
+        1210,
+        305
+      ],
+      "source_boxes": [
+        [
+          0,
+          0,
+          1210,
+          305
+        ],
+        [
+          0,
+          0,
+          305,
+          305
+        ],
+        [
+          228,
+          0,
+          533,
+          305
+        ],
+        [
+          456,
+          0,
+          761,
+          305
+        ],
+        [
+          684,
+          0,
+          989,
+          305
+        ],
+        [
+          905,
+          0,
+          1210,
+          305
+        ]
+      ],
+      "views": 6,
+      "first_view_retained_area_fraction": 1.0,
+      "additional_center_crop": false,
+      "text_chunks": 11,
+      "preview_sha256": "fc3e4a465243d7d3a2588a39a44ae071b4ffdb912b37a2fc2d32ed541fb082e4"
+    },
+    {
+      "id": "v2-2014-CO-2014-10-16",
+      "source_sha256": "de3b304bf4370b51ea2255d1a62325929f7f95ce60d8f5cff114dc365cf0e836",
+      "source_kind": "publisher_pdf",
+      "page": 3,
+      "crop": [
+        0,
+        53.11,
+        612.0,
+        383.0
+      ],
+      "source_pixels": [
+        1275,
+        687
+      ],
+      "source_boxes": [
+        [
+          0,
+          0,
+          1275,
+          687
+        ],
+        [
+          0,
+          0,
+          512,
+          512
+        ],
+        [
+          384,
+          0,
+          896,
+          512
+        ],
+        [
+          763,
+          0,
+          1275,
+          512
+        ],
+        [
+          0,
+          175,
+          512,
+          687
+        ],
+        [
+          384,
+          175,
+          896,
+          687
+        ],
+        [
+          763,
+          175,
+          1275,
+          687
+        ]
+      ],
+      "views": 7,
+      "first_view_retained_area_fraction": 1.0,
+      "additional_center_crop": false,
+      "text_chunks": 6,
+      "preview_sha256": "d54fcbb6cfb4c787201d24567c85db81159995373af1d9e6d7666d68bf6b7c94"
+    },
+    {
+      "id": "v2-2014-IA-2014-10-15",
+      "source_sha256": "aabb8972185ee74c50fc69eefcc8afb8ef17049071fc2e64be08cd5ed1714255",
+      "source_kind": "publisher_pdf",
+      "page": 5,
+      "crop": [
+        0,
+        30.43,
+        612.0,
+        348.92
+      ],
+      "source_pixels": [
+        1275,
+        663
+      ],
+      "source_boxes": [
+        [
+          0,
+          0,
+          1275,
+          663
+        ],
+        [
+          0,
+          0,
+          512,
+          512
+        ],
+        [
+          384,
+          0,
+          896,
+          512
+        ],
+        [
+          763,
+          0,
+          1275,
+          512
+        ],
+        [
+          0,
+          151,
+          512,
+          663
+        ],
+        [
+          384,
+          151,
+          896,
+          663
+        ],
+        [
+          763,
+          151,
+          1275,
+          663
+        ]
+      ],
+      "views": 7,
+      "first_view_retained_area_fraction": 1.0,
+      "additional_center_crop": false,
+      "text_chunks": 6,
+      "preview_sha256": "cbfa7dbcdace5747a2ba1fd5a9812105b720d7ef03d149c62c1dc66f908f8830"
+    },
+    {
+      "id": "v2-2014-NJ-2014-10-02",
+      "source_sha256": "44b0dc6630f332a64a1c422dd5548718c5a75626407d0b48b7f02538e2a5e22a",
+      "source_kind": "publisher_pdf",
+      "page": 3,
+      "crop": [
+        0,
+        30.43,
+        612.0,
+        179.09
+      ],
+      "source_pixels": [
+        1275,
+        309
+      ],
+      "source_boxes": [
+        [
+          0,
+          0,
+          1275,
+          309
+        ],
+        [
+          0,
+          0,
+          309,
+          309
+        ],
+        [
+          231,
+          0,
+          540,
+          309
+        ],
+        [
+          462,
+          0,
+          771,
+          309
+        ],
+        [
+          693,
+          0,
+          1002,
+          309
+        ],
+        [
+          924,
+          0,
+          1233,
+          309
+        ],
+        [
+          966,
+          0,
+          1275,
+          309
+        ]
+      ],
+      "views": 7,
+      "first_view_retained_area_fraction": 1.0,
+      "additional_center_crop": false,
+      "text_chunks": 3,
+      "preview_sha256": "852e817334f97ba473e231e3dcbf4daa507c0622619c0f9de0651b578887b085"
+    },
+    {
+      "id": "v2-2014-VA-2014-09-25",
+      "source_sha256": "6e04e32e042f9096ad203ec471ef707fc361d69ecfd0a43c5f8c7cb0f486f62b",
+      "source_kind": "publisher_pdf",
+      "page": 3,
+      "crop": [
+        0,
+        30.43,
+        612.0,
+        190.37
+      ],
+      "source_pixels": [
+        1275,
+        333
+      ],
+      "source_boxes": [
+        [
+          0,
+          0,
+          1275,
+          333
+        ],
+        [
+          0,
+          0,
+          333,
+          333
+        ],
+        [
+          249,
+          0,
+          582,
+          333
+        ],
+        [
+          498,
+          0,
+          831,
+          333
+        ],
+        [
+          747,
+          0,
+          1080,
+          333
+        ],
+        [
+          942,
+          0,
+          1275,
+          333
+        ]
+      ],
+      "views": 6,
+      "first_view_retained_area_fraction": 1.0,
+      "additional_center_crop": false,
+      "text_chunks": 4,
+      "preview_sha256": "1d8085b32aff81949c214b513e57d73bb93a4948d2ffbc05159edca6d911c66d"
+    },
+    {
+      "id": "v2-2016-CO-2016-10-18",
+      "source_sha256": "bf54aa7b5498c53bf76251659a4b9d043e3cb21ffc1cc2d9445fe7a0166eb006",
+      "source_kind": "publisher_pdf",
+      "page": 4,
+      "crop": [
+        0,
+        59.71,
+        612.0,
+        196.97
+      ],
+      "source_pixels": [
+        1275,
+        285
+      ],
+      "source_boxes": [
+        [
+          0,
+          0,
+          1275,
+          285
+        ],
+        [
+          0,
+          0,
+          285,
+          285
+        ],
+        [
+          213,
+          0,
+          498,
+          285
+        ],
+        [
+          426,
+          0,
+          711,
+          285
+        ],
+        [
+          639,
+          0,
+          924,
+          285
+        ],
+        [
+          852,
+          0,
+          1137,
+          285
+        ],
+        [
+          990,
+          0,
+          1275,
+          285
+        ]
+      ],
+      "views": 7,
+      "first_view_retained_area_fraction": 1.0,
+      "additional_center_crop": false,
+      "text_chunks": 3,
+      "preview_sha256": "1caf05d909c391e6ca4263f58f58dfb85d9e28f7a6092be12b713b35af3be43d"
+    },
+    {
+      "id": "v2-2016-FL-2016-10-18",
+      "source_sha256": "bf54aa7b5498c53bf76251659a4b9d043e3cb21ffc1cc2d9445fe7a0166eb006",
+      "source_kind": "publisher_pdf",
+      "page": 4,
+      "crop": [
+        0,
+        206.97,
+        612.0,
+        344.24
+      ],
+      "source_pixels": [
+        1275,
+        285
+      ],
+      "source_boxes": [
+        [
+          0,
+          0,
+          1275,
+          285
+        ],
+        [
+          0,
+          0,
+          285,
+          285
+        ],
+        [
+          213,
+          0,
+          498,
+          285
+        ],
+        [
+          426,
+          0,
+          711,
+          285
+        ],
+        [
+          639,
+          0,
+          924,
+          285
+        ],
+        [
+          852,
+          0,
+          1137,
+          285
+        ],
+        [
+          990,
+          0,
+          1275,
+          285
+        ]
+      ],
+      "views": 7,
+      "first_view_retained_area_fraction": 1.0,
+      "additional_center_crop": false,
+      "text_chunks": 3,
+      "preview_sha256": "b059f5da9aa6feddd5397afef2c30951bd485bc964c8844ed46dc7310770fc04"
+    },
+    {
+      "id": "v2-2016-GA-2016-09-23",
+      "source_sha256": "39eab3355e3192014577a52994fbeeb3a9569585976ab634ff796de024444612",
+      "source_kind": "publisher_pdf",
+      "page": 3,
+      "crop": [
+        0,
+        291.0,
+        612.0,
+        541.54
+      ],
+      "source_pixels": [
+        1275,
+        521
+      ],
+      "source_boxes": [
+        [
+          0,
+          0,
+          1275,
+          521
+        ],
+        [
+          0,
+          0,
+          512,
+          512
+        ],
+        [
+          384,
+          0,
+          896,
+          512
+        ],
+        [
+          763,
+          0,
+          1275,
+          512
+        ],
+        [
+          0,
+          9,
+          512,
+          521
+        ],
+        [
+          384,
+          9,
+          896,
+          521
+        ],
+        [
+          763,
+          9,
+          1275,
+          521
+        ]
+      ],
+      "views": 7,
+      "first_view_retained_area_fraction": 1.0,
+      "additional_center_crop": false,
+      "text_chunks": 4,
+      "preview_sha256": "0f501ca3d547a7cedd21668ce5b9b3f0cbd8de65bc6b68ad4d11b4058de7b06b"
+    },
+    {
+      "id": "v2-2016-IA-2016-09-23",
+      "source_sha256": "39eab3355e3192014577a52994fbeeb3a9569585976ab634ff796de024444612",
+      "source_kind": "publisher_pdf",
+      "page": 3,
+      "crop": [
+        0,
+        551.54,
+        612.0,
+        711.49
+      ],
+      "source_pixels": [
+        1275,
+        333
+      ],
+      "source_boxes": [
+        [
+          0,
+          0,
+          1275,
+          333
+        ],
+        [
+          0,
+          0,
+          333,
+          333
+        ],
+        [
+          249,
+          0,
+          582,
+          333
+        ],
+        [
+          498,
+          0,
+          831,
+          333
+        ],
+        [
+          747,
+          0,
+          1080,
+          333
+        ],
+        [
+          942,
+          0,
+          1275,
+          333
+        ]
+      ],
+      "views": 6,
+      "first_view_retained_area_fraction": 1.0,
+      "additional_center_crop": false,
+      "text_chunks": 3,
+      "preview_sha256": "e6065ecdd5a3b65d13bc470ad195030124657b86e3ab08fe2687caa418d5f2e8"
+    },
+    {
+      "id": "v2-2016-NC-2016-10-05",
+      "source_sha256": "29456dbdc6e38f36cf9602cbfd5ee8178f87ff4f0bb2b4fe8427a5c573255538",
+      "source_kind": "publisher_pdf",
+      "page": 4,
+      "crop": [
+        0,
+        215.01,
+        612.0,
+        374.96
+      ],
+      "source_pixels": [
+        1275,
+        333
+      ],
+      "source_boxes": [
+        [
+          0,
+          0,
+          1275,
+          333
+        ],
+        [
+          0,
+          0,
+          333,
+          333
+        ],
+        [
+          249,
+          0,
+          582,
+          333
+        ],
+        [
+          498,
+          0,
+          831,
+          333
+        ],
+        [
+          747,
+          0,
+          1080,
+          333
+        ],
+        [
+          942,
+          0,
+          1275,
+          333
+        ]
+      ],
+      "views": 6,
+      "first_view_retained_area_fraction": 1.0,
+      "additional_center_crop": false,
+      "text_chunks": 4,
+      "preview_sha256": "1188a38e2e18901cc49e44d035d6d7856ef4c70e5b9143633a4c6c1ee51be55a"
+    },
+    {
+      "id": "v2-2016-OH-2016-10-18",
+      "source_sha256": "bf54aa7b5498c53bf76251659a4b9d043e3cb21ffc1cc2d9445fe7a0166eb006",
+      "source_kind": "publisher_pdf",
+      "page": 4,
+      "crop": [
+        0,
+        354.36,
+        612.0,
+        502.9
+      ],
+      "source_pixels": [
+        1275,
+        309
+      ],
+      "source_boxes": [
+        [
+          0,
+          0,
+          1275,
+          309
+        ],
+        [
+          0,
+          0,
+          309,
+          309
+        ],
+        [
+          231,
+          0,
+          540,
+          309
+        ],
+        [
+          462,
+          0,
+          771,
+          309
+        ],
+        [
+          693,
+          0,
+          1002,
+          309
+        ],
+        [
+          924,
+          0,
+          1233,
+          309
+        ],
+        [
+          966,
+          0,
+          1275,
+          309
+        ]
+      ],
+      "views": 7,
+      "first_view_retained_area_fraction": 1.0,
+      "additional_center_crop": false,
+      "text_chunks": 3,
+      "preview_sha256": "3c2fe25556ddd040a6fc1f1299263e89987b0bda7628e3e9b81b5439f5560547"
+    },
+    {
+      "id": "v2-2016-PA-2016-10-18",
+      "source_sha256": "bf54aa7b5498c53bf76251659a4b9d043e3cb21ffc1cc2d9445fe7a0166eb006",
+      "source_kind": "publisher_pdf",
+      "page": 4,
+      "crop": [
+        0,
+        512.9,
+        612.0,
+        650.17
+      ],
+      "source_pixels": [
+        1275,
+        285
+      ],
+      "source_boxes": [
+        [
+          0,
+          0,
+          1275,
+          285
+        ],
+        [
+          0,
+          0,
+          285,
+          285
+        ],
+        [
+          213,
+          0,
+          498,
+          285
+        ],
+        [
+          426,
+          0,
+          711,
+          285
+        ],
+        [
+          639,
+          0,
+          924,
+          285
+        ],
+        [
+          852,
+          0,
+          1137,
+          285
+        ],
+        [
+          990,
+          0,
+          1275,
+          285
+        ]
+      ],
+      "views": 7,
+      "first_view_retained_area_fraction": 1.0,
+      "additional_center_crop": false,
+      "text_chunks": 3,
+      "preview_sha256": "5f4c90c4ab4647db3f27c5caa3313f6e0342798fe94337b47e2c16b035cf3d25"
+    },
+    {
+      "id": "v2-2018-CT-2018-10-10",
+      "source_sha256": "3af29b2493027390aabfe8b5a3ae97b9f080f9061e7c115b0db2473af684e0d7",
+      "source_kind": "publisher_pdf",
+      "page": 5,
+      "crop": [
+        0,
+        279.72,
+        612.0,
+        541.57
+      ],
+      "source_pixels": [
+        1275,
+        545
+      ],
+      "source_boxes": [
+        [
+          0,
+          0,
+          1275,
+          545
+        ],
+        [
+          0,
+          0,
+          512,
+          512
+        ],
+        [
+          384,
+          0,
+          896,
+          512
+        ],
+        [
+          763,
+          0,
+          1275,
+          512
+        ],
+        [
+          0,
+          33,
+          512,
+          545
+        ],
+        [
+          384,
+          33,
+          896,
+          545
+        ],
+        [
+          763,
+          33,
+          1275,
+          545
+        ]
+      ],
+      "views": 7,
+      "first_view_retained_area_fraction": 1.0,
+      "additional_center_crop": false,
+      "text_chunks": 4,
+      "preview_sha256": "f761a18176f56458f5b0123d4f67540757a0e7e4a7db201544344c5c5172f911"
+    },
+    {
+      "id": "v2-2018-FL-2018-10-22",
+      "source_sha256": "6aeb1746e2bf8dbc882c538e7734bfc88c82460f2dace268838066b02651a0a9",
+      "source_kind": "publisher_pdf",
+      "page": 3,
+      "crop": [
+        0,
+        30.43,
+        612.0,
+        586.93
+      ],
+      "source_pixels": [
+        1275,
+        1159
+      ],
+      "source_boxes": [
+        [
+          0,
+          0,
+          1275,
+          1159
+        ],
+        [
+          0,
+          0,
+          512,
+          512
+        ],
+        [
+          384,
+          0,
+          896,
+          512
+        ],
+        [
+          763,
+          0,
+          1275,
+          512
+        ],
+        [
+          0,
+          384,
+          512,
+          896
+        ],
+        [
+          384,
+          384,
+          896,
+          896
+        ],
+        [
+          763,
+          384,
+          1275,
+          896
+        ],
+        [
+          0,
+          647,
+          512,
+          1159
+        ],
+        [
+          384,
+          647,
+          896,
+          1159
+        ],
+        [
+          763,
+          647,
+          1275,
+          1159
+        ]
+      ],
+      "views": 10,
+      "first_view_retained_area_fraction": 1.0,
+      "additional_center_crop": false,
+      "text_chunks": 8,
+      "preview_sha256": "ab1eb823581a6918b140ce5b894ab36ff967577f37f49e0390c5ae5fd3fbe4b3"
+    },
+    {
+      "id": "v2-2018-NJ-2018-10-17",
+      "source_sha256": "795764195d07dc02f59f9ca2fb1517f7ca69e4a9b9a216fb428a03a8e057c2d7",
+      "source_kind": "publisher_pdf",
+      "page": 3,
+      "crop": [
+        0,
+        30.43,
+        612.0,
+        586.93
+      ],
+      "source_pixels": [
+        1275,
+        1159
+      ],
+      "source_boxes": [
+        [
+          0,
+          0,
+          1275,
+          1159
+        ],
+        [
+          0,
+          0,
+          512,
+          512
+        ],
+        [
+          384,
+          0,
+          896,
+          512
+        ],
+        [
+          763,
+          0,
+          1275,
+          512
+        ],
+        [
+          0,
+          384,
+          512,
+          896
+        ],
+        [
+          384,
+          384,
+          896,
+          896
+        ],
+        [
+          763,
+          384,
+          1275,
+          896
+        ],
+        [
+          0,
+          647,
+          512,
+          1159
+        ],
+        [
+          384,
+          647,
+          896,
+          1159
+        ],
+        [
+          763,
+          647,
+          1275,
+          1159
+        ]
+      ],
+      "views": 10,
+      "first_view_retained_area_fraction": 1.0,
+      "additional_center_crop": false,
+      "text_chunks": 8,
+      "preview_sha256": "ab2252e000152cc1beedb945273bb62aeafb65c13b4d4ea9b529992e2fc2600f"
+    },
+    {
+      "id": "v2-2018-TX-2018-10-11",
+      "source_sha256": "6c8be5209fff74b4b0a2870605732d537d27e03d454c812e63ee72b57bbb0cc6",
+      "source_kind": "publisher_pdf",
+      "page": 5,
+      "crop": [
+        0,
+        30.43,
+        612.0,
+        496.3
+      ],
+      "source_pixels": [
+        1275,
+        970
+      ],
+      "source_boxes": [
+        [
+          0,
+          0,
+          1275,
+          970
+        ],
+        [
+          0,
+          0,
+          512,
+          512
+        ],
+        [
+          384,
+          0,
+          896,
+          512
+        ],
+        [
+          763,
+          0,
+          1275,
+          512
+        ],
+        [
+          0,
+          384,
+          512,
+          896
+        ],
+        [
+          384,
+          384,
+          896,
+          896
+        ],
+        [
+          763,
+          384,
+          1275,
+          896
+        ],
+        [
+          0,
+          458,
+          512,
+          970
+        ],
+        [
+          384,
+          458,
+          896,
+          970
+        ],
+        [
+          763,
+          458,
+          1275,
+          970
+        ]
+      ],
+      "views": 10,
+      "first_view_retained_area_fraction": 1.0,
+      "additional_center_crop": false,
+      "text_chunks": 7,
+      "preview_sha256": "78bd3a336a10b743e43061e65593e8207cf8b4865e6efb02545a5cd2edfde9f1"
+    },
+    {
+      "id": "v2-2020-IA-2020-10-07",
+      "source_sha256": "846c73980fad651bccc7aada91bdb33e291adb90664c6e71e18d7ba52bf36205",
+      "source_kind": "publisher_pdf",
+      "page": 3,
+      "crop": [
+        0,
+        30.2,
+        612.0,
+        292.14
+      ],
+      "source_pixels": [
+        1275,
+        545
+      ],
+      "source_boxes": [
+        [
+          0,
+          0,
+          1275,
+          545
+        ],
+        [
+          0,
+          0,
+          512,
+          512
+        ],
+        [
+          384,
+          0,
+          896,
+          512
+        ],
+        [
+          763,
+          0,
+          1275,
+          512
+        ],
+        [
+          0,
+          33,
+          512,
+          545
+        ],
+        [
+          384,
+          33,
+          896,
+          545
+        ],
+        [
+          763,
+          33,
+          1275,
+          545
+        ]
+      ],
+      "views": 7,
+      "first_view_retained_area_fraction": 1.0,
+      "additional_center_crop": false,
+      "text_chunks": 5,
+      "preview_sha256": "4b5a68f3fbc271cdb497c07c623bf586368031dbf24ce5e44849eb8a1f581a3f"
+    },
+    {
+      "id": "v2-2020-KY-2020-09-16",
+      "source_sha256": "0c250659f4965ba3875e1f224616321ce59452d0d94a75f9993a430313acc4a0",
+      "source_kind": "publisher_pdf",
+      "page": 3,
+      "crop": [
+        0,
+        30.2,
+        612.0,
+        394.08
+      ],
+      "source_pixels": [
+        1275,
+        758
+      ],
+      "source_boxes": [
+        [
+          0,
+          0,
+          1275,
+          758
+        ],
+        [
+          0,
+          0,
+          512,
+          512
+        ],
+        [
+          384,
+          0,
+          896,
+          512
+        ],
+        [
+          763,
+          0,
+          1275,
+          512
+        ],
+        [
+          0,
+          246,
+          512,
+          758
+        ],
+        [
+          384,
+          246,
+          896,
+          758
+        ],
+        [
+          763,
+          246,
+          1275,
+          758
+        ]
+      ],
+      "views": 7,
+      "first_view_retained_area_fraction": 1.0,
+      "additional_center_crop": false,
+      "text_chunks": 7,
+      "preview_sha256": "6aa9dfab1a8b88bacbbe0c212cf80cb6040c60737eca1c8d69644d640bcf9f6b"
+    },
+    {
+      "id": "v2-2020-ME-2020-09-16",
+      "source_sha256": "66c59f628fc1617baa941ede267d21aae093df436c727f1516761c89d421f293",
+      "source_kind": "publisher_pdf",
+      "page": 3,
+      "crop": [
+        0,
+        30.2,
+        612.0,
+        394.08
+      ],
+      "source_pixels": [
+        1275,
+        758
+      ],
+      "source_boxes": [
+        [
+          0,
+          0,
+          1275,
+          758
+        ],
+        [
+          0,
+          0,
+          512,
+          512
+        ],
+        [
+          384,
+          0,
+          896,
+          512
+        ],
+        [
+          763,
+          0,
+          1275,
+          512
+        ],
+        [
+          0,
+          246,
+          512,
+          758
+        ],
+        [
+          384,
+          246,
+          896,
+          758
+        ],
+        [
+          763,
+          246,
+          1275,
+          758
+        ]
+      ],
+      "views": 7,
+      "first_view_retained_area_fraction": 1.0,
+      "additional_center_crop": false,
+      "text_chunks": 6,
+      "preview_sha256": "312429d586b277cbea1d0282cd87f7f9c92b299f39bdfe4a8ad7d8b606d0e161"
+    },
+    {
+      "id": "v2-2020-SC-2020-09-30",
+      "source_sha256": "77e766f02b0cfc4ec064f1b3e3c2d36b6ce0776ad6db40267ca74c7c1d38802d",
+      "source_kind": "publisher_pdf",
+      "page": 5,
+      "crop": [
+        0,
+        30.2,
+        612.0,
+        394.08
+      ],
+      "source_pixels": [
+        1275,
+        758
+      ],
+      "source_boxes": [
+        [
+          0,
+          0,
+          1275,
+          758
+        ],
+        [
+          0,
+          0,
+          512,
+          512
+        ],
+        [
+          384,
+          0,
+          896,
+          512
+        ],
+        [
+          763,
+          0,
+          1275,
+          512
+        ],
+        [
+          0,
+          246,
+          512,
+          758
+        ],
+        [
+          384,
+          246,
+          896,
+          758
+        ],
+        [
+          763,
+          246,
+          1275,
+          758
+        ]
+      ],
+      "views": 7,
+      "first_view_retained_area_fraction": 1.0,
+      "additional_center_crop": false,
+      "text_chunks": 6,
+      "preview_sha256": "2878a7b55fd2db538f181d467b175ac6ed24ae0914b13b3d0879ede49ea0f74c"
+    },
+    {
+      "id": "v2-2020-TX-2020-09-24",
+      "source_sha256": "09721de5e35b0a739442ff2758c293f9ae839e7c4139a3b7f732d4849789ee08",
+      "source_kind": "publisher_pdf",
+      "page": 3,
+      "crop": [
+        0,
+        30.2,
+        612.0,
+        292.14
+      ],
+      "source_pixels": [
+        1275,
+        545
+      ],
+      "source_boxes": [
+        [
+          0,
+          0,
+          1275,
+          545
+        ],
+        [
+          0,
+          0,
+          512,
+          512
+        ],
+        [
+          384,
+          0,
+          896,
+          512
+        ],
+        [
+          763,
+          0,
+          1275,
+          512
+        ],
+        [
+          0,
+          33,
+          512,
+          545
+        ],
+        [
+          384,
+          33,
+          896,
+          545
+        ],
+        [
+          763,
+          33,
+          1275,
+          545
+        ]
+      ],
+      "views": 7,
+      "first_view_retained_area_fraction": 1.0,
+      "additional_center_crop": false,
+      "text_chunks": 5,
+      "preview_sha256": "07a036c11392e1f64b6f8dd16960918548189d3cca722defdefd1b8b63d81960"
+    },
+    {
+      "id": "v2-2022-CT-2022-10-24",
+      "source_sha256": "07b3c12c63a120ff1e30104d9c09fb52562ff5d923c1cb5a5df951652f3242c2",
+      "source_kind": "publisher_pdf",
+      "page": 4,
+      "crop": [
+        0,
+        30.19,
+        612.0,
+        303.44
+      ],
+      "source_pixels": [
+        1275,
+        569
+      ],
+      "source_boxes": [
+        [
+          0,
+          0,
+          1275,
+          569
+        ],
+        [
+          0,
+          0,
+          512,
+          512
+        ],
+        [
+          384,
+          0,
+          896,
+          512
+        ],
+        [
+          763,
+          0,
+          1275,
+          512
+        ],
+        [
+          0,
+          57,
+          512,
+          569
+        ],
+        [
+          384,
+          57,
+          896,
+          569
+        ],
+        [
+          763,
+          57,
+          1275,
+          569
+        ]
+      ],
+      "views": 7,
+      "first_view_retained_area_fraction": 1.0,
+      "additional_center_crop": false,
+      "text_chunks": 5,
+      "preview_sha256": "7370f01e902429feb8c452bdf7d7f293f7770b2974d270b53fd24be2e6bac047"
+    },
+    {
+      "id": "v2-2022-NY-2022-10-13",
+      "source_sha256": "26f25f56efe7cf04faecd0991bc05fc476895b4141e8365e9aa6deb06bfbea9a",
+      "source_kind": "publisher_pdf",
+      "page": 6,
+      "crop": [
+        0,
+        0,
+        590,
+        530
+      ],
+      "source_pixels": [
+        1230,
+        1105
+      ],
+      "source_boxes": [
+        [
+          0,
+          0,
+          1230,
+          1105
+        ],
+        [
+          0,
+          0,
+          512,
+          512
+        ],
+        [
+          384,
+          0,
+          896,
+          512
+        ],
+        [
+          718,
+          0,
+          1230,
+          512
+        ],
+        [
+          0,
+          384,
+          512,
+          896
+        ],
+        [
+          384,
+          384,
+          896,
+          896
+        ],
+        [
+          718,
+          384,
+          1230,
+          896
+        ],
+        [
+          0,
+          593,
+          512,
+          1105
+        ],
+        [
+          384,
+          593,
+          896,
+          1105
+        ],
+        [
+          718,
+          593,
+          1230,
+          1105
+        ]
+      ],
+      "views": 10,
+      "first_view_retained_area_fraction": 1.0,
+      "additional_center_crop": false,
+      "text_chunks": 12,
+      "preview_sha256": "d031df513c73d82ae97f450285425a773ee0c78562b71905c01f93d43105dba4"
+    },
+    {
+      "id": "2024-AZ-yougov",
+      "source_sha256": "61068525bf401f5664e43d32b0911642a343c63e5f8f8c074a65f6f2ddd486ef",
+      "source_kind": "publisher_pdf",
+      "page": 33,
+      "crop": [
+        0,
+        37.83,
+        792.0,
+        465.78
+      ],
+      "source_pixels": [
+        1651,
+        892
+      ],
+      "source_boxes": [
+        [
+          0,
+          0,
+          1651,
+          892
+        ],
+        [
+          0,
+          0,
+          512,
+          512
+        ],
+        [
+          384,
+          0,
+          896,
+          512
+        ],
+        [
+          768,
+          0,
+          1280,
+          512
+        ],
+        [
+          1139,
+          0,
+          1651,
+          512
+        ],
+        [
+          0,
+          380,
+          512,
+          892
+        ],
+        [
+          384,
+          380,
+          896,
+          892
+        ],
+        [
+          768,
+          380,
+          1280,
+          892
+        ],
+        [
+          1139,
+          380,
+          1651,
+          892
+        ]
+      ],
+      "views": 9,
+      "first_view_retained_area_fraction": 1.0,
+      "additional_center_crop": false,
+      "text_chunks": 6,
+      "preview_sha256": "1c20e286a80d0a73677c697969b132a8616d03cb18ec3edea343ba42b1e3da60"
+    },
+    {
+      "id": "2024-CA-usc-dornsife-csu-long-beach-cal-poly-pomona",
+      "source_sha256": "35a051de1430f0e122da922c20f5fd2719906a1a9b6bcaa7749e0e31b3dacd21",
+      "source_kind": "publisher_pdf",
+      "page": 11,
+      "crop": [
+        0,
+        102.27,
+        612.0,
+        629.72
+      ],
+      "source_pixels": [
+        1275,
+        1098
+      ],
+      "source_boxes": [
+        [
+          0,
+          0,
+          1275,
+          1098
+        ],
+        [
+          0,
+          0,
+          512,
+          512
+        ],
+        [
+          384,
+          0,
+          896,
+          512
+        ],
+        [
+          763,
+          0,
+          1275,
+          512
+        ],
+        [
+          0,
+          384,
+          512,
+          896
+        ],
+        [
+          384,
+          384,
+          896,
+          896
+        ],
+        [
+          763,
+          384,
+          1275,
+          896
+        ],
+        [
+          0,
+          586,
+          512,
+          1098
+        ],
+        [
+          384,
+          586,
+          896,
+          1098
+        ],
+        [
+          763,
+          586,
+          1275,
+          1098
+        ]
+      ],
+      "views": 10,
+      "first_view_retained_area_fraction": 1.0,
+      "additional_center_crop": false,
+      "text_chunks": 6,
+      "preview_sha256": "fe7b4bc606525b5377914fe5891547ae189ec60f47232e12df935bf8c1c6535f"
+    },
+    {
+      "id": "2024-MA-suffolk",
+      "source_sha256": "c4ef4b56fc7890509eacedebb04c0482489b39e74598a22ea32d0340347e5874",
+      "source_kind": "publisher_pdf",
+      "page": 3,
+      "crop": [
+        0,
+        0,
+        768.0,
+        600.0
+      ],
+      "source_pixels": [
+        1600,
+        1250
+      ],
+      "source_boxes": [
+        [
+          0,
+          0,
+          1600,
+          1250
+        ],
+        [
+          0,
+          0,
+          512,
+          512
+        ],
+        [
+          384,
+          0,
+          896,
+          512
+        ],
+        [
+          768,
+          0,
+          1280,
+          512
+        ],
+        [
+          1088,
+          0,
+          1600,
+          512
+        ],
+        [
+          0,
+          384,
+          512,
+          896
+        ],
+        [
+          384,
+          384,
+          896,
+          896
+        ],
+        [
+          768,
+          384,
+          1280,
+          896
+        ],
+        [
+          1088,
+          384,
+          1600,
+          896
+        ],
+        [
+          0,
+          738,
+          512,
+          1250
+        ],
+        [
+          384,
+          738,
+          896,
+          1250
+        ],
+        [
+          768,
+          738,
+          1280,
+          1250
+        ],
+        [
+          1088,
+          738,
+          1600,
+          1250
+        ]
+      ],
+      "views": 13,
+      "first_view_retained_area_fraction": 1.0,
+      "additional_center_crop": false,
+      "text_chunks": 9,
+      "preview_sha256": "2b53dfebb8df6cea1851a8a75388403fb7fe09ba840c00219b96da2390666d2b"
+    },
+    {
+      "id": "2024-MD-umbc",
+      "source_sha256": "7da02af006c665cc6d274043a51daddd5cc58d62f2266ea3e86f3bd74d804c1e",
+      "source_kind": "publisher_pdf",
+      "page": 13,
+      "crop": [
+        0,
+        361.84,
+        612.0,
+        781.48
+      ],
+      "source_pixels": [
+        1275,
+        874
+      ],
+      "source_boxes": [
+        [
+          0,
+          0,
+          1275,
+          874
+        ],
+        [
+          0,
+          0,
+          512,
+          512
+        ],
+        [
+          384,
+          0,
+          896,
+          512
+        ],
+        [
+          763,
+          0,
+          1275,
+          512
+        ],
+        [
+          0,
+          362,
+          512,
+          874
+        ],
+        [
+          384,
+          362,
+          896,
+          874
+        ],
+        [
+          763,
+          362,
+          1275,
+          874
+        ]
+      ],
+      "views": 7,
+      "first_view_retained_area_fraction": 1.0,
+      "additional_center_crop": false,
+      "text_chunks": 3,
+      "preview_sha256": "7d9a17e0162fd7caec91b65b035ba2b203993090b2fbb7cc1f465e9b73831715"
+    },
+    {
+      "id": "2024-MN-surveyusa",
+      "source_sha256": "7840f9c5718f55e4e2026d7ea0713ec30b32990ffdcfc0c6c1be5799f58de19d",
+      "source_kind": "publisher_pdf",
+      "page": 2,
+      "crop": [
+        0,
+        42.74,
+        792.0,
+        595.4
+      ],
+      "source_pixels": [
+        1651,
+        1152
+      ],
+      "source_boxes": [
+        [
+          0,
+          0,
+          1651,
+          1152
+        ],
+        [
+          0,
+          0,
+          512,
+          512
+        ],
+        [
+          384,
+          0,
+          896,
+          512
+        ],
+        [
+          768,
+          0,
+          1280,
+          512
+        ],
+        [
+          1139,
+          0,
+          1651,
+          512
+        ],
+        [
+          0,
+          384,
+          512,
+          896
+        ],
+        [
+          384,
+          384,
+          896,
+          896
+        ],
+        [
+          768,
+          384,
+          1280,
+          896
+        ],
+        [
+          1139,
+          384,
+          1651,
+          896
+        ],
+        [
+          0,
+          640,
+          512,
+          1152
+        ],
+        [
+          384,
+          640,
+          896,
+          1152
+        ],
+        [
+          768,
+          640,
+          1280,
+          1152
+        ],
+        [
+          1139,
+          640,
+          1651,
+          1152
+        ]
+      ],
+      "views": 13,
+      "first_view_retained_area_fraction": 1.0,
+      "additional_center_crop": false,
+      "text_chunks": 14,
+      "preview_sha256": "1e2f6f3e1b89739d070735f7178ac7b304ecbfe62a049ef8da8271030d399547"
+    },
+    {
+      "id": "2024-MO-gqr",
+      "source_sha256": "3c98232848e39837c9a96df86c8ff79eab4d2165ab8cf48ee37f59ee6ba2b8e9",
+      "source_kind": "publisher_pdf",
+      "page": 2,
+      "crop": [
+        0,
+        0,
+        612.0,
+        557.63
+      ],
+      "source_pixels": [
+        1275,
+        1161
+      ],
+      "source_boxes": [
+        [
+          0,
+          0,
+          1275,
+          1161
+        ],
+        [
+          0,
+          0,
+          512,
+          512
+        ],
+        [
+          384,
+          0,
+          896,
+          512
+        ],
+        [
+          763,
+          0,
+          1275,
+          512
+        ],
+        [
+          0,
+          384,
+          512,
+          896
+        ],
+        [
+          384,
+          384,
+          896,
+          896
+        ],
+        [
+          763,
+          384,
+          1275,
+          896
+        ],
+        [
+          0,
+          649,
+          512,
+          1161
+        ],
+        [
+          384,
+          649,
+          896,
+          1161
+        ],
+        [
+          763,
+          649,
+          1275,
+          1161
+        ]
+      ],
+      "views": 10,
+      "first_view_retained_area_fraction": 1.0,
+      "additional_center_crop": false,
+      "text_chunks": 7,
+      "preview_sha256": "47ace49c0ba0089826e1be9bc85d6a41e6c07790b42d28b8cdc4c017c4c34afa"
+    },
+    {
+      "id": "2024-MT-fabrizio-david-binder-research",
+      "source_sha256": "22ebed1223c29a377237b555452ff289ccabcd2dfb59d23004a2f6ff21ac46c4",
+      "source_kind": "publisher_pdf",
+      "page": 3,
+      "crop": [
+        0,
+        1.81,
+        960.0,
+        540
+      ],
+      "source_pixels": [
+        2001,
+        1121
+      ],
+      "source_boxes": [
+        [
+          0,
+          0,
+          2001,
+          1121
+        ],
+        [
+          0,
+          0,
+          512,
+          512
+        ],
+        [
+          384,
+          0,
+          896,
+          512
+        ],
+        [
+          768,
+          0,
+          1280,
+          512
+        ],
+        [
+          1152,
+          0,
+          1664,
+          512
+        ],
+        [
+          1489,
+          0,
+          2001,
+          512
+        ],
+        [
+          0,
+          384,
+          512,
+          896
+        ],
+        [
+          384,
+          384,
+          896,
+          896
+        ],
+        [
+          768,
+          384,
+          1280,
+          896
+        ],
+        [
+          1152,
+          384,
+          1664,
+          896
+        ],
+        [
+          1489,
+          384,
+          2001,
+          896
+        ],
+        [
+          0,
+          609,
+          512,
+          1121
+        ],
+        [
+          384,
+          609,
+          896,
+          1121
+        ],
+        [
+          768,
+          609,
+          1280,
+          1121
+        ],
+        [
+          1152,
+          609,
+          1664,
+          1121
+        ],
+        [
+          1489,
+          609,
+          2001,
+          1121
+        ]
+      ],
+      "views": 16,
+      "first_view_retained_area_fraction": 1.0,
+      "additional_center_crop": false,
+      "text_chunks": 14,
+      "preview_sha256": "9f5105285342e415fe4aec9bd038f527ac49ac279249c136c8660e40eb736e17"
+    },
+    {
+      "id": "2024-NV-tarrance",
+      "source_sha256": "021f308c0778ada8b57ee7e66030a41efa65944055353f74bcfb992842857faa",
+      "source_kind": "publisher_pdf",
+      "page": 1,
+      "crop": [
+        0,
+        449.86,
+        612.0,
+        636.96
+      ],
+      "source_pixels": [
+        1275,
+        389
+      ],
+      "source_boxes": [
+        [
+          0,
+          0,
+          1275,
+          389
+        ],
+        [
+          0,
+          0,
+          389,
+          389
+        ],
+        [
+          291,
+          0,
+          680,
+          389
+        ],
+        [
+          582,
+          0,
+          971,
+          389
+        ],
+        [
+          873,
+          0,
+          1262,
+          389
+        ],
+        [
+          886,
+          0,
+          1275,
+          389
+        ]
+      ],
+      "views": 6,
+      "first_view_retained_area_fraction": 1.0,
+      "additional_center_crop": false,
+      "text_chunks": 1,
+      "preview_sha256": "269c1ec944bf5d7339d05cf5f1bdf0d3919854b7635d3186753126c2495133b1"
+    },
+    {
+      "id": "2024-OH-the-washington-post",
+      "source_sha256": "8e678e8f2db8da16358cd521aa8bebaba2284a47af834f169d8e30283fa6a632",
+      "source_kind": "publisher_pdf",
+      "page": 1,
+      "crop": [
+        0,
+        541.23,
+        612.0,
+        785.67
+      ],
+      "source_pixels": [
+        1275,
+        509
+      ],
+      "source_boxes": [
+        [
+          0,
+          0,
+          1275,
+          509
+        ],
+        [
+          0,
+          0,
+          509,
+          509
+        ],
+        [
+          381,
+          0,
+          890,
+          509
+        ],
+        [
+          762,
+          0,
+          1271,
+          509
+        ],
+        [
+          766,
+          0,
+          1275,
+          509
+        ]
+      ],
+      "views": 5,
+      "first_view_retained_area_fraction": 1.0,
+      "additional_center_crop": false,
+      "text_chunks": 4,
+      "preview_sha256": "0f4574ba1826333a0c282a6853f1e04e24920711c35c8d0c371ae9095184c09f"
+    },
+    {
+      "id": "2024-RI-u-rhode-island",
+      "source_sha256": "6cee4e5a1498a7f348f08e096d2235007dd490e4129283ef4b9b9d3d8ddefb37",
+      "source_kind": "publisher_pdf",
+      "page": 23,
+      "crop": [
+        0,
+        343.45,
+        612.0,
+        557.08
+      ],
+      "source_pixels": [
+        1275,
+        445
+      ],
+      "source_boxes": [
+        [
+          0,
+          0,
+          1275,
+          445
+        ],
+        [
+          0,
+          0,
+          445,
+          445
+        ],
+        [
+          333,
+          0,
+          778,
+          445
+        ],
+        [
+          666,
+          0,
+          1111,
+          445
+        ],
+        [
+          830,
+          0,
+          1275,
+          445
+        ]
+      ],
+      "views": 5,
+      "first_view_retained_area_fraction": 1.0,
+      "additional_center_crop": false,
+      "text_chunks": 1,
+      "preview_sha256": "b5605b099b740fd8a6503b9293ce070d45b33b5ed6c5a001ee80584094132076"
+    },
+    {
+      "id": "2024-TN-targoz-market-research",
+      "source_sha256": "aa21db15290069b003574928bcf4ffefd17d965184bc68fdaea15dadac66a877",
+      "source_kind": "publisher_pdf",
+      "page": 8,
+      "crop": [
+        0,
+        0,
+        792.0,
+        612.0
+      ],
+      "source_pixels": [
+        1651,
+        1275
+      ],
+      "source_boxes": [
+        [
+          0,
+          0,
+          1651,
+          1275
+        ],
+        [
+          0,
+          0,
+          512,
+          512
+        ],
+        [
+          384,
+          0,
+          896,
+          512
+        ],
+        [
+          768,
+          0,
+          1280,
+          512
+        ],
+        [
+          1139,
+          0,
+          1651,
+          512
+        ],
+        [
+          0,
+          384,
+          512,
+          896
+        ],
+        [
+          384,
+          384,
+          896,
+          896
+        ],
+        [
+          768,
+          384,
+          1280,
+          896
+        ],
+        [
+          1139,
+          384,
+          1651,
+          896
+        ],
+        [
+          0,
+          763,
+          512,
+          1275
+        ],
+        [
+          384,
+          763,
+          896,
+          1275
+        ],
+        [
+          768,
+          763,
+          1280,
+          1275
+        ],
+        [
+          1139,
+          763,
+          1651,
+          1275
+        ]
+      ],
+      "views": 13,
+      "first_view_retained_area_fraction": 1.0,
+      "additional_center_crop": false,
+      "text_chunks": 5,
+      "preview_sha256": "f0d34afbbaae7e6c0f83b32b9a3ab49061e2e2bdf280536889aa3a8a4843ce05"
+    },
+    {
+      "id": "2024-TX-yougov",
+      "source_sha256": "15673beda18714be68d0775fd7edbebc14e2d53b949648bf5b8e0958b1094d21",
+      "source_kind": "publisher_pdf",
+      "page": 89,
+      "crop": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "source_pixels": [
+        1275,
+        1650
+      ],
+      "source_boxes": [
+        [
+          0,
+          0,
+          1275,
+          1650
+        ],
+        [
+          0,
+          0,
+          512,
+          512
+        ],
+        [
+          384,
+          0,
+          896,
+          512
+        ],
+        [
+          763,
+          0,
+          1275,
+          512
+        ],
+        [
+          0,
+          384,
+          512,
+          896
+        ],
+        [
+          384,
+          384,
+          896,
+          896
+        ],
+        [
+          763,
+          384,
+          1275,
+          896
+        ],
+        [
+          0,
+          768,
+          512,
+          1280
+        ],
+        [
+          384,
+          768,
+          896,
+          1280
+        ],
+        [
+          763,
+          768,
+          1275,
+          1280
+        ],
+        [
+          0,
+          1138,
+          512,
+          1650
+        ],
+        [
+          384,
+          1138,
+          896,
+          1650
+        ],
+        [
+          763,
+          1138,
+          1275,
+          1650
+        ]
+      ],
+      "views": 13,
+      "first_view_retained_area_fraction": 1.0,
+      "additional_center_crop": false,
+      "text_chunks": 8,
+      "preview_sha256": "89f2302940420db0faa2b27b43699f504002519a3c61864aec1df97ba2c356e7"
+    },
+    {
+      "id": "2024-VA-christopher-newport-u",
+      "source_sha256": "5e0bbdc42bc18cb26fb5b8d2df94af4a7dec79352a0909afd85b8604240642f7",
+      "source_kind": "publisher_pdf",
+      "page": 3,
+      "crop": [
+        0,
+        46.11,
+        612.0,
+        319.35
+      ],
+      "source_pixels": [
+        1275,
+        569
+      ],
+      "source_boxes": [
+        [
+          0,
+          0,
+          1275,
+          569
+        ],
+        [
+          0,
+          0,
+          512,
+          512
+        ],
+        [
+          384,
+          0,
+          896,
+          512
+        ],
+        [
+          763,
+          0,
+          1275,
+          512
+        ],
+        [
+          0,
+          57,
+          512,
+          569
+        ],
+        [
+          384,
+          57,
+          896,
+          569
+        ],
+        [
+          763,
+          57,
+          1275,
+          569
+        ]
+      ],
+      "views": 7,
+      "first_view_retained_area_fraction": 1.0,
+      "additional_center_crop": false,
+      "text_chunks": 6,
+      "preview_sha256": "c54e10eb770d2d844dccb0dbb8c8c9e1e5cf42c8d2723a43db8fd37f6ce6dbfe"
+    },
+    {
+      "id": "2024-WV-research-america",
+      "source_sha256": "ca16ad927ac1017ccfb637e926bac0dcef86d3f1e1f54ccf969462a604ea77d5",
+      "source_kind": "publisher_pdf",
+      "page": 10,
+      "crop": [
+        0,
+        0,
+        960.009,
+        540.0
+      ],
+      "source_pixels": [
+        2000,
+        1125
+      ],
+      "source_boxes": [
+        [
+          0,
+          0,
+          2000,
+          1125
+        ],
+        [
+          0,
+          0,
+          512,
+          512
+        ],
+        [
+          384,
+          0,
+          896,
+          512
+        ],
+        [
+          768,
+          0,
+          1280,
+          512
+        ],
+        [
+          1152,
+          0,
+          1664,
+          512
+        ],
+        [
+          1488,
+          0,
+          2000,
+          512
+        ],
+        [
+          0,
+          384,
+          512,
+          896
+        ],
+        [
+          384,
+          384,
+          896,
+          896
+        ],
+        [
+          768,
+          384,
+          1280,
+          896
+        ],
+        [
+          1152,
+          384,
+          1664,
+          896
+        ],
+        [
+          1488,
+          384,
+          2000,
+          896
+        ],
+        [
+          0,
+          613,
+          512,
+          1125
+        ],
+        [
+          384,
+          613,
+          896,
+          1125
+        ],
+        [
+          768,
+          613,
+          1280,
+          1125
+        ],
+        [
+          1152,
+          613,
+          1664,
+          1125
+        ],
+        [
+          1488,
+          613,
+          2000,
+          1125
+        ]
+      ],
+      "views": 16,
+      "first_view_retained_area_fraction": 1.0,
+      "additional_center_crop": false,
+      "text_chunks": 2,
+      "preview_sha256": "6748ca4df9e844b14551e3088bf63ed40a540b19c022014b110b29d7b119023a"
+    }
+  ],
+  "new_service_spend_usd": 0
+}

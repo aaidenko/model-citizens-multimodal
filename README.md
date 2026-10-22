@@ -2,17 +2,38 @@
 
 Open **reports/index.html** for the research report. It contains the current race review, scoring calculator, source checks, document evidence, and strategy comparisons.
 
-**Work resumed on October 21, 2026.** This repository preserves the original experiment and the fixed [v0.2 evaluation protocol](docs/V2_PROTOCOL.md). The upgraded implementation and results are undergoing verification before the next push.
+Public repository: **https://github.com/aaidenko/model-citizens-multimodal**. The upgraded implementation, trained weights and measured results are included alongside the preserved original experiment.
 
 This is an initial research system, **not a finished competition submission**. It uses publicly accessible sources and local computation. There are no paid data feeds, model API calls, registrations, or new service charges. Work performed in Codex or Claude continues to use your existing access and limits.
 
-## Actual multimodal model, now trained
+## Version 0.2: improvements implemented and tested
+
+The new system has **346 numeric race snapshots and 50 reviewed document races**. It repairs image cropping with full-image padding and readable tiles, adds a larger trained numeric baseline, fits probability uncertainty on earlier held-out races, and compares four trained document heads under a fixed temporal protocol. A free local OCR reader is included as an optional, tested extraction fallback.
+
+The selected numeric model reduced margin error from **5.69 to 4.76 percentage points** on 25 new 2024 test races. This test contains many safe seats and excludes Michigan, Pennsylvania and Wisconsin because the original experiment already consumed them. It is not comparable to the original three-race score or a prediction of competition-winning odds.
+
+**The image branch did not earn inclusion:** earlier-cycle validation selected zero contribution from the full multimodal correction. On the matched 14-race document test, it therefore equals the stronger numeric baseline. Actual neural weights, unblended results, per-race predictions and negative findings are retained. The current 2026 competition CSV is still a research draft using the original provisional forecast.
+
+Read the [v0.2 model card](docs/V2_MODEL_CARD.md), [fixed protocol](docs/V2_PROTOCOL.md), [numeric results](reports/v2-numeric.json), [document comparison](reports/v2-documents.json), [image audit](reports/v2-image-audit.json), and [limited OCR benchmark](reports/v2-ocr.json).
+
+After installing the free dependencies in `requirements-training.txt`, run from this folder:
+
+```sh
+python3 scripts/build_v2_data.py
+python3 train_v2.py
+python3 train_v2.py --documents
+python3 predict_v2.py 2024-OH-the-washington-post
+```
+
+These commands use included numeric sources and frozen document embeddings, with no network request or paid service after package installation. See [reproduction instructions](docs/REPRODUCING.md) for environments, optional source restoration and OCR. The document set includes 34 fitting races, two 2022 source checks, and 14 new test races; it is not a 100-race multimodal training set. Exact-source restoration can fail when publisher URLs change.
+
+## Preserved first multimodal experiment
 
 A local PyTorch network learns from **poll numbers, original PDF images, and report text**. It uses free frozen CLIP encoders and trains our own small forecasting head. We completed the first experiment on 20 historical training races, selected epochs on two 2022 races, and tested on three 2024 races. Training used no paid API or cloud GPU. All 26 source crops, including the unlabelled 2026 demonstration, received an AI-assisted visual check.
 
 **The first result was negative:** the multimodal model scored worse than its matched numeric-only network (2024 Brier 0.592 versus 0.435; lower is better). All trained variants missed all three held-out winners. It remains experimental and does not change the competition CSV. This tiny sample cannot support an accuracy or winning claim. We preserve the failed comparison and saved weights.
 
-Read [the model card](docs/MODEL_CARD.md), [reproduction instructions](docs/REPRODUCING.md), [experiment log](docs/EXPERIMENT_LOG.md), and [full measured results](reports/multimodal.json). The original statistical research pipeline below remains available separately. For the next version, see the ranked [improvement plan](docs/IMPROVEMENT_PLAN.md) and [image-input audit](reports/image-input-audit.json). The audit identifies a square-crop preprocessing defect in v0.1; its measured impact on forecast accuracy is not yet known.
+Read [the original model card](docs/MODEL_CARD.md), [reproduction instructions](docs/REPRODUCING.md), [experiment log](docs/EXPERIMENT_LOG.md), and [original measured results](reports/multimodal.json). The [improvement plan](docs/IMPROVEMENT_PLAN.md) and [original image audit](reports/image-input-audit.json) explain why v0.2 was built. The defective v0.1 artifacts remain unchanged; v0.2 uses separate files and a new test cohort.
 
 ## What is working
 
@@ -97,8 +118,8 @@ The genuine neural multimodal experiment is now trained, as described above. Its
 
 1. Independently verify the current ballot roster and repair the Kentucky/Louisiana market mapping. One returned `SENATELA-26` event describes Kentucky in its title and settlement rules. It is quarantined for Louisiana. The returned Kentucky series has no 2026 markets. Do not fix either by trusting ticker letters alone.
 2. Add primary-source verification for the polls that drive the largest score decisions. Resolve field/publication dates and candidate identity, and check older releases against the current matchup.
-3. Extend the full statistical polling-blend training/holdouts through 2020, 2022, and 2024, with correct prior-election features. The separate small neural experiment now covers those cycles, but does not validate the full blend. Calibrate the complete polling model and long-shot tails. Free official results are available from the FEC and state election offices, but are not yet integrated here.
-4. Expand the audited document dataset beyond the first 20 training races and test a new preregistered experiment. The initial multimodal comparison failed; keep its result visible. Keep the same baseline and forecast cutoff in each comparison.
+3. Audit whether the separately trained/calibrated v0.2 numeric model should replace the current 2026 blend. Its newer historical test is complete; independent-candidate races, live source coverage and extreme tails remain unvalidated for this competition workflow.
+4. Continue expanding beyond 50 reviewed document races and five document-development races. v0.2 repaired inputs and completed the new temporal comparison; the direct image correction was rejected by validation. Retain both experiments' negative findings.
 5. Compare robust first-place strategies under several plausible model and competitor scenarios. Do not tune exclusively against one favorable assumed field.
 6. Load the exact official November 1 weights when provided, confirm the probability-column rules, and regenerate the final entry before the November 2 deadline. The form did not specify a timezone.
 

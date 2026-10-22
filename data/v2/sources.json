@@ -1,0 +1,17 @@
+[
+  {
+    "url": "https://raw.githubusercontent.com/fivethirtyeight/data/master/pollster-ratings/raw_polls.csv",
+    "path": "data/v2/sources/raw_polls.csv",
+    "sha256": "9f0b185506e59117c150fb988e73b612346effe8e3a8f0d90fdafcad07f54756",
+    "retrieved_at": "2026-10-21T23:08:09.129549+00:00"
+  },
+  {
+    "url": "https://web.archive.org/web/20241129175751id_/https://projects.fivethirtyeight.com/polls-page/data/senate_polls.csv",
+    "final_url": "https://web.archive.org/web/20241129175751id_/https://projects.fivethirtyeight.com/polls-page/data/senate_polls.csv",
+    "status": 200,
+    "path": "data/v2/sources/senate-2024.csv",
+    "bytes": 1497307,
+    "sha256": "eabff005edb5068b61bb074c42f9a1e833bcf09539f5755ce2299354c8ed1429",
+    "retrieved_at": "2026-10-21T23:11:02.221584+00:00"
+  }
+]

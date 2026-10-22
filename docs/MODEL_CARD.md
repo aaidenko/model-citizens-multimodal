@@ -72,3 +72,6 @@ The next experiment should add many more independent races, several publishers/l
 All training ran on the local CPU. The forecasting-head fitting took under a second in the recorded run; source preparation and frozen-encoder inference take longer. This is not a claim that the entire project took under a second. No hosted inference endpoint, paid GPU, paid feed, API key, or new subscription was used. Downloads and package installation were free; existing Codex access remains subject to the user's existing plan and limits.
 
 Original publisher PDFs, HTML, rendered page images, virtual environments, and the large external encoder weights are omitted from Git. Their URLs and hashes are included. Included embeddings and our small model checkpoints permit offline retraining and inference. Publisher originals retain their authorship and terms. See `THIRD_PARTY.md` and `REPRODUCING.md`.
+# Preserved version notice
+
+This card describes the original v0.1 experiment. The completed versioned improvements and their measured limits are in [V2_MODEL_CARD.md](V2_MODEL_CARD.md). Original v0.1 features, weights and negative results remain unchanged.

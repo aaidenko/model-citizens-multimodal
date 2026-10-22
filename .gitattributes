@@ -1,5 +1,6 @@
 # Preserve canonical source bytes, including original CSV line endings.
 data/raw/** -text -whitespace
+data/v2/sources/*.csv -text -whitespace
 data/senate-template.csv -text -whitespace
 drafts/*.csv -text -whitespace
 *.npz binary

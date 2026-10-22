@@ -1,0 +1,338 @@
+[
+  {
+    "url": "https://poll.qu.edu/Poll-Results/?date=28&items_per_page=1",
+    "path": "data/v2/raw/6c77427a30cb8e56120e",
+    "sha256": "07c4c3eb8093927a9114fa62bbf26c2c9ed7c64c36b9b54f0c72c6db554165de",
+    "retrieved_at": "2026-10-21T23:45:18.566634+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/poll-release-legacy?releaseid=2581",
+    "path": "data/v2/raw/868a6af100febb8875b1",
+    "sha256": "4a6ffb26597e982e8a8ce7d3f4e0ade20820c38f2200ceb2beb59db286e410a2",
+    "retrieved_at": "2026-10-21T23:50:35.667231+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/poll-release-legacy?releaseid=2579",
+    "path": "data/v2/raw/1cad9905ee95a3bf5f3a",
+    "sha256": "140b4b97f2879bc35b6378c99eb24a0b06d4596496476b6f746a592a11f233d9",
+    "retrieved_at": "2026-10-21T23:50:35.664136+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/poll-release-legacy?releaseid=2578",
+    "path": "data/v2/raw/050b8d946a3bb5b5bea0",
+    "sha256": "a3405eacc7d1be25cfa0c3fa6416b80bd12ed37359a918f537ac7d28bde25697",
+    "retrieved_at": "2026-10-21T23:50:35.663968+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/poll-release-legacy?releaseid=2577",
+    "path": "data/v2/raw/2cb590645a64e59ea1b0",
+    "sha256": "9f4bb60e6c2ff4d4d558015665f364418f8db775dbcd190614bd201f990d9dac",
+    "retrieved_at": "2026-10-21T23:50:39.862633+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/poll-release-legacy?releaseid=2575",
+    "path": "data/v2/raw/8c3dc1aca87f24e84a3e",
+    "sha256": "4429dabd6adeb4c90c08e94715ae15c7dee023453fb122c35a722478e60d9cdf",
+    "retrieved_at": "2026-10-21T23:50:39.862704+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/poll-release-legacy?releaseid=2572",
+    "path": "data/v2/raw/cee222f3aeb08d3d4cff",
+    "sha256": "c9f17cdee8ab156d3415a1af91b79dcb211205bd04b3a7abf1c1b8ce4436f4aa",
+    "retrieved_at": "2026-10-21T23:50:39.862979+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/poll-release-legacy?releaseid=2570",
+    "path": "data/v2/raw/afc2c225dd084a9575c8",
+    "sha256": "c45c6c5d368b774f8d298aa3bc95ef2f42bf07e3ef452fb57da6f5ff4c9d0454",
+    "retrieved_at": "2026-10-21T23:50:43.544574+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/poll-release-legacy?releaseid=2566",
+    "path": "data/v2/raw/88ec163813858b77c446",
+    "sha256": "8c49c43811eec3a937eca5ca8fb68e26a1651e9e09e23c4164d23e84f497ca1e",
+    "retrieved_at": "2026-10-21T23:50:43.526262+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/poll-release-legacy?releaseid=2563",
+    "path": "data/v2/raw/55a6c4c989d1b3f1c180",
+    "sha256": "c13a2402c3dfcd0eeaf1e4e0a8d53a9d99c461fd5cea808c35b34ee222bade1a",
+    "retrieved_at": "2026-10-21T23:50:43.557834+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/poll-release-legacy?releaseid=2559",
+    "path": "data/v2/raw/d8a664bddfc1eeeaf85d",
+    "sha256": "ed6d3ca2416e3f73b7ae4c74e1cf82263f2b99abbcbd5679c5b0cafaa95f8c7e",
+    "retrieved_at": "2026-10-21T23:50:47.119354+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/poll-release-legacy?releaseid=2389",
+    "path": "data/v2/raw/ecc66e2f24e57044b4f8",
+    "sha256": "ae799823080b9e9617d4f2601b6b5e446533a8c300f93c33f23c53e42a08d1b1",
+    "retrieved_at": "2026-10-21T23:50:47.119197+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/poll-release-legacy?releaseid=2385",
+    "path": "data/v2/raw/13a5d6441ca34056df99",
+    "sha256": "cccfd3bc31788f51f396ab99559b4dd5d84a00b1ac44a21bb02105fde2143778",
+    "retrieved_at": "2026-10-21T23:50:47.133343+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/poll-release-legacy?releaseid=2382",
+    "path": "data/v2/raw/d874a7614423e0059d5c",
+    "sha256": "7f04757d3f79b49357b2161119a3c6b0c6e8b24d6a7d183a1d30a46fd4e0253a",
+    "retrieved_at": "2026-10-21T23:50:50.874701+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/poll-release-legacy?releaseid=2377",
+    "path": "data/v2/raw/daf3b78f72bd09a175ac",
+    "sha256": "9e9142bc2ebc2a70b84d567345bd2f9a26217971a42c9c3c47bc6c3cb113edcf",
+    "retrieved_at": "2026-10-21T23:50:50.874896+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/poll-release-legacy?releaseid=2374",
+    "path": "data/v2/raw/04feecbd1f4abe22f3de",
+    "sha256": "71c70c93af69737b5a1e253ff53a54f09c44bfc0b1cd8a9719146585f3923d53",
+    "retrieved_at": "2026-10-21T23:50:50.905852+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/poll-release-legacy?releaseid=2372",
+    "path": "data/v2/raw/b06787b8a6864df41187",
+    "sha256": "1dcca7fa69595affab9b59aff39adabead4d2b12b9cd8238d5286c4a75cdf947",
+    "retrieved_at": "2026-10-21T23:50:54.985864+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/poll-release-legacy?releaseid=2096",
+    "path": "data/v2/raw/60714569898d83d9c86e",
+    "sha256": "aa0d095d83c4ed6f8eadee4fc397acdd499b5c79ec05ec0b323027efae299230",
+    "retrieved_at": "2026-10-21T23:50:54.982372+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/poll-release-legacy?releaseid=2095",
+    "path": "data/v2/raw/5be63aeae47c7e6c6985",
+    "sha256": "99c8a596abf211f9062c13b11c18346044434a0ecf096e278ee1080c25cee313",
+    "retrieved_at": "2026-10-21T23:50:54.985719+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/poll-release-legacy?releaseid=2089",
+    "path": "data/v2/raw/d0e545c4b3b4878c48f0",
+    "sha256": "e59e34543cf422f0bf78ab98e2963fbb919eb63eb3a5347a78c3f40d38b10b34",
+    "retrieved_at": "2026-10-21T23:50:58.826206+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/poll-release-legacy?releaseid=2086",
+    "path": "data/v2/raw/88522a1386b475659b95",
+    "sha256": "51ad124199d96f7e58a5514b9d7fa6a7e6e2dc2daff7b0b2c00ef0c779b6bb72",
+    "retrieved_at": "2026-10-21T23:50:58.841717+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/poll-release-legacy?releaseid=2082",
+    "path": "data/v2/raw/64e9b4f101aaba67c7d6",
+    "sha256": "86d0025b2a61df470cb8085ec6714fa8551b019684f05204115581a09897a3fa",
+    "retrieved_at": "2026-10-21T23:50:58.841855+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/poll-release-legacy?releaseid=2079",
+    "path": "data/v2/raw/deb94385fb1a2dd64d4c",
+    "sha256": "041dffddd754ed9cc6fcfe9580a01bce1ff1eca8abe3db169565926558fbb8e2",
+    "retrieved_at": "2026-10-21T23:51:02.767941+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/poll-release-legacy?releaseid=1810",
+    "path": "data/v2/raw/e559b0da78ff51c1681f",
+    "sha256": "27fcd86e6fdac776c0614f4195b7b8d5d3ce8ae8d04c8dec20d311600dd01ace",
+    "retrieved_at": "2026-10-21T23:45:22.921905+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/poll-release-legacy?releaseid=1806",
+    "path": "data/v2/raw/251c0c8a2bc1fbe9f885",
+    "sha256": "77df756a734048951c61af9ca855b5dde5fb8b6ebc0e9865e3e33d4ba7072af1",
+    "retrieved_at": "2026-10-21T23:45:22.830313+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/poll-release-legacy?releaseid=1807",
+    "path": "data/v2/raw/d48e32ed2597efa79913",
+    "sha256": "715f1c9ea8fde5fad7465051e6eb4db1bcf892cfd2e44018900f2b0868522155",
+    "retrieved_at": "2026-10-21T23:45:26.330732+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/poll-release-legacy?releaseid=1802",
+    "path": "data/v2/raw/5211cb9a824aa7bf8639",
+    "sha256": "1bcf9c03d1c9f602cf6f447781a01bd69b86b1f7a3ea63244b0a4ed129a9fac1",
+    "retrieved_at": "2026-10-21T23:45:26.424367+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/poll-release-legacy?releaseid=1796",
+    "path": "data/v2/raw/bf63505010d5318c129f",
+    "sha256": "7cb77cea2b132646a018355382acfa2f7adaef58e76d15aa8547e0be869e7b87",
+    "retrieved_at": "2026-10-21T23:45:26.424357+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/poll-release-legacy?releaseid=1790",
+    "path": "data/v2/raw/bbd2186598b37d881f92",
+    "sha256": "722e906111009d665c02c26f7b6a9a798f73f1adcfbd1d1b9a5f781b422a032a",
+    "retrieved_at": "2026-10-21T23:45:29.913670+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/poll-release-legacy?releaseid=1518",
+    "path": "data/v2/raw/79aa183c86537a6f335c",
+    "sha256": "e4b916e45305c31e46723fbd34fd626c49df91771969d901e9ce8ca0a13df1bc",
+    "retrieved_at": "2026-10-21T23:45:36.650648+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/poll-release-legacy?releaseid=1516",
+    "path": "data/v2/raw/9d95ea5ed0371004aa52",
+    "sha256": "630692037be3096db4177d7250360fdd0c3409ad4db176be6390caea63860b40",
+    "retrieved_at": "2026-10-21T23:45:36.552287+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/poll-release-legacy?releaseid=1512",
+    "path": "data/v2/raw/be9b4bcadd7fdf7aac53",
+    "sha256": "bf40d7aa00f7c2b9972247f21e4141ae3ad51071c88e5971a8a2af55653a30f9",
+    "retrieved_at": "2026-10-21T23:45:36.649192+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/poll-release-legacy?releaseid=1509",
+    "path": "data/v2/raw/87b679f670e7f0f58bab",
+    "sha256": "c5826a9489389c226aecf3ff0ee0a3db4bd2a9e8adca2e2a544a6ea8c185ef2c",
+    "retrieved_at": "2026-10-21T23:45:40.671899+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/poll-release-legacy?releaseid=1507",
+    "path": "data/v2/raw/17586e1ec8f2219809b9",
+    "sha256": "b8b35efe4829c0a9f99a2f08ee9883dab01b0cd2cd4ed85eee8b4bc52fc4f548",
+    "retrieved_at": "2026-10-21T23:45:40.688433+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/poll-release-legacy?releaseid=1503",
+    "path": "data/v2/raw/fcae40f769389e23ae9e",
+    "sha256": "7b7f6b63e966e391360ce8fab3a871463d347ab9b928039a0e25faae069ad0cb",
+    "retrieved_at": "2026-10-21T23:45:40.666740+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/poll-release-legacy?releaseid=1501",
+    "path": "data/v2/raw/330b7a8b3e25e9036a1b",
+    "sha256": "6de4194dcf4b477942af6c74211abacb9dfa53d918e184d8e228fbda9a6a7451",
+    "retrieved_at": "2026-10-21T23:45:44.521115+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/poll-release-legacy?releaseid=1498",
+    "path": "data/v2/raw/b291141639d211356792",
+    "sha256": "baa9e66a740fe6eb38cec6a14d99adee57a1d4ea58299919317f52ffe6ee9f2e",
+    "retrieved_at": "2026-10-21T23:45:44.520102+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/poll-release-legacy?releaseid=1488",
+    "path": "data/v2/raw/16d512f7cb3166494d4c",
+    "sha256": "45164afcd8564f472a9a41510a16a3414676394f2a420858c54dadf86f4117fa",
+    "retrieved_at": "2026-10-21T23:45:44.521062+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/poll-release-legacy?releaseid=1486",
+    "path": "data/v2/raw/82e4cd7f49058624ee07",
+    "sha256": "5cc991773e43e467aa740659c58da8b1c9853b8c60cc8d7fcf2f1d1db6fd7152",
+    "retrieved_at": "2026-10-21T23:45:48.007380+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/poll-release-legacy?releaseid=1484",
+    "path": "data/v2/raw/1fdf16c189b0acc55fa0",
+    "sha256": "37ba4d519b94e533b213748a81bc6877ebffd5c91c77ed360697feda4923c730",
+    "retrieved_at": "2026-10-21T23:45:48.026020+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/poll-release-legacy?releaseid=1214",
+    "path": "data/v2/raw/72d34df2d5ff8cf1193c",
+    "sha256": "1a27dd4b52af8b649c299387e99a67a16a2458953789ba9096c6eb5fbad33b1f",
+    "retrieved_at": "2026-10-21T23:51:02.887375+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/poll-release-legacy?releaseid=1200",
+    "path": "data/v2/raw/8f3fae856ae61b6e47e0",
+    "sha256": "6b81158ef1cbd753f4169898b238c03e687a7e175b2e0fa5fe09b72c8f6c8e1e",
+    "retrieved_at": "2026-10-21T23:51:02.773787+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/poll-release-legacy?releaseid=970",
+    "path": "data/v2/raw/9cde8bd4123b13f175b8",
+    "sha256": "8217fb1e82bced2b4981ecb34658415236c975674f4ffcc54837451cca7b7334",
+    "retrieved_at": "2026-10-21T23:51:07.289448+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/poll-release-legacy?releaseid=969",
+    "path": "data/v2/raw/0d4dd66b5d8e4233cb02",
+    "sha256": "5b1b98c3eb88a323216fffd54e578b6def52a953932d9fb156365a578aa490a8",
+    "retrieved_at": "2026-10-21T23:51:07.320909+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/poll-release-legacy?releaseid=968",
+    "path": "data/v2/raw/40f6f4a8654ae7a17adf",
+    "sha256": "eb75fef5247c730e1a65d8434e0c31e83f1c675489e81846a1edeaee362415ad",
+    "retrieved_at": "2026-10-21T23:51:07.321046+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/poll-release-legacy?releaseid=960",
+    "path": "data/v2/raw/70ae485d94130947d354",
+    "sha256": "ad907eacfb9a4ba20c8726c13316a51952350ff37a29e725bd2d116df5722594",
+    "retrieved_at": "2026-10-21T23:51:10.724399+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/poll-release-legacy?releaseid=961",
+    "path": "data/v2/raw/1d409283883e755a9f4d",
+    "sha256": "0b2fbf79343f692bd940abce250baaf34755df5930c63237c958d698f7c16076",
+    "retrieved_at": "2026-10-21T23:51:10.723137+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/poll-release-legacy?releaseid=957",
+    "path": "data/v2/raw/715af94df4fdd5656867",
+    "sha256": "6f703954ce3d99993a3e8375c69a8f4cdab88e276cf5b9a19f8cf7d956f537ef",
+    "retrieved_at": "2026-10-21T23:51:10.720511+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/poll-release-legacy?releaseid=405",
+    "path": "data/v2/raw/067401ad9ead4b53feb4",
+    "sha256": "d7d5ebc71d806333e11f246a5669929d287a8640e9620efb0b2e7a68b84a6b71",
+    "retrieved_at": "2026-10-21T23:51:14.487037+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/poll-release-legacy?releaseid=430",
+    "path": "data/v2/raw/f2a8c9a3f17a0cb1b825",
+    "sha256": "4d73b11c03c2a8638c734414a5765d920acb68e81e60be69b8f896dfc96518b6",
+    "retrieved_at": "2026-10-21T23:51:14.487842+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/poll-release-legacy?releaseid=429",
+    "path": "data/v2/raw/2e6768e2e9dd155f97dd",
+    "sha256": "a95d897df3ecbdd53d0e08f951b86739fe166c0762fccf5e0c043133e2bc5e32",
+    "retrieved_at": "2026-10-21T23:51:14.487260+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/poll-release-legacy?releaseid=619",
+    "path": "data/v2/raw/a8a5711cdd40ec8fde7e",
+    "sha256": "bc1c18ad4638136ab7117d705212cad6288b9edc4272cfbd1fcf7a305934dcc6",
+    "retrieved_at": "2026-10-21T23:51:20.513838+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/poll-release-legacy?releaseid=567",
+    "path": "data/v2/raw/edd412c84ad59cb01f2a",
+    "sha256": "54afe00b4f337556baee811d59dbd921c9d7e39ce9b60910b1b567d9f315d25f",
+    "retrieved_at": "2026-10-21T23:51:20.604094+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/poll-release-legacy?releaseid=615",
+    "path": "data/v2/raw/eafabc0d13896753dd7d",
+    "sha256": "555dd072ad5d0bc34e093a9589c3bd3a6bbd2ba51aef78b56064d548bf17574b",
+    "retrieved_at": "2026-10-21T23:51:20.499267+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/poll-release-legacy?releaseid=613",
+    "path": "data/v2/raw/677a1eecda47c0673b09",
+    "sha256": "bf389f342a895556bf24f4ec360cc1d0372b228cc45bf57639e863b2bec689ba",
+    "retrieved_at": "2026-10-21T23:51:24.358821+00:00"
+  },
+  {
+    "url": "https://poll.qu.edu/poll-release-legacy?releaseid=775",
+    "path": "data/v2/raw/0d41355cfa3c8a82d65a",
+    "sha256": "57b6d436749ce125fe2ed7ee1a8c1b40c66c990375fcaefc22f729fa5f858b57",
+    "retrieved_at": "2026-10-21T23:51:24.371850+00:00"
+  }
+]

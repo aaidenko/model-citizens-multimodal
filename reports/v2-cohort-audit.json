@@ -1,0 +1,56 @@
+{
+  "numeric": {
+    "train": {
+      "races": 249,
+      "democratic_wins": 127,
+      "republican_wins": 122
+    },
+    "development": {
+      "races": 45,
+      "democratic_wins": 27,
+      "republican_wins": 18
+    },
+    "calibration": {
+      "races": 24,
+      "democratic_wins": 13,
+      "republican_wins": 11
+    },
+    "test": {
+      "races": 25,
+      "democratic_wins": 14,
+      "republican_wins": 11
+    },
+    "consumed": {
+      "races": 3,
+      "democratic_wins": 2,
+      "republican_wins": 1
+    }
+  },
+  "documents": {
+    "initial_train": {
+      "races": 29,
+      "democratic_wins": 16,
+      "republican_wins": 13
+    },
+    "development": {
+      "races": 5,
+      "democratic_wins": 0,
+      "republican_wins": 5
+    },
+    "final_fit": {
+      "races": 34,
+      "democratic_wins": 16,
+      "republican_wins": 18
+    },
+    "test": {
+      "races": 14,
+      "democratic_wins": 8,
+      "republican_wins": 6
+    }
+  },
+  "limitations": [
+    "All five document-development outcomes are Republican wins. This remains a serious coverage limit, not evidence that winner imbalance caused any particular error.",
+    "The larger numeric development set includes both parties. Do not describe the document development set as representative.",
+    "The new test is now consumed; do not change selection to improve its score."
+  ]
+}

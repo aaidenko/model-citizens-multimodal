@@ -1,0 +1,242 @@
+[
+  {
+    "race": "2000-MA",
+    "source_race_id": 1693,
+    "reason": "not the eligible regular D/R race in MEDSL"
+  },
+  {
+    "race": "2000-MN",
+    "source_race_id": 1695,
+    "reason": "not the eligible regular D/R race in MEDSL"
+  },
+  {
+    "race": "2000-ND",
+    "source_race_id": 1704,
+    "reason": "not the eligible regular D/R race in MEDSL"
+  },
+  {
+    "race": "2002-LA",
+    "source_race_id": 1660,
+    "reason": "odd-year/special, runoff date, or Louisiana jungle election"
+  },
+  {
+    "race": "2002-MO",
+    "source_race_id": 1666,
+    "reason": "not the eligible regular D/R race in MEDSL"
+  },
+  {
+    "race": "2006-CT",
+    "source_race_id": 1583,
+    "reason": "not the eligible regular D/R race in MEDSL"
+  },
+  {
+    "race": "2006-MN",
+    "source_race_id": 1592,
+    "reason": "not the eligible regular D/R race in MEDSL"
+  },
+  {
+    "race": "2006-NM",
+    "source_race_id": 1599,
+    "reason": "not the eligible regular D/R race in MEDSL"
+  },
+  {
+    "race": "2008-GA",
+    "source_race_id": 1550,
+    "reason": "runoff-dependent general, special election, or independent nominee"
+  },
+  {
+    "race": "2008-GA",
+    "source_race_id": 1551,
+    "reason": "runoff-dependent general, special election, or independent nominee"
+  },
+  {
+    "race": "2008-LA",
+    "source_race_id": 1557,
+    "reason": "odd-year/special, runoff date, or Louisiana jungle election"
+  },
+  {
+    "race": "2008-MN",
+    "source_race_id": 1561,
+    "reason": "not the eligible regular D/R race in MEDSL"
+  },
+  {
+    "race": "2008-WY",
+    "source_race_id": 1580,
+    "reason": "not the eligible regular D/R race in MEDSL"
+  },
+  {
+    "race": "2010-AK",
+    "source_race_id": 1507,
+    "reason": "not the eligible regular D/R race in MEDSL"
+  },
+  {
+    "race": "2010-DE",
+    "source_race_id": 1513,
+    "reason": "not the eligible regular D/R race in MEDSL"
+  },
+  {
+    "race": "2010-FL",
+    "source_race_id": 1514,
+    "reason": "not the eligible regular D/R race in MEDSL"
+  },
+  {
+    "race": "2010-IL",
+    "source_race_id": 1518,
+    "reason": "not the eligible regular D/R race in MEDSL"
+  },
+  {
+    "race": "2010-MA",
+    "source_race_id": 1526,
+    "reason": "not the eligible regular D/R race in MEDSL"
+  },
+  {
+    "race": "2010-ND",
+    "source_race_id": 1533,
+    "reason": "not the eligible regular D/R race in MEDSL"
+  },
+  {
+    "race": "2010-NY",
+    "source_race_id": 1531,
+    "reason": "not the eligible regular D/R race in MEDSL"
+  },
+  {
+    "race": "2010-WV",
+    "source_race_id": 1543,
+    "reason": "not the eligible regular D/R race in MEDSL"
+  },
+  {
+    "race": "2012-MD",
+    "source_race_id": 1481,
+    "reason": "not the eligible regular D/R race in MEDSL"
+  },
+  {
+    "race": "2012-ME",
+    "source_race_id": 1480,
+    "reason": "not the eligible regular D/R race in MEDSL"
+  },
+  {
+    "race": "2013-MA",
+    "source_race_id": 1472,
+    "reason": "not the eligible regular D/R race in MEDSL"
+  },
+  {
+    "race": "2013-NJ",
+    "source_race_id": 1471,
+    "reason": "not the eligible regular D/R race in MEDSL"
+  },
+  {
+    "race": "2014-HI",
+    "source_race_id": 34,
+    "reason": "not the eligible regular D/R race in MEDSL"
+  },
+  {
+    "race": "2014-LA",
+    "source_race_id": 1470,
+    "reason": "odd-year/special, runoff date, or Louisiana jungle election"
+  },
+  {
+    "race": "2014-OK",
+    "source_race_id": 35,
+    "reason": "not the eligible regular D/R race in MEDSL"
+  },
+  {
+    "race": "2014-SC",
+    "source_race_id": 36,
+    "reason": "not the eligible regular D/R race in MEDSL"
+  },
+  {
+    "race": "2014-SD",
+    "source_race_id": 22,
+    "reason": "not the eligible regular D/R race in MEDSL"
+  },
+  {
+    "race": "2016-AK",
+    "source_race_id": 69,
+    "reason": "not the eligible regular D/R race in MEDSL"
+  },
+  {
+    "race": "2016-LA",
+    "source_race_id": 1469,
+    "reason": "not the eligible regular D/R race in MEDSL"
+  },
+  {
+    "race": "2017-AL",
+    "source_race_id": 95,
+    "reason": "not the eligible regular D/R race in MEDSL"
+  },
+  {
+    "race": "2018-ME",
+    "source_race_id": 103,
+    "reason": "not the eligible regular D/R race in MEDSL"
+  },
+  {
+    "race": "2018-MN",
+    "source_race_id": 107,
+    "reason": "not the eligible regular D/R race in MEDSL"
+  },
+  {
+    "race": "2018-MN",
+    "source_race_id": 129,
+    "reason": "not the eligible regular D/R race in MEDSL"
+  },
+  {
+    "race": "2018-MS",
+    "source_race_id": 6209,
+    "reason": "not the eligible regular D/R race in MEDSL"
+  },
+  {
+    "race": "2018-ND",
+    "source_race_id": 116,
+    "reason": "not the eligible regular D/R race in MEDSL"
+  },
+  {
+    "race": "2018-NM",
+    "source_race_id": 114,
+    "reason": "not the eligible regular D/R race in MEDSL"
+  },
+  {
+    "race": "2020-AK",
+    "source_race_id": 6265,
+    "reason": "runoff-dependent general, special election, or independent nominee"
+  },
+  {
+    "race": "2020-AZ",
+    "source_race_id": 6268,
+    "reason": "runoff-dependent general, special election, or independent nominee"
+  },
+  {
+    "race": "2020-GA",
+    "source_race_id": 6271,
+    "reason": "runoff-dependent general, special election, or independent nominee"
+  },
+  {
+    "race": "2020-GA",
+    "source_race_id": 7781,
+    "reason": "runoff-dependent general, special election, or independent nominee"
+  },
+  {
+    "race": "2020-GA",
+    "source_race_id": 8737,
+    "reason": "runoff-dependent general, special election, or independent nominee"
+  },
+  {
+    "race": "2022-CA",
+    "source_race_id": 9480,
+    "reason": "2022 California duplicate special or Oklahoma special"
+  },
+  {
+    "race": "2022-GA",
+    "source_race_id": 8925,
+    "reason": "runoff-dependent general, special election, or independent nominee"
+  },
+  {
+    "race": "2022-GA",
+    "source_race_id": 9552,
+    "reason": "runoff-dependent general, special election, or independent nominee"
+  },
+  {
+    "race": "2022-OK",
+    "source_race_id": 9482,
+    "reason": "2022 California duplicate special or Oklahoma special"
+  }
+]

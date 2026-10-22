@@ -2,7 +2,7 @@
   "ready": false,
   "blockers": [
     "Official November 1 benchmark has not been supplied.",
-    "Full polling-blend calibration and 2020/2022/2024 validation are unfinished.",
+    "The current 2026 competition polling blend still uses provisional uncertainty; the separately calibrated v0.2 research model has not been promoted.",
     "All candidate names, party codes, and ballot status need final independent roster verification.",
     "Confirm treatment of the CSV probability field and the submission deadline timezone.",
     "Unverified/missing market mappings: KY-SEN, LA-SEN"
@@ -16,7 +16,17 @@
     "trained": true,
     "promoted": false,
     "reason": "Small held-out experiment underperformed matched numeric-only model; see reports/multimodal.json.",
-    "known_input_issue": "Default square image cropping removes important columns in some wide tables. Repair is planned for a versioned experiment; see reports/image-input-audit.json.",
+    "known_input_issue": "Preserved v0.1 square cropping removes columns. v0.2 repairs this with full-image padding and readable tiles; see reports/v2-image-audit.json.",
     "next_experiment_plan": "docs/IMPROVEMENT_PLAN.md"
+  },
+  "v2": {
+    "trained": true,
+    "promoted": false,
+    "reason": "Earlier-cycle validation selected zero direct image/text correction for the full multimodal branch. Preserve the numeric baseline and report the negative result.",
+    "numeric_races": 346,
+    "reviewed_document_races": 50,
+    "numeric_test_races": 25,
+    "document_test_races": 14,
+    "model_card": "docs/V2_MODEL_CARD.md"
   }
 }

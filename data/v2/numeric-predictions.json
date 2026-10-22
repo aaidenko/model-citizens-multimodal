@@ -1,0 +1,2078 @@
+[
+  {
+    "race": "1998-AL",
+    "year": 1998,
+    "prediction": -36.52873563218391,
+    "forward_prediction": -42.52873563218391
+  },
+  {
+    "race": "1998-AR",
+    "year": 1998,
+    "prediction": 13.175111737425524,
+    "forward_prediction": 13.116508033449847
+  },
+  {
+    "race": "1998-CA",
+    "year": 1998,
+    "prediction": 3.158230700159436,
+    "forward_prediction": -1.6824069837089721
+  },
+  {
+    "race": "1998-CO",
+    "year": 1998,
+    "prediction": -15.158380343232281,
+    "forward_prediction": -18.599488093171246
+  },
+  {
+    "race": "1998-CT",
+    "year": 1998,
+    "prediction": 35.11876425296424,
+    "forward_prediction": 37.78808960467933
+  },
+  {
+    "race": "1998-FL",
+    "year": 1998,
+    "prediction": 27.922917505328577,
+    "forward_prediction": 32.58426966292135
+  },
+  {
+    "race": "1998-GA",
+    "year": 1998,
+    "prediction": -17.085918909280426,
+    "forward_prediction": -20.973773485391266
+  },
+  {
+    "race": "1998-IA",
+    "year": 1998,
+    "prediction": -44.712473181784055,
+    "forward_prediction": -50.712473181784055
+  },
+  {
+    "race": "1998-IL",
+    "year": 1998,
+    "prediction": -9.239913701688817,
+    "forward_prediction": -15.239913701688817
+  },
+  {
+    "race": "1998-IN",
+    "year": 1998,
+    "prediction": 15.559531211853027,
+    "forward_prediction": 20.0
+  },
+  {
+    "race": "1998-KY",
+    "year": 1998,
+    "prediction": -3.6431404339955744,
+    "forward_prediction": -4.662434457509368
+  },
+  {
+    "race": "1998-MD",
+    "year": 1998,
+    "prediction": 50.81818181818182,
+    "forward_prediction": 56.81818181818182
+  },
+  {
+    "race": "1998-NC",
+    "year": 1998,
+    "prediction": -1.392494310267658,
+    "forward_prediction": 0.09720362292936358
+  },
+  {
+    "race": "1998-NH",
+    "year": 1998,
+    "prediction": -41.847147581665354,
+    "forward_prediction": -47.847147581665354
+  },
+  {
+    "race": "1998-NV",
+    "year": 1998,
+    "prediction": 3.0922459247147653,
+    "forward_prediction": 2.604178655389509
+  },
+  {
+    "race": "1998-NY",
+    "year": 1998,
+    "prediction": 5.376830295814619,
+    "forward_prediction": 2.126500324501143
+  },
+  {
+    "race": "1998-OH",
+    "year": 1998,
+    "prediction": -15.45811310203533,
+    "forward_prediction": -21.45811310203533
+  },
+  {
+    "race": "1998-OK",
+    "year": 1998,
+    "prediction": -72.37837837837837,
+    "forward_prediction": -78.37837837837837
+  },
+  {
+    "race": "1998-OR",
+    "year": 1998,
+    "prediction": 55.904761904761905,
+    "forward_prediction": 61.904761904761905
+  },
+  {
+    "race": "1998-PA",
+    "year": 1998,
+    "prediction": -27.608953082672308,
+    "forward_prediction": -33.60895308267231
+  },
+  {
+    "race": "1998-SC",
+    "year": 1998,
+    "prediction": 4.946335054201057,
+    "forward_prediction": 5.5176391966761855
+  },
+  {
+    "race": "1998-UT",
+    "year": 1998,
+    "prediction": -44.0,
+    "forward_prediction": -50.0
+  },
+  {
+    "race": "1998-VT",
+    "year": 1998,
+    "prediction": 39.20806186539786,
+    "forward_prediction": 42.857142857142854
+  },
+  {
+    "race": "1998-WA",
+    "year": 1998,
+    "prediction": 11.991625427202422,
+    "forward_prediction": 10.88387787242337
+  },
+  {
+    "race": "2000-CA",
+    "year": 2000,
+    "prediction": 20.87141722840656,
+    "forward_prediction": 24.477553788846624
+  },
+  {
+    "race": "2000-CT",
+    "year": 2000,
+    "prediction": 38.732394361359624,
+    "forward_prediction": 38.732394361359624
+  },
+  {
+    "race": "2000-DE",
+    "year": 2000,
+    "prediction": 1.135184582860028,
+    "forward_prediction": -3.688115421145404
+  },
+  {
+    "race": "2000-FL",
+    "year": 2000,
+    "prediction": 6.1599874401525465,
+    "forward_prediction": 8.708768894715687
+  },
+  {
+    "race": "2000-IN",
+    "year": 2000,
+    "prediction": -58.341746340926605,
+    "forward_prediction": -58.341746340926605
+  },
+  {
+    "race": "2000-MD",
+    "year": 2000,
+    "prediction": 26.834162714964158,
+    "forward_prediction": 26.46652579594255
+  },
+  {
+    "race": "2000-ME",
+    "year": 2000,
+    "prediction": -55.79309627446921,
+    "forward_prediction": -55.79309627446921
+  },
+  {
+    "race": "2000-MI",
+    "year": 2000,
+    "prediction": -8.049857026203842,
+    "forward_prediction": -6.682971364124985
+  },
+  {
+    "race": "2000-MO",
+    "year": 2000,
+    "prediction": -5.064519968491058,
+    "forward_prediction": -4.421234217148284
+  },
+  {
+    "race": "2000-MT",
+    "year": 2000,
+    "prediction": -9.531153006748475,
+    "forward_prediction": -11.06503705521039
+  },
+  {
+    "race": "2000-NE",
+    "year": 2000,
+    "prediction": 2.0249677616167556,
+    "forward_prediction": 0.02076181946282496
+  },
+  {
+    "race": "2000-NJ",
+    "year": 2000,
+    "prediction": 15.96416904384543,
+    "forward_prediction": 18.298864681071535
+  },
+  {
+    "race": "2000-NM",
+    "year": 2000,
+    "prediction": 24.142125058898856,
+    "forward_prediction": 24.142125058898856
+  },
+  {
+    "race": "2000-NV",
+    "year": 2000,
+    "prediction": -6.552572788692702,
+    "forward_prediction": -8.255453648067702
+  },
+  {
+    "race": "2000-NY",
+    "year": 2000,
+    "prediction": 10.058163964201063,
+    "forward_prediction": 7.630350434232801
+  },
+  {
+    "race": "2000-OH",
+    "year": 2000,
+    "prediction": -15.629157987389334,
+    "forward_prediction": -14.296920266899832
+  },
+  {
+    "race": "2000-PA",
+    "year": 2000,
+    "prediction": -12.426074778697853,
+    "forward_prediction": -11.144964491985206
+  },
+  {
+    "race": "2000-RI",
+    "year": 2000,
+    "prediction": -13.047619047619047,
+    "forward_prediction": -13.891786756969633
+  },
+  {
+    "race": "2000-TN",
+    "year": 2000,
+    "prediction": -32.82773221633339,
+    "forward_prediction": -32.82773221633339
+  },
+  {
+    "race": "2000-TX",
+    "year": 2000,
+    "prediction": -24.902012162738377,
+    "forward_prediction": -22.88888888888889
+  },
+  {
+    "race": "2000-UT",
+    "year": 2000,
+    "prediction": -39.67314569618767,
+    "forward_prediction": -39.67314569618767
+  },
+  {
+    "race": "2000-VA",
+    "year": 2000,
+    "prediction": -3.636451268473989,
+    "forward_prediction": -3.220125937739736
+  },
+  {
+    "race": "2000-WA",
+    "year": 2000,
+    "prediction": -0.306776308021649,
+    "forward_prediction": -3.8258268465615357
+  },
+  {
+    "race": "2000-WI",
+    "year": 2000,
+    "prediction": 41.12643678160919,
+    "forward_prediction": 41.12643678160919
+  },
+  {
+    "race": "2000-WY",
+    "year": 2000,
+    "prediction": -59.85365853658537,
+    "forward_prediction": -59.85365853658537
+  },
+  {
+    "race": "2002-AL",
+    "year": 2002,
+    "prediction": -20.1697903915345,
+    "forward_prediction": -22.085557584375078
+  },
+  {
+    "race": "2002-AR",
+    "year": 2002,
+    "prediction": 2.6177309375168916,
+    "forward_prediction": 1.2921776991250153
+  },
+  {
+    "race": "2002-CO",
+    "year": 2002,
+    "prediction": -3.9770135786125342,
+    "forward_prediction": -2.48578386564943
+  },
+  {
+    "race": "2002-GA",
+    "year": 2002,
+    "prediction": 9.47297220730226,
+    "forward_prediction": 6.458012097114729
+  },
+  {
+    "race": "2002-IA",
+    "year": 2002,
+    "prediction": 13.65482401067355,
+    "forward_prediction": 9.83049791270831
+  },
+  {
+    "race": "2002-IL",
+    "year": 2002,
+    "prediction": 32.51023834297748,
+    "forward_prediction": 28.27588456223102
+  },
+  {
+    "race": "2002-KY",
+    "year": 2002,
+    "prediction": -30.082474226804123,
+    "forward_prediction": -30.082474226804123
+  },
+  {
+    "race": "2002-ME",
+    "year": 2002,
+    "prediction": -20.088889118984955,
+    "forward_prediction": -21.025650975064057
+  },
+  {
+    "race": "2002-MI",
+    "year": 2002,
+    "prediction": 29.032154421474843,
+    "forward_prediction": 25.42070142474404
+  },
+  {
+    "race": "2002-MT",
+    "year": 2002,
+    "prediction": 28.197004461766333,
+    "forward_prediction": 28.197004461766333
+  },
+  {
+    "race": "2002-NC",
+    "year": 2002,
+    "prediction": -6.950999840283274,
+    "forward_prediction": -6.585524662518381
+  },
+  {
+    "race": "2002-NH",
+    "year": 2002,
+    "prediction": 0.25875447525321515,
+    "forward_prediction": -0.4714651273316237
+  },
+  {
+    "race": "2002-NJ",
+    "year": 2002,
+    "prediction": 11.503765050759212,
+    "forward_prediction": 9.96817392527093
+  },
+  {
+    "race": "2002-NM",
+    "year": 2002,
+    "prediction": -41.252747252747255,
+    "forward_prediction": -41.252747252747255
+  },
+  {
+    "race": "2002-OK",
+    "year": 2002,
+    "prediction": -15.715727188217777,
+    "forward_prediction": -13.620637037384647
+  },
+  {
+    "race": "2002-OR",
+    "year": 2002,
+    "prediction": -17.942145680714447,
+    "forward_prediction": -18.130997037220794
+  },
+  {
+    "race": "2002-RI",
+    "year": 2002,
+    "prediction": 61.816091954022994,
+    "forward_prediction": 61.816091954022994
+  },
+  {
+    "race": "2002-SC",
+    "year": 2002,
+    "prediction": -8.961172562272225,
+    "forward_prediction": -7.51372764650074
+  },
+  {
+    "race": "2002-SD",
+    "year": 2002,
+    "prediction": -1.508395870069294,
+    "forward_prediction": -0.5184210732972909
+  },
+  {
+    "race": "2002-TN",
+    "year": 2002,
+    "prediction": -9.028779677210448,
+    "forward_prediction": -8.567875078974364
+  },
+  {
+    "race": "2002-TX",
+    "year": 2002,
+    "prediction": -6.85455906941095,
+    "forward_prediction": -4.396064883009583
+  },
+  {
+    "race": "2004-AK",
+    "year": 2004,
+    "prediction": -1.3956952682765653,
+    "forward_prediction": -1.3956952682765653
+  },
+  {
+    "race": "2004-AR",
+    "year": 2004,
+    "prediction": 21.54532327444079,
+    "forward_prediction": 22.585063121624017
+  },
+  {
+    "race": "2004-CA",
+    "year": 2004,
+    "prediction": 20.328449988828876,
+    "forward_prediction": 18.239370489584186
+  },
+  {
+    "race": "2004-CO",
+    "year": 2004,
+    "prediction": 1.292363388664815,
+    "forward_prediction": 2.646104319222066
+  },
+  {
+    "race": "2004-CT",
+    "year": 2004,
+    "prediction": 42.96019686422041,
+    "forward_prediction": 42.38709677419355
+  },
+  {
+    "race": "2004-FL",
+    "year": 2004,
+    "prediction": 1.5368772139807532,
+    "forward_prediction": 2.819574593569834
+  },
+  {
+    "race": "2004-GA",
+    "year": 2004,
+    "prediction": -14.987458350246303,
+    "forward_prediction": -12.78802812296664
+  },
+  {
+    "race": "2004-IA",
+    "year": 2004,
+    "prediction": -40.51162790697674,
+    "forward_prediction": -40.51162790697674
+  },
+  {
+    "race": "2004-IL",
+    "year": 2004,
+    "prediction": 47.0927650281901,
+    "forward_prediction": 47.0927650281901
+  },
+  {
+    "race": "2004-IN",
+    "year": 2004,
+    "prediction": 37.94203902489522,
+    "forward_prediction": 37.94203902489522
+  },
+  {
+    "race": "2004-KY",
+    "year": 2004,
+    "prediction": -12.261866725899445,
+    "forward_prediction": -11.362239338375794
+  },
+  {
+    "race": "2004-MD",
+    "year": 2004,
+    "prediction": 26.860662302245263,
+    "forward_prediction": 23.470019122828607
+  },
+  {
+    "race": "2004-MO",
+    "year": 2004,
+    "prediction": -20.881720430107528,
+    "forward_prediction": -20.881720430107528
+  },
+  {
+    "race": "2004-NC",
+    "year": 2004,
+    "prediction": 0.10631580940540397,
+    "forward_prediction": 2.930155593073922
+  },
+  {
+    "race": "2004-NH",
+    "year": 2004,
+    "prediction": -36.34973892969463,
+    "forward_prediction": -36.34973892969463
+  },
+  {
+    "race": "2004-NV",
+    "year": 2004,
+    "prediction": 18.413427723811395,
+    "forward_prediction": 18.895732535289056
+  },
+  {
+    "race": "2004-NY",
+    "year": 2004,
+    "prediction": 55.98026074338226,
+    "forward_prediction": 55.98026074338226
+  },
+  {
+    "race": "2004-OH",
+    "year": 2004,
+    "prediction": -21.53642986975538,
+    "forward_prediction": -21.53642986975538
+  },
+  {
+    "race": "2004-OK",
+    "year": 2004,
+    "prediction": -3.546146389439743,
+    "forward_prediction": -1.3014810051471402
+  },
+  {
+    "race": "2004-PA",
+    "year": 2004,
+    "prediction": -14.77543178424133,
+    "forward_prediction": -14.729398878662717
+  },
+  {
+    "race": "2004-SC",
+    "year": 2004,
+    "prediction": -8.748736797429993,
+    "forward_prediction": -7.140179096319153
+  },
+  {
+    "race": "2004-SD",
+    "year": 2004,
+    "prediction": -0.017791848068829275,
+    "forward_prediction": 1.836355824584369
+  },
+  {
+    "race": "2004-UT",
+    "year": 2004,
+    "prediction": -43.41766451982825,
+    "forward_prediction": -43.41766451982825
+  },
+  {
+    "race": "2004-WA",
+    "year": 2004,
+    "prediction": 17.192776082587674,
+    "forward_prediction": 13.855177997184231
+  },
+  {
+    "race": "2004-WI",
+    "year": 2004,
+    "prediction": 16.546043900590487,
+    "forward_prediction": 18.038736132722445
+  },
+  {
+    "race": "2006-AZ",
+    "year": 2006,
+    "prediction": -8.599443799460765,
+    "forward_prediction": -10.965302115882274
+  },
+  {
+    "race": "2006-CA",
+    "year": 2006,
+    "prediction": 25.256436668613794,
+    "forward_prediction": 20.473080419281366
+  },
+  {
+    "race": "2006-DE",
+    "year": 2006,
+    "prediction": 40.51162790697674,
+    "forward_prediction": 40.51162790697674
+  },
+  {
+    "race": "2006-FL",
+    "year": 2006,
+    "prediction": 20.210979483775866,
+    "forward_prediction": 17.818070433788073
+  },
+  {
+    "race": "2006-MD",
+    "year": 2006,
+    "prediction": 8.423618895372122,
+    "forward_prediction": 3.88950095828411
+  },
+  {
+    "race": "2006-ME",
+    "year": 2006,
+    "prediction": -42.93617021276596,
+    "forward_prediction": -42.93617021276596
+  },
+  {
+    "race": "2006-MI",
+    "year": 2006,
+    "prediction": 14.18653335796785,
+    "forward_prediction": 9.448055710663315
+  },
+  {
+    "race": "2006-MO",
+    "year": 2006,
+    "prediction": 2.0025221177965387,
+    "forward_prediction": -2.0661879709333197
+  },
+  {
+    "race": "2006-MT",
+    "year": 2006,
+    "prediction": 2.6229595526865968,
+    "forward_prediction": 2.6229595526865968
+  },
+  {
+    "race": "2006-NE",
+    "year": 2006,
+    "prediction": 16.727272727272727,
+    "forward_prediction": 16.727272727272727
+  },
+  {
+    "race": "2006-NJ",
+    "year": 2006,
+    "prediction": 2.341549487597815,
+    "forward_prediction": -1.2201787514616333
+  },
+  {
+    "race": "2006-NV",
+    "year": 2006,
+    "prediction": -11.096538410326723,
+    "forward_prediction": -12.975473747393373
+  },
+  {
+    "race": "2006-NY",
+    "year": 2006,
+    "prediction": 31.554612548219005,
+    "forward_prediction": 26.930780084000865
+  },
+  {
+    "race": "2006-OH",
+    "year": 2006,
+    "prediction": 6.195272884673956,
+    "forward_prediction": 3.1647183516691957
+  },
+  {
+    "race": "2006-PA",
+    "year": 2006,
+    "prediction": 9.44375798837232,
+    "forward_prediction": 7.537804104247565
+  },
+  {
+    "race": "2006-RI",
+    "year": 2006,
+    "prediction": 6.2648293004866,
+    "forward_prediction": 3.6341594086523408
+  },
+  {
+    "race": "2006-TN",
+    "year": 2006,
+    "prediction": -1.3103228356562417,
+    "forward_prediction": -4.967910125466423
+  },
+  {
+    "race": "2006-TX",
+    "year": 2006,
+    "prediction": -34.20884317254694,
+    "forward_prediction": -34.97692650651606
+  },
+  {
+    "race": "2006-UT",
+    "year": 2006,
+    "prediction": -37.52117967057502,
+    "forward_prediction": -37.748354429486156
+  },
+  {
+    "race": "2006-VA",
+    "year": 2006,
+    "prediction": -5.076832163569011,
+    "forward_prediction": -7.79497491144804
+  },
+  {
+    "race": "2006-WA",
+    "year": 2006,
+    "prediction": 12.701060894307751,
+    "forward_prediction": 7.779844644841809
+  },
+  {
+    "race": "2006-WI",
+    "year": 2006,
+    "prediction": 17.069909538480974,
+    "forward_prediction": 15.097751583311297
+  },
+  {
+    "race": "2006-WY",
+    "year": 2006,
+    "prediction": -38.54889114954138,
+    "forward_prediction": -38.086021505376344
+  },
+  {
+    "race": "2008-AK",
+    "year": 2008,
+    "prediction": -2.420759327813311,
+    "forward_prediction": -1.1285635308467583
+  },
+  {
+    "race": "2008-AL",
+    "year": 2008,
+    "prediction": -29.24439423188329,
+    "forward_prediction": -27.69012849434972
+  },
+  {
+    "race": "2008-CO",
+    "year": 2008,
+    "prediction": 8.916944505405109,
+    "forward_prediction": 10.504055263232868
+  },
+  {
+    "race": "2008-DE",
+    "year": 2008,
+    "prediction": 32.57631501373538,
+    "forward_prediction": 32.57631501373538
+  },
+  {
+    "race": "2008-IA",
+    "year": 2008,
+    "prediction": 17.619481868741016,
+    "forward_prediction": 16.42424494743059
+  },
+  {
+    "race": "2008-ID",
+    "year": 2008,
+    "prediction": -31.19733036106283,
+    "forward_prediction": -29.21697122400457
+  },
+  {
+    "race": "2008-IL",
+    "year": 2008,
+    "prediction": 30.106787284215294,
+    "forward_prediction": 29.013506253560386
+  },
+  {
+    "race": "2008-KS",
+    "year": 2008,
+    "prediction": -22.47871646580607,
+    "forward_prediction": -20.52942642865092
+  },
+  {
+    "race": "2008-KY",
+    "year": 2008,
+    "prediction": -8.867419877084448,
+    "forward_prediction": -7.270937480958654
+  },
+  {
+    "race": "2008-MA",
+    "year": 2008,
+    "prediction": 31.51572861398718,
+    "forward_prediction": 30.98067321504614
+  },
+  {
+    "race": "2008-ME",
+    "year": 2008,
+    "prediction": -8.925459249714406,
+    "forward_prediction": -9.782824500301869
+  },
+  {
+    "race": "2008-MI",
+    "year": 2008,
+    "prediction": 25.148626510174275,
+    "forward_prediction": 25.860015813381672
+  },
+  {
+    "race": "2008-MT",
+    "year": 2008,
+    "prediction": 28.736842105263158,
+    "forward_prediction": 28.736842105263158
+  },
+  {
+    "race": "2008-NC",
+    "year": 2008,
+    "prediction": -0.7071201937065328,
+    "forward_prediction": 1.5906485183372294
+  },
+  {
+    "race": "2008-NE",
+    "year": 2008,
+    "prediction": -16.544082078668808,
+    "forward_prediction": -14.552798244688246
+  },
+  {
+    "race": "2008-NH",
+    "year": 2008,
+    "prediction": 5.334163684965038,
+    "forward_prediction": 7.358458180547618
+  },
+  {
+    "race": "2008-NJ",
+    "year": 2008,
+    "prediction": 14.859224666511837,
+    "forward_prediction": 15.787936557686153
+  },
+  {
+    "race": "2008-NM",
+    "year": 2008,
+    "prediction": 15.263754584062923,
+    "forward_prediction": 14.746895529497493
+  },
+  {
+    "race": "2008-OK",
+    "year": 2008,
+    "prediction": -17.17053012088568,
+    "forward_prediction": -15.364419619596312
+  },
+  {
+    "race": "2008-OR",
+    "year": 2008,
+    "prediction": 2.061387276035302,
+    "forward_prediction": 3.732265507560723
+  },
+  {
+    "race": "2008-SC",
+    "year": 2008,
+    "prediction": -14.776334511961714,
+    "forward_prediction": -13.437539028849379
+  },
+  {
+    "race": "2008-SD",
+    "year": 2008,
+    "prediction": 18.516626435166003,
+    "forward_prediction": 18.516626435166003
+  },
+  {
+    "race": "2008-TN",
+    "year": 2008,
+    "prediction": -28.1451312377461,
+    "forward_prediction": -27.218368656874517
+  },
+  {
+    "race": "2008-TX",
+    "year": 2008,
+    "prediction": -10.865129258043023,
+    "forward_prediction": -9.68803503692791
+  },
+  {
+    "race": "2008-VA",
+    "year": 2008,
+    "prediction": 24.394904921880062,
+    "forward_prediction": 24.394904921880062
+  },
+  {
+    "race": "2008-WV",
+    "year": 2008,
+    "prediction": 23.78723404255319,
+    "forward_prediction": 23.78723404255319
+  },
+  {
+    "race": "2008-WY",
+    "year": 2008,
+    "prediction": -50.52173913043478,
+    "forward_prediction": -50.52173913043478
+  },
+  {
+    "race": "2010-AL",
+    "year": 2010,
+    "prediction": -28.86808378046209,
+    "forward_prediction": -25.818181818181817
+  },
+  {
+    "race": "2010-AR",
+    "year": 2010,
+    "prediction": -14.631912886210213,
+    "forward_prediction": -13.195719896860847
+  },
+  {
+    "race": "2010-AZ",
+    "year": 2010,
+    "prediction": -27.928677798422115,
+    "forward_prediction": -27.928677798422115
+  },
+  {
+    "race": "2010-CA",
+    "year": 2010,
+    "prediction": 8.994463632021445,
+    "forward_prediction": 11.537288615618246
+  },
+  {
+    "race": "2010-CO",
+    "year": 2010,
+    "prediction": -1.0470186159950476,
+    "forward_prediction": 0.31268486520230954
+  },
+  {
+    "race": "2010-CT",
+    "year": 2010,
+    "prediction": 12.645030721666325,
+    "forward_prediction": 11.982291444780339
+  },
+  {
+    "race": "2010-GA",
+    "year": 2010,
+    "prediction": -21.940591512384472,
+    "forward_prediction": -18.66872066086775
+  },
+  {
+    "race": "2010-HI",
+    "year": 2010,
+    "prediction": 39.23760173295407,
+    "forward_prediction": 35.602360522493406
+  },
+  {
+    "race": "2010-IA",
+    "year": 2010,
+    "prediction": -21.55139851373879,
+    "forward_prediction": -20.749023197118916
+  },
+  {
+    "race": "2010-ID",
+    "year": 2010,
+    "prediction": -50.41025641025641,
+    "forward_prediction": -50.41025641025641
+  },
+  {
+    "race": "2010-IN",
+    "year": 2010,
+    "prediction": -16.427250063380306,
+    "forward_prediction": -14.545339739283627
+  },
+  {
+    "race": "2010-KS",
+    "year": 2010,
+    "prediction": -36.5531914893617,
+    "forward_prediction": -36.5531914893617
+  },
+  {
+    "race": "2010-KY",
+    "year": 2010,
+    "prediction": -7.486618343930478,
+    "forward_prediction": -4.214822117429013
+  },
+  {
+    "race": "2010-MD",
+    "year": 2010,
+    "prediction": 27.172894140295142,
+    "forward_prediction": 26.16165240626728
+  },
+  {
+    "race": "2010-MO",
+    "year": 2010,
+    "prediction": -6.906975313793421,
+    "forward_prediction": -6.651184841762781
+  },
+  {
+    "race": "2010-NC",
+    "year": 2010,
+    "prediction": -16.895619375952265,
+    "forward_prediction": -12.752966625937006
+  },
+  {
+    "race": "2010-NH",
+    "year": 2010,
+    "prediction": -4.559255158537026,
+    "forward_prediction": -3.481403863065834
+  },
+  {
+    "race": "2010-NV",
+    "year": 2010,
+    "prediction": 3.5167775958714933,
+    "forward_prediction": 5.627014955872103
+  },
+  {
+    "race": "2010-NY",
+    "year": 2010,
+    "prediction": 31.353859862902695,
+    "forward_prediction": 32.47002502403551
+  },
+  {
+    "race": "2010-OH",
+    "year": 2010,
+    "prediction": -12.300135157316213,
+    "forward_prediction": -10.176106474607472
+  },
+  {
+    "race": "2010-OK",
+    "year": 2010,
+    "prediction": -43.49731956728502,
+    "forward_prediction": -40.31133376368089
+  },
+  {
+    "race": "2010-OR",
+    "year": 2010,
+    "prediction": 16.761456314841986,
+    "forward_prediction": 17.910090033332587
+  },
+  {
+    "race": "2010-PA",
+    "year": 2010,
+    "prediction": -3.524213073657134,
+    "forward_prediction": -1.191014764712432
+  },
+  {
+    "race": "2010-SC",
+    "year": 2010,
+    "prediction": -49.380135858383156,
+    "forward_prediction": -49.380135858383156
+  },
+  {
+    "race": "2010-UT",
+    "year": 2010,
+    "prediction": -31.83238372864661,
+    "forward_prediction": -29.064935064935064
+  },
+  {
+    "race": "2010-VT",
+    "year": 2010,
+    "prediction": 34.483587600556795,
+    "forward_prediction": 34.26040134605545
+  },
+  {
+    "race": "2010-WA",
+    "year": 2010,
+    "prediction": 8.439544792526487,
+    "forward_prediction": 8.671598072403196
+  },
+  {
+    "race": "2010-WI",
+    "year": 2010,
+    "prediction": -2.3409954407331046,
+    "forward_prediction": -1.1512233116742667
+  },
+  {
+    "race": "2012-AZ",
+    "year": 2012,
+    "prediction": -4.792070180635811,
+    "forward_prediction": -4.475168496828438
+  },
+  {
+    "race": "2012-CA",
+    "year": 2012,
+    "prediction": 23.90852640460019,
+    "forward_prediction": 25.033084436159182
+  },
+  {
+    "race": "2012-CT",
+    "year": 2012,
+    "prediction": 5.383324086719496,
+    "forward_prediction": 5.747039735370619
+  },
+  {
+    "race": "2012-FL",
+    "year": 2012,
+    "prediction": 8.043471932233503,
+    "forward_prediction": 9.352136432946851
+  },
+  {
+    "race": "2012-HI",
+    "year": 2012,
+    "prediction": 15.869559066282607,
+    "forward_prediction": 11.704297559248305
+  },
+  {
+    "race": "2012-IN",
+    "year": 2012,
+    "prediction": -3.88485574241623,
+    "forward_prediction": -0.8132052373503122
+  },
+  {
+    "race": "2012-MA",
+    "year": 2012,
+    "prediction": 5.30630168527864,
+    "forward_prediction": 5.812075706427322
+  },
+  {
+    "race": "2012-MI",
+    "year": 2012,
+    "prediction": 12.649743246342133,
+    "forward_prediction": 15.294227110649537
+  },
+  {
+    "race": "2012-MN",
+    "year": 2012,
+    "prediction": 24.536995927862066,
+    "forward_prediction": 27.039404909185308
+  },
+  {
+    "race": "2012-MO",
+    "year": 2012,
+    "prediction": 4.737679662443327,
+    "forward_prediction": 5.223478617407011
+  },
+  {
+    "race": "2012-MT",
+    "year": 2012,
+    "prediction": 0.4370609679962033,
+    "forward_prediction": -0.5147357424949771
+  },
+  {
+    "race": "2012-ND",
+    "year": 2012,
+    "prediction": 0.22292011907433218,
+    "forward_prediction": -2.7029259807791837
+  },
+  {
+    "race": "2012-NE",
+    "year": 2012,
+    "prediction": -8.332145121194788,
+    "forward_prediction": -13.359190073110529
+  },
+  {
+    "race": "2012-NJ",
+    "year": 2012,
+    "prediction": 21.17173017986547,
+    "forward_prediction": 22.078723986227622
+  },
+  {
+    "race": "2012-NM",
+    "year": 2012,
+    "prediction": 9.841276744671994,
+    "forward_prediction": 10.211418012448483
+  },
+  {
+    "race": "2012-NV",
+    "year": 2012,
+    "prediction": -2.870663445945901,
+    "forward_prediction": -1.4753587660752956
+  },
+  {
+    "race": "2012-NY",
+    "year": 2012,
+    "prediction": 34.132244766890494,
+    "forward_prediction": 40.63343924397179
+  },
+  {
+    "race": "2012-OH",
+    "year": 2012,
+    "prediction": 6.3458100447048835,
+    "forward_prediction": 7.009028542934864
+  },
+  {
+    "race": "2012-PA",
+    "year": 2012,
+    "prediction": 8.38757414169491,
+    "forward_prediction": 7.351339047624476
+  },
+  {
+    "race": "2012-RI",
+    "year": 2012,
+    "prediction": 23.598818566389475,
+    "forward_prediction": 19.84773858983079
+  },
+  {
+    "race": "2012-TN",
+    "year": 2012,
+    "prediction": -28.772831559181213,
+    "forward_prediction": -22.0
+  },
+  {
+    "race": "2012-TX",
+    "year": 2012,
+    "prediction": -19.168615876808662,
+    "forward_prediction": -17.242783128395576
+  },
+  {
+    "race": "2012-VA",
+    "year": 2012,
+    "prediction": 2.5071407594978474,
+    "forward_prediction": 2.774059061080184
+  },
+  {
+    "race": "2012-WA",
+    "year": 2012,
+    "prediction": 17.416820572650536,
+    "forward_prediction": 20.875765370166405
+  },
+  {
+    "race": "2012-WI",
+    "year": 2012,
+    "prediction": 5.155391338390925,
+    "forward_prediction": 4.613827231449702
+  },
+  {
+    "race": "2014-AK",
+    "year": 2014,
+    "prediction": -6.5111997168911975,
+    "forward_prediction": -2.868359212244896
+  },
+  {
+    "race": "2014-AR",
+    "year": 2014,
+    "prediction": -8.35407575031935,
+    "forward_prediction": -3.045376976935256
+  },
+  {
+    "race": "2014-CO",
+    "year": 2014,
+    "prediction": -0.6589381575448892,
+    "forward_prediction": 2.933403742326937
+  },
+  {
+    "race": "2014-DE",
+    "year": 2014,
+    "prediction": 17.48604807455308,
+    "forward_prediction": 24.089131446669168
+  },
+  {
+    "race": "2014-GA",
+    "year": 2014,
+    "prediction": -4.532085751429653,
+    "forward_prediction": 1.001717234715366
+  },
+  {
+    "race": "2014-IA",
+    "year": 2014,
+    "prediction": -1.9969379653778332,
+    "forward_prediction": 1.8165870556983692
+  },
+  {
+    "race": "2014-ID",
+    "year": 2014,
+    "prediction": -33.615949161019415,
+    "forward_prediction": -26.554354436364264
+  },
+  {
+    "race": "2014-IL",
+    "year": 2014,
+    "prediction": 15.376490564939015,
+    "forward_prediction": 20.780259700414174
+  },
+  {
+    "race": "2014-KY",
+    "year": 2014,
+    "prediction": -9.131322393040527,
+    "forward_prediction": -4.524490007977357
+  },
+  {
+    "race": "2014-MA",
+    "year": 2014,
+    "prediction": 22.293537828899037,
+    "forward_prediction": 28.18209216353954
+  },
+  {
+    "race": "2014-ME",
+    "year": 2014,
+    "prediction": -26.50734418761182,
+    "forward_prediction": -26.08224004637647
+  },
+  {
+    "race": "2014-MI",
+    "year": 2014,
+    "prediction": 7.508806031735727,
+    "forward_prediction": 11.41347102502186
+  },
+  {
+    "race": "2014-MN",
+    "year": 2014,
+    "prediction": 5.235394238777085,
+    "forward_prediction": 5.235394238777085
+  },
+  {
+    "race": "2014-MS",
+    "year": 2014,
+    "prediction": -17.49090408101494,
+    "forward_prediction": -8.381691444067307
+  },
+  {
+    "race": "2014-MT",
+    "year": 2014,
+    "prediction": -19.19887392342301,
+    "forward_prediction": -16.331059144141395
+  },
+  {
+    "race": "2014-NC",
+    "year": 2014,
+    "prediction": 0.6680656330232368,
+    "forward_prediction": 5.442429389203046
+  },
+  {
+    "race": "2014-NE",
+    "year": 2014,
+    "prediction": -31.224308034677183,
+    "forward_prediction": -24.337078651685392
+  },
+  {
+    "race": "2014-NH",
+    "year": 2014,
+    "prediction": 2.9498628084456793,
+    "forward_prediction": 5.192008257368791
+  },
+  {
+    "race": "2014-NJ",
+    "year": 2014,
+    "prediction": 13.069556151145864,
+    "forward_prediction": 17.050586317295004
+  },
+  {
+    "race": "2014-NM",
+    "year": 2014,
+    "prediction": 14.039014842337625,
+    "forward_prediction": 19.361451890296
+  },
+  {
+    "race": "2014-OK",
+    "year": 2014,
+    "prediction": -44.50405660919521,
+    "forward_prediction": -39.65217391304348
+  },
+  {
+    "race": "2014-OR",
+    "year": 2014,
+    "prediction": 17.23357448103372,
+    "forward_prediction": 22.69705996038858
+  },
+  {
+    "race": "2014-RI",
+    "year": 2014,
+    "prediction": 38.63761764820665,
+    "forward_prediction": 43.87699216660112
+  },
+  {
+    "race": "2014-SC",
+    "year": 2014,
+    "prediction": -19.846779384665325,
+    "forward_prediction": -18.253196277670696
+  },
+  {
+    "race": "2014-TN",
+    "year": 2014,
+    "prediction": -26.896774334066055,
+    "forward_prediction": -18.705882352941178
+  },
+  {
+    "race": "2014-TX",
+    "year": 2014,
+    "prediction": -27.64131548334067,
+    "forward_prediction": -21.405348264464784
+  },
+  {
+    "race": "2014-VA",
+    "year": 2014,
+    "prediction": 11.60657791088666,
+    "forward_prediction": 16.015526213155642
+  },
+  {
+    "race": "2014-WV",
+    "year": 2014,
+    "prediction": -22.482671587558716,
+    "forward_prediction": -15.57737597713086
+  },
+  {
+    "race": "2014-WY",
+    "year": 2014,
+    "prediction": -65.09165192686993,
+    "forward_prediction": -59.164311180944026
+  },
+  {
+    "race": "2016-AR",
+    "year": 2016,
+    "prediction": -24.181832020485366,
+    "forward_prediction": -22.87177771826979
+  },
+  {
+    "race": "2016-AZ",
+    "year": 2016,
+    "prediction": -12.461307838855051,
+    "forward_prediction": -10.87839461892631
+  },
+  {
+    "race": "2016-CO",
+    "year": 2016,
+    "prediction": 11.932151359763774,
+    "forward_prediction": 13.310247701850566
+  },
+  {
+    "race": "2016-FL",
+    "year": 2016,
+    "prediction": -6.73497617408327,
+    "forward_prediction": -5.132468672242679
+  },
+  {
+    "race": "2016-GA",
+    "year": 2016,
+    "prediction": -14.28156278899534,
+    "forward_prediction": -12.36307243874891
+  },
+  {
+    "race": "2016-IA",
+    "year": 2016,
+    "prediction": -15.049609476296563,
+    "forward_prediction": -13.841138654915948
+  },
+  {
+    "race": "2016-IL",
+    "year": 2016,
+    "prediction": 12.212995474759019,
+    "forward_prediction": 12.668433134976304
+  },
+  {
+    "race": "2016-IN",
+    "year": 2016,
+    "prediction": 1.3154168459452213,
+    "forward_prediction": 3.1222269865549626
+  },
+  {
+    "race": "2016-KS",
+    "year": 2016,
+    "prediction": -30.48132896697384,
+    "forward_prediction": -28.309817197679102
+  },
+  {
+    "race": "2016-MD",
+    "year": 2016,
+    "prediction": 31.79576583303661,
+    "forward_prediction": 33.195762590543936
+  },
+  {
+    "race": "2016-MO",
+    "year": 2016,
+    "prediction": -2.5635440572631287,
+    "forward_prediction": -0.9328297599685118
+  },
+  {
+    "race": "2016-NC",
+    "year": 2016,
+    "prediction": -4.657302588118938,
+    "forward_prediction": -2.154151886596111
+  },
+  {
+    "race": "2016-NH",
+    "year": 2016,
+    "prediction": -0.6041570061824868,
+    "forward_prediction": 0.9533450251438071
+  },
+  {
+    "race": "2016-NV",
+    "year": 2016,
+    "prediction": -0.3317641405021863,
+    "forward_prediction": 1.139673969372539
+  },
+  {
+    "race": "2016-NY",
+    "year": 2016,
+    "prediction": 41.58370780720499,
+    "forward_prediction": 41.69111108555582
+  },
+  {
+    "race": "2016-OH",
+    "year": 2016,
+    "prediction": -15.406334483359654,
+    "forward_prediction": -13.32374676439603
+  },
+  {
+    "race": "2016-OR",
+    "year": 2016,
+    "prediction": 19.82253407392419,
+    "forward_prediction": 21.60152315053857
+  },
+  {
+    "race": "2016-PA",
+    "year": 2016,
+    "prediction": -2.0145325016114244,
+    "forward_prediction": 0.3881111789610853
+  },
+  {
+    "race": "2016-UT",
+    "year": 2016,
+    "prediction": -38.16048410978474,
+    "forward_prediction": -35.84451875534214
+  },
+  {
+    "race": "2016-VT",
+    "year": 2016,
+    "prediction": 44.08456282556793,
+    "forward_prediction": 45.14682416857025
+  },
+  {
+    "race": "2016-WA",
+    "year": 2016,
+    "prediction": 14.335856144074114,
+    "forward_prediction": 14.864890758637102
+  },
+  {
+    "race": "2016-WI",
+    "year": 2016,
+    "prediction": 3.57944266798651,
+    "forward_prediction": 5.117256331469176
+  },
+  {
+    "race": "2018-AZ",
+    "year": 2018,
+    "prediction": 0.7901266358938623,
+    "forward_prediction": 2.1618099950399805
+  },
+  {
+    "race": "2018-CT",
+    "year": 2018,
+    "prediction": 18.32213797713771,
+    "forward_prediction": 18.47124400283351
+  },
+  {
+    "race": "2018-DE",
+    "year": 2018,
+    "prediction": 37.529411764705884,
+    "forward_prediction": 38.84010026034187
+  },
+  {
+    "race": "2018-FL",
+    "year": 2018,
+    "prediction": 2.7329650498881164,
+    "forward_prediction": 3.51427513137005
+  },
+  {
+    "race": "2018-IN",
+    "year": 2018,
+    "prediction": 0.02357141116726469,
+    "forward_prediction": 1.512898663078428
+  },
+  {
+    "race": "2018-MA",
+    "year": 2018,
+    "prediction": 31.202873954951027,
+    "forward_prediction": 32.107419381319744
+  },
+  {
+    "race": "2018-MD",
+    "year": 2018,
+    "prediction": 40.895937854305494,
+    "forward_prediction": 42.00912969733833
+  },
+  {
+    "race": "2018-MI",
+    "year": 2018,
+    "prediction": 16.451237675735246,
+    "forward_prediction": 17.64500862080742
+  },
+  {
+    "race": "2018-MO",
+    "year": 2018,
+    "prediction": -3.060048495052648,
+    "forward_prediction": -1.735237692116094
+  },
+  {
+    "race": "2018-MS",
+    "year": 2018,
+    "prediction": -20.939826284655467,
+    "forward_prediction": -19.957115446337596
+  },
+  {
+    "race": "2018-MT",
+    "year": 2018,
+    "prediction": 3.600870796728678,
+    "forward_prediction": 5.201516815710612
+  },
+  {
+    "race": "2018-NJ",
+    "year": 2018,
+    "prediction": 9.899373663334648,
+    "forward_prediction": 10.272239101795952
+  },
+  {
+    "race": "2018-NV",
+    "year": 2018,
+    "prediction": -3.345119075118287,
+    "forward_prediction": -2.2794170539963083
+  },
+  {
+    "race": "2018-NY",
+    "year": 2018,
+    "prediction": 32.511593748877544,
+    "forward_prediction": 33.008149077246685
+  },
+  {
+    "race": "2018-OH",
+    "year": 2018,
+    "prediction": 13.236980586091452,
+    "forward_prediction": 15.376607089082174
+  },
+  {
+    "race": "2018-PA",
+    "year": 2018,
+    "prediction": 13.56232033836125,
+    "forward_prediction": 15.63727151023625
+  },
+  {
+    "race": "2018-RI",
+    "year": 2018,
+    "prediction": 22.65967769611887,
+    "forward_prediction": 23.734630298505344
+  },
+  {
+    "race": "2018-TN",
+    "year": 2018,
+    "prediction": -8.203229496561475,
+    "forward_prediction": -6.362054178797193
+  },
+  {
+    "race": "2018-TX",
+    "year": 2018,
+    "prediction": -9.096926763679244,
+    "forward_prediction": -7.954907968665816
+  },
+  {
+    "race": "2018-UT",
+    "year": 2018,
+    "prediction": -39.01957788700011,
+    "forward_prediction": -37.90243902439025
+  },
+  {
+    "race": "2018-VA",
+    "year": 2018,
+    "prediction": 16.114067966287788,
+    "forward_prediction": 17.503110880201515
+  },
+  {
+    "race": "2018-WA",
+    "year": 2018,
+    "prediction": 17.03869538721831,
+    "forward_prediction": 17.269067339275196
+  },
+  {
+    "race": "2018-WI",
+    "year": 2018,
+    "prediction": 13.191817198623434,
+    "forward_prediction": 13.936193023551718
+  },
+  {
+    "race": "2018-WV",
+    "year": 2018,
+    "prediction": 2.0582539332549317,
+    "forward_prediction": 2.0582539332549317
+  },
+  {
+    "race": "2020-AL",
+    "year": 2020,
+    "prediction": -12.308671764019211,
+    "forward_prediction": -11.921299508693894
+  },
+  {
+    "race": "2020-CO",
+    "year": 2020,
+    "prediction": 5.25446191606844,
+    "forward_prediction": 6.48925343332613
+  },
+  {
+    "race": "2020-DE",
+    "year": 2020,
+    "prediction": 33.22394643511091,
+    "forward_prediction": 33.10573254312788
+  },
+  {
+    "race": "2020-IA",
+    "year": 2020,
+    "prediction": -1.9661650296953255,
+    "forward_prediction": -1.005942308595472
+  },
+  {
+    "race": "2020-KS",
+    "year": 2020,
+    "prediction": -3.3373657518017956,
+    "forward_prediction": -3.076518660126991
+  },
+  {
+    "race": "2020-KY",
+    "year": 2020,
+    "prediction": -18.521936400357657,
+    "forward_prediction": -17.81033228201049
+  },
+  {
+    "race": "2020-MA",
+    "year": 2020,
+    "prediction": 16.04059690899319,
+    "forward_prediction": 13.801240629620022
+  },
+  {
+    "race": "2020-ME",
+    "year": 2020,
+    "prediction": 0.39652455294316713,
+    "forward_prediction": 1.0134354873914093
+  },
+  {
+    "race": "2020-MI",
+    "year": 2020,
+    "prediction": 4.371375053600987,
+    "forward_prediction": 4.463904588894566
+  },
+  {
+    "race": "2020-MN",
+    "year": 2020,
+    "prediction": 7.475098046090871,
+    "forward_prediction": 7.885170849588185
+  },
+  {
+    "race": "2020-MT",
+    "year": 2020,
+    "prediction": -6.172903955294102,
+    "forward_prediction": -5.161936462236851
+  },
+  {
+    "race": "2020-NC",
+    "year": 2020,
+    "prediction": 0.4263321123588435,
+    "forward_prediction": 1.3183795176017634
+  },
+  {
+    "race": "2020-NH",
+    "year": 2020,
+    "prediction": 12.755101919189698,
+    "forward_prediction": 13.279184103027589
+  },
+  {
+    "race": "2020-NJ",
+    "year": 2020,
+    "prediction": 26.572152553945006,
+    "forward_prediction": 26.67967170372528
+  },
+  {
+    "race": "2020-NM",
+    "year": 2020,
+    "prediction": 12.285087077513985,
+    "forward_prediction": 12.194482414618783
+  },
+  {
+    "race": "2020-OK",
+    "year": 2020,
+    "prediction": -29.404791020663893,
+    "forward_prediction": -29.404791020663893
+  },
+  {
+    "race": "2020-OR",
+    "year": 2020,
+    "prediction": 18.21591509713067,
+    "forward_prediction": 18.574428213967217
+  },
+  {
+    "race": "2020-SC",
+    "year": 2020,
+    "prediction": -6.300362047682196,
+    "forward_prediction": -5.53610795451203
+  },
+  {
+    "race": "2020-TX",
+    "year": 2020,
+    "prediction": -10.321883928010822,
+    "forward_prediction": -9.308009397218585
+  },
+  {
+    "race": "2020-VA",
+    "year": 2020,
+    "prediction": 11.862840473499487,
+    "forward_prediction": 11.782309621420096
+  },
+  {
+    "race": "2020-WV",
+    "year": 2020,
+    "prediction": -29.25581395348837,
+    "forward_prediction": -28.98886191567709
+  },
+  {
+    "race": "2022-AR",
+    "year": 2022,
+    "prediction": -21.018517006011237,
+    "forward_prediction": -21.018517006011237
+  },
+  {
+    "race": "2022-AZ",
+    "year": 2022,
+    "prediction": 1.4387881600632815,
+    "forward_prediction": 1.4387881600632815
+  },
+  {
+    "race": "2022-CA",
+    "year": 2022,
+    "prediction": 20.46486499574449,
+    "forward_prediction": 20.46486499574449
+  },
+  {
+    "race": "2022-CO",
+    "year": 2022,
+    "prediction": 7.139530324201559,
+    "forward_prediction": 7.139530324201559
+  },
+  {
+    "race": "2022-CT",
+    "year": 2022,
+    "prediction": 14.615410506589507,
+    "forward_prediction": 14.615410506589507
+  },
+  {
+    "race": "2022-FL",
+    "year": 2022,
+    "prediction": -10.174851218775837,
+    "forward_prediction": -10.174851218775837
+  },
+  {
+    "race": "2022-IA",
+    "year": 2022,
+    "prediction": -10.668021137812662,
+    "forward_prediction": -10.668021137812662
+  },
+  {
+    "race": "2022-IL",
+    "year": 2022,
+    "prediction": 19.67023120634574,
+    "forward_prediction": 19.67023120634574
+  },
+  {
+    "race": "2022-IN",
+    "year": 2022,
+    "prediction": -8.631578947368421,
+    "forward_prediction": -8.631578947368421
+  },
+  {
+    "race": "2022-KS",
+    "year": 2022,
+    "prediction": -19.711855440723646,
+    "forward_prediction": -19.711855440723646
+  },
+  {
+    "race": "2022-MD",
+    "year": 2022,
+    "prediction": 25.655146144079357,
+    "forward_prediction": 25.655146144079357
+  },
+  {
+    "race": "2022-MO",
+    "year": 2022,
+    "prediction": -16.983827031673293,
+    "forward_prediction": -16.983827031673293
+  },
+  {
+    "race": "2022-NC",
+    "year": 2022,
+    "prediction": -6.288358997200777,
+    "forward_prediction": -6.288358997200777
+  },
+  {
+    "race": "2022-NH",
+    "year": 2022,
+    "prediction": 4.491691430528801,
+    "forward_prediction": 4.491691430528801
+  },
+  {
+    "race": "2022-NV",
+    "year": 2022,
+    "prediction": -1.9996322002117366,
+    "forward_prediction": -1.9996322002117366
+  },
+  {
+    "race": "2022-NY",
+    "year": 2022,
+    "prediction": 17.98809985689735,
+    "forward_prediction": 17.98809985689735
+  },
+  {
+    "race": "2022-OH",
+    "year": 2022,
+    "prediction": -6.479612749548643,
+    "forward_prediction": -6.479612749548643
+  },
+  {
+    "race": "2022-OK",
+    "year": 2022,
+    "prediction": -24.522407246665395,
+    "forward_prediction": -24.522407246665395
+  },
+  {
+    "race": "2022-OR",
+    "year": 2022,
+    "prediction": 14.974322340475332,
+    "forward_prediction": 14.974322340475332
+  },
+  {
+    "race": "2022-PA",
+    "year": 2022,
+    "prediction": 0.6307317261170833,
+    "forward_prediction": 0.6307317261170833
+  },
+  {
+    "race": "2022-SD",
+    "year": 2022,
+    "prediction": -30.871812929287085,
+    "forward_prediction": -30.871812929287085
+  },
+  {
+    "race": "2022-VT",
+    "year": 2022,
+    "prediction": 35.02878342734443,
+    "forward_prediction": 35.02878342734443
+  },
+  {
+    "race": "2022-WA",
+    "year": 2022,
+    "prediction": 8.274085957394856,
+    "forward_prediction": 8.274085957394856
+  },
+  {
+    "race": "2022-WI",
+    "year": 2022,
+    "prediction": -6.948736318984162,
+    "forward_prediction": -6.948736318984162
+  },
+  {
+    "race": "2024-AZ",
+    "year": 2024,
+    "prediction": 3.1391125885312086,
+    "forward_prediction": 3.1391125885312086
+  },
+  {
+    "race": "2024-CA",
+    "year": 2024,
+    "prediction": 24.5412790325391,
+    "forward_prediction": 24.5412790325391
+  },
+  {
+    "race": "2024-CT",
+    "year": 2024,
+    "prediction": 20.54145283477251,
+    "forward_prediction": 20.54145283477251
+  },
+  {
+    "race": "2024-DE",
+    "year": 2024,
+    "prediction": 18.492234169653525,
+    "forward_prediction": 18.492234169653525
+  },
+  {
+    "race": "2024-FL",
+    "year": 2024,
+    "prediction": -7.595204563837376,
+    "forward_prediction": -7.595204563837376
+  },
+  {
+    "race": "2024-IN",
+    "year": 2024,
+    "prediction": -15.292383884388446,
+    "forward_prediction": -15.292383884388446
+  },
+  {
+    "race": "2024-MA",
+    "year": 2024,
+    "prediction": 24.607490078239238,
+    "forward_prediction": 24.607490078239238
+  },
+  {
+    "race": "2024-MD",
+    "year": 2024,
+    "prediction": 12.740703073145928,
+    "forward_prediction": 12.740703073145928
+  },
+  {
+    "race": "2024-MI",
+    "year": 2024,
+    "prediction": 0.5533984421229832,
+    "forward_prediction": 0.5533984421229832
+  },
+  {
+    "race": "2024-MN",
+    "year": 2024,
+    "prediction": 6.838523018158833,
+    "forward_prediction": 6.838523018158833
+  },
+  {
+    "race": "2024-MO",
+    "year": 2024,
+    "prediction": -14.529366528922477,
+    "forward_prediction": -14.529366528922477
+  },
+  {
+    "race": "2024-MS",
+    "year": 2024,
+    "prediction": -20.467728632042206,
+    "forward_prediction": -20.467728632042206
+  },
+  {
+    "race": "2024-MT",
+    "year": 2024,
+    "prediction": -8.798061367834649,
+    "forward_prediction": -8.798061367834649
+  },
+  {
+    "race": "2024-ND",
+    "year": 2024,
+    "prediction": -19.52872645188767,
+    "forward_prediction": -19.52872645188767
+  },
+  {
+    "race": "2024-NJ",
+    "year": 2024,
+    "prediction": 6.942705360096945,
+    "forward_prediction": 6.942705360096945
+  },
+  {
+    "race": "2024-NM",
+    "year": 2024,
+    "prediction": 8.070812265646985,
+    "forward_prediction": 8.070812265646985
+  },
+  {
+    "race": "2024-NV",
+    "year": 2024,
+    "prediction": 6.016544832090958,
+    "forward_prediction": 6.016544832090958
+  },
+  {
+    "race": "2024-NY",
+    "year": 2024,
+    "prediction": 21.306613938368677,
+    "forward_prediction": 21.306613938368677
+  },
+  {
+    "race": "2024-OH",
+    "year": 2024,
+    "prediction": -1.25508450457091,
+    "forward_prediction": -1.25508450457091
+  },
+  {
+    "race": "2024-PA",
+    "year": 2024,
+    "prediction": 2.9739233164719323,
+    "forward_prediction": 2.9739233164719323
+  },
+  {
+    "race": "2024-RI",
+    "year": 2024,
+    "prediction": 19.738988040445847,
+    "forward_prediction": 19.738988040445847
+  },
+  {
+    "race": "2024-TN",
+    "year": 2024,
+    "prediction": -22.554120159425885,
+    "forward_prediction": -22.554120159425885
+  },
+  {
+    "race": "2024-TX",
+    "year": 2024,
+    "prediction": -8.222274095199413,
+    "forward_prediction": -8.222274095199413
+  },
+  {
+    "race": "2024-UT",
+    "year": 2024,
+    "prediction": -31.032586169081227,
+    "forward_prediction": -31.032586169081227
+  },
+  {
+    "race": "2024-VA",
+    "year": 2024,
+    "prediction": 12.223467123372014,
+    "forward_prediction": 12.223467123372014
+  },
+  {
+    "race": "2024-WA",
+    "year": 2024,
+    "prediction": 20.66928945427221,
+    "forward_prediction": 20.66928945427221
+  },
+  {
+    "race": "2024-WI",
+    "year": 2024,
+    "prediction": 1.153864069463404,
+    "forward_prediction": 1.153864069463404
+  },
+  {
+    "race": "2024-WV",
+    "year": 2024,
+    "prediction": -38.308156655894386,
+    "forward_prediction": -38.308156655894386
+  }
+]

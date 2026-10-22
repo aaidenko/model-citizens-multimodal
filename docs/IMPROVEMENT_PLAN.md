@@ -2,6 +2,8 @@
 
 Recommendations recorded October 21, 2026. These are proposed experiments, not measured accuracy gains. The original experiment, features, weights, and results remain unchanged.
 
+**Implemented in the versioned v0.2 experiment:** repaired complete-image/tile inputs, 346 numeric snapshots and 50 reviewed document races, verified metadata corrections and a limited free local OCR reader, stronger trained baselines and bounded document heads, fitted uncertainty, and locked temporal/matched comparisons. See `V2_MODEL_CARD.md` and `reports/v2-*.json`. The direct full image/text correction received weight zero from earlier-cycle validation. The Monmouth/Emerson PDF holdout was unavailable; the additional unseen-publisher test is confounded with cycle. The recommendations below are preserved as the original rationale, not a claim that every proposed data-coverage target was achieved.
+
 ## What the diagnostic found
 
 **Preprocessing defect:** v0.1 inherited CLIP's default square center crop after resizing the shortest edge to 224 pixels. Wide poll tables consequently lose much of their content. The 2016 Colorado source crop is about 612 × 137 PDF points; the model keeps only the central horizontal span, approximately x=237–375. Both candidate-name table cells at x≈36 and the 56/38 topline cells at x≈162 fall outside it. The retained area is approximately 22.4%.

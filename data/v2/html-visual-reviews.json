@@ -1,0 +1,268 @@
+[
+  {
+    "id": "2012-OH-quinnipiac-html",
+    "race": "2012-OH",
+    "html_sha256": "27fcd86e6fdac776c0614f4195b7b8d5d3ce8ae8d04c8dec20d311600dd01ace",
+    "image_sha256": "c967f837212d46191eebdb874587b3ffc9472bbe783dda6d887bc397764509cb",
+    "dom_sha256": "1e9d4f19a53094abe04e45e98ecc586a2295952b34a2bdb88787af715b4b8b67",
+    "crop_pixels": [
+      35,
+      293,
+      1245,
+      598
+    ],
+    "dem_poll": 51,
+    "rep_poll": 42,
+    "sample_size": 1548,
+    "population": "lv",
+    "review_method": "Codex visual inspection of original publisher browser screenshots and contact sheets, reconciled with rendered table cells; not user sign-off",
+    "notes": "Topline and candidate rows visually checked. Sample/population from publisher methodology; n not independently visually reviewed. Modern sidebar/navigation excluded."
+  },
+  {
+    "id": "2012-CT-quinnipiac-html",
+    "race": "2012-CT",
+    "html_sha256": "1bcf9c03d1c9f602cf6f447781a01bd69b86b1f7a3ea63244b0a4ed129a9fac1",
+    "image_sha256": "bdda2d9d16ecfc98aecabf7c98c030c97ab2b07967f7a7cc23ddffee359e8b92",
+    "dom_sha256": "610a9c2632134b6a3aca654b54b2d42abc57f632e2705b07c7fe375374189425",
+    "crop_pixels": [
+      35,
+      293,
+      1245,
+      598
+    ],
+    "dem_poll": 47,
+    "rep_poll": 48,
+    "sample_size": 1696,
+    "population": "lv",
+    "review_method": "Codex visual inspection of original publisher browser screenshots and contact sheets, reconciled with rendered table cells; not user sign-off",
+    "notes": "Topline and candidate rows visually checked. Sample/population from publisher methodology; n not independently visually reviewed. Modern sidebar/navigation excluded."
+  },
+  {
+    "id": "2012-NY-quinnipiac-html",
+    "race": "2012-NY",
+    "html_sha256": "7cb77cea2b132646a018355382acfa2f7adaef58e76d15aa8547e0be869e7b87",
+    "image_sha256": "4f9237a4f5e23fe88b9ecea537e50ca72af06f99efd9a4e792584ed59bcc7d83",
+    "dom_sha256": "73ac3314b2f498c8328088f6b91ded6e3cf2de4c4bbc7757b58a53fcf987f993",
+    "crop_pixels": [
+      35,
+      294,
+      1245,
+      599
+    ],
+    "dem_poll": 64,
+    "rep_poll": 27,
+    "sample_size": 1486,
+    "population": "lv",
+    "review_method": "Codex visual inspection of original publisher browser screenshots and contact sheets, reconciled with rendered table cells; not user sign-off",
+    "notes": "Topline and candidate rows visually checked. Sample/population from publisher methodology; n not independently visually reviewed. Modern sidebar/navigation excluded."
+  },
+  {
+    "id": "2010-CT-quinnipiac-html",
+    "race": "2010-CT",
+    "html_sha256": "e4b916e45305c31e46723fbd34fd626c49df91771969d901e9ce8ca0a13df1bc",
+    "image_sha256": "520c4fa8d3145f87635f1d1c4b73859dfc4de01aa1fe740c8fc6f7fe406ced0a",
+    "dom_sha256": "15e852b454094e383c09d63064d2e4ea6976884f3182f80a6904715cb9ce8797",
+    "crop_pixels": [
+      35,
+      294,
+      1245,
+      599
+    ],
+    "dem_poll": 54,
+    "rep_poll": 43,
+    "sample_size": 1119,
+    "population": "lv",
+    "review_method": "Codex visual inspection of original publisher browser screenshots and contact sheets, reconciled with rendered table cells; not user sign-off",
+    "notes": "Topline and candidate rows visually checked. Sample/population from publisher methodology; n not independently visually reviewed. Modern sidebar/navigation excluded."
+  },
+  {
+    "id": "2010-OH-quinnipiac-html",
+    "race": "2010-OH",
+    "html_sha256": "bf40d7aa00f7c2b9972247f21e4141ae3ad51071c88e5971a8a2af55653a30f9",
+    "image_sha256": "77227d8c3d633a8ab3401883c440b76a3681d3371a7ee596c1667e8978f021d2",
+    "dom_sha256": "18ba2d220fd92e94860ea7fe8330f898ae8254140712ef58f7351abcdb12e756",
+    "crop_pixels": [
+      35,
+      329,
+      1245,
+      634
+    ],
+    "dem_poll": 36,
+    "rep_poll": 55,
+    "sample_size": 1025,
+    "population": "lv",
+    "review_method": "Codex visual inspection of original publisher browser screenshots and contact sheets, reconciled with rendered table cells; not user sign-off",
+    "notes": "Topline and candidate rows visually checked. Sample/population from publisher methodology; n not independently visually reviewed. Modern sidebar/navigation excluded."
+  },
+  {
+    "id": "2010-PA-quinnipiac-html",
+    "race": "2010-PA",
+    "html_sha256": "7b7f6b63e966e391360ce8fab3a871463d347ab9b928039a0e25faae069ad0cb",
+    "image_sha256": "52476b0b9e4784b045839f8d16016e91faf12ffad3b032dd4f510f066bc85c07",
+    "dom_sha256": "ca7b18f454ec74f9c482e7f5659f3a34e0c95949658afc777b2970a0b6d63ac2",
+    "crop_pixels": [
+      35,
+      293,
+      1245,
+      598
+    ],
+    "dem_poll": 43,
+    "rep_poll": 50,
+    "sample_size": 684,
+    "population": "lv",
+    "review_method": "Codex visual inspection of original publisher browser screenshots and contact sheets, reconciled with rendered table cells; not user sign-off",
+    "notes": "Topline and candidate rows visually checked. Sample/population from publisher methodology; n not independently visually reviewed. Modern sidebar/navigation excluded."
+  },
+  {
+    "id": "2008-NJ-quinnipiac-html",
+    "race": "2008-NJ",
+    "html_sha256": "1a27dd4b52af8b649c299387e99a67a16a2458953789ba9096c6eb5fbad33b1f",
+    "image_sha256": "0e9183ce59b6f4b9d5cd1bae60e9303f65a7178776063cbcf571e5148bcfa86c",
+    "dom_sha256": "32590aa69b88bc256d708b7d2716f740a483e1651ea6106a47b10c294bb971bd",
+    "crop_pixels": [
+      35,
+      293,
+      1245,
+      598
+    ],
+    "dem_poll": 48,
+    "rep_poll": 39,
+    "sample_size": 1187,
+    "population": "lv",
+    "review_method": "Codex visual inspection of original publisher browser screenshots and contact sheets, reconciled with rendered table cells; not user sign-off",
+    "notes": "Topline and candidate rows visually checked. Sample/population from publisher methodology; n not independently visually reviewed. Modern sidebar/navigation excluded."
+  },
+  {
+    "id": "2006-OH-quinnipiac-html",
+    "race": "2006-OH",
+    "html_sha256": "8217fb1e82bced2b4981ecb34658415236c975674f4ffcc54837451cca7b7334",
+    "image_sha256": "dc25a1d6b1719dd5fc0e8d70e86cf3c37f8a8276eac25a37b53db952c202e28e",
+    "dom_sha256": "395e840885262074bd3d0a99aa73fe3202c66d6dc8e15e4c1229647c75380aa0",
+    "crop_pixels": [
+      35,
+      293,
+      1245,
+      598
+    ],
+    "dem_poll": 53,
+    "rep_poll": 41,
+    "sample_size": 901,
+    "population": "lv",
+    "review_method": "Codex visual inspection of original publisher browser screenshots and contact sheets, reconciled with rendered table cells; not user sign-off",
+    "notes": "Topline and candidate rows visually checked. Sample/population from publisher methodology; n not independently visually reviewed. Modern sidebar/navigation excluded."
+  },
+  {
+    "id": "2006-NJ-quinnipiac-html",
+    "race": "2006-NJ",
+    "html_sha256": "5b1b98c3eb88a323216fffd54e578b6def52a953932d9fb156365a578aa490a8",
+    "image_sha256": "316c78c18a22e9678bc2c62fc814ee5116403cb049dfea499c5304490c09ab5f",
+    "dom_sha256": "715f826183b67f00127c6bcc52fc9df2e880f5f689acdebb7c37c96c36f9708b",
+    "crop_pixels": [
+      35,
+      293,
+      1245,
+      598
+    ],
+    "dem_poll": 49,
+    "rep_poll": 45,
+    "sample_size": 761,
+    "population": "lv",
+    "review_method": "Codex visual inspection of original publisher browser screenshots and contact sheets, reconciled with rendered table cells; not user sign-off",
+    "notes": "Topline and candidate rows visually checked. Sample/population from publisher methodology; n not independently visually reviewed. Modern sidebar/navigation excluded."
+  },
+  {
+    "id": "2006-FL-quinnipiac-html",
+    "race": "2006-FL",
+    "html_sha256": "eb75fef5247c730e1a65d8434e0c31e83f1c675489e81846a1edeaee362415ad",
+    "image_sha256": "17dc3acf186d0fa63d1f62720a345c487e3a13154c19b5de1a9d1bf7cead0718",
+    "dom_sha256": "c0448cd0451b17df306f6f732ead8ddf5078bd7ebacea93e41b8518c4753db47",
+    "crop_pixels": [
+      35,
+      293,
+      1245,
+      598
+    ],
+    "dem_poll": 61,
+    "rep_poll": 33,
+    "sample_size": 783,
+    "population": "lv",
+    "review_method": "Codex visual inspection of original publisher browser screenshots and contact sheets, reconciled with rendered table cells; not user sign-off",
+    "notes": "Topline and candidate rows visually checked. Sample/population from publisher methodology; n not independently visually reviewed. Modern sidebar/navigation excluded."
+  },
+  {
+    "id": "2004-FL-quinnipiac-html",
+    "race": "2004-FL",
+    "html_sha256": "d7d5ebc71d806333e11f246a5669929d287a8640e9620efb0b2e7a68b84a6b71",
+    "image_sha256": "7f9adf56d0edb0bc18163a3fd07dc0b6e2e6ff39afceaf8756fe89f4edee8bbb",
+    "dom_sha256": "3ff6c7ba501aa5dd90ddae2aa60f70720f5f0cac5c920b2e162753f163775b28",
+    "crop_pixels": [
+      35,
+      329,
+      1245,
+      634
+    ],
+    "dem_poll": 43,
+    "rep_poll": 42,
+    "sample_size": 819,
+    "population": "rv",
+    "review_method": "Codex visual inspection of original publisher browser screenshots and contact sheets, reconciled with rendered table cells; not user sign-off",
+    "notes": "Topline and candidate rows visually checked. Sample/population from publisher methodology; n not independently visually reviewed. Modern sidebar/navigation excluded."
+  },
+  {
+    "id": "2002-NJ-quinnipiac-html",
+    "race": "2002-NJ",
+    "html_sha256": "4d73b11c03c2a8638c734414a5765d920acb68e81e60be69b8f896dfc96518b6",
+    "image_sha256": "7e271ec69a8e1a780d35422f7f70248e016fc41987abf91aac67534aa046fb4a",
+    "dom_sha256": "5c610ad2ec4049bedbb6d3e38e8d932142373abf1fe7616d2a5537cd0676e54d",
+    "crop_pixels": [
+      35,
+      329,
+      1245,
+      634
+    ],
+    "dem_poll": 52,
+    "rep_poll": 43,
+    "sample_size": 603,
+    "population": "lv",
+    "review_method": "Codex visual inspection of original publisher browser screenshots and contact sheets, reconciled with rendered table cells; not user sign-off",
+    "notes": "Topline and candidate rows visually checked. Sample/population from publisher methodology; n not independently visually reviewed. Modern sidebar/navigation excluded."
+  },
+  {
+    "id": "2000-NY-quinnipiac-html",
+    "race": "2000-NY",
+    "html_sha256": "bc1c18ad4638136ab7117d705212cad6288b9edc4272cfbd1fcf7a305934dcc6",
+    "image_sha256": "d45360f644cf694931ec35ef21d29f096c4cac8c4303ade735300d0159bbda42",
+    "dom_sha256": "2ccf551d84ab74f252823c5e0c7555df3a4e5ce6cb668147ebf9b5b2b762bf04",
+    "crop_pixels": [
+      35,
+      329,
+      1245,
+      634
+    ],
+    "dem_poll": 50,
+    "rep_poll": 43,
+    "sample_size": 801,
+    "population": "lv",
+    "review_method": "Codex visual inspection of original publisher browser screenshots and contact sheets, reconciled with rendered table cells; not user sign-off",
+    "notes": "Topline and candidate rows visually checked. Sample/population from publisher methodology; n not independently visually reviewed. Modern sidebar/navigation excluded."
+  },
+  {
+    "id": "2000-CT-quinnipiac-html",
+    "race": "2000-CT",
+    "html_sha256": "54afe00b4f337556baee811d59dbd921c9d7e39ce9b60910b1b567d9f315d25f",
+    "image_sha256": "8f6afbaf9e13c259f152ccb7fbfaad9ac9a0ced2597f90bcde1a4416568a8781",
+    "dom_sha256": "f490a7075f925a1579d13b8837bd2c370ed76a218080c2d9fe19334e59f17dd1",
+    "crop_pixels": [
+      35,
+      329,
+      1245,
+      634
+    ],
+    "dem_poll": 72,
+    "rep_poll": 18,
+    "sample_size": null,
+    "population": null,
+    "review_method": "Codex visual inspection of original publisher browser screenshots and contact sheets, reconciled with rendered table cells; not user sign-off",
+    "notes": "Topline and candidate rows visually checked. Sample/population from publisher methodology; n not independently visually reviewed. Modern sidebar/navigation excluded. Connecticut 2000 population/sample left unknown because both voter samples are described."
+  }
+]

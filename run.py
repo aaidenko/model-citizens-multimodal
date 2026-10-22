@@ -50,7 +50,7 @@ def main():
     comparison['excluded_races'] = [r['race_id'] for r in races if not r['outcomes']]
     blockers = [
         'Official November 1 benchmark has not been supplied.',
-        'Full polling-blend calibration and 2020/2022/2024 validation are unfinished.',
+        'The current 2026 competition polling blend still uses provisional uncertainty; the separately calibrated v0.2 research model has not been promoted.',
         'All candidate names, party codes, and ballot status need final independent roster verification.',
         'Confirm treatment of the CSV probability field and the submission deadline timezone.',
     ]
@@ -63,6 +63,12 @@ def main():
     multimodal = json.loads(multimodal_path.read_text()) if multimodal_path.exists() else None
     audit_path = ROOT/'reports/image-input-audit.json'
     image_audit = json.loads(audit_path.read_text()) if audit_path.exists() else None
+    def optional_report(name):
+        path=ROOT/'reports'/name
+        return json.loads(path.read_text()) if path.exists() else None
+    v2_numeric=optional_report('v2-numeric.json')
+    v2_documents=optional_report('v2-documents.json')
+    v2_ocr=optional_report('v2-ocr.json')
     report = dict(as_of=as_of.isoformat(), status='RESEARCH DRAFT — NOT READY TO SUBMIT',
                   new_service_spend_usd=0, submission_ready=False, blockers=blockers,
                   counts=dict(races=len(races), verified_market_races=len(races)-len(missing),
@@ -70,7 +76,9 @@ def main():
                               raw_poll_rows=sum(len(p['data'].get('polls',[])) for p in polls if 'data' in p)),
                   races=races, validation=validation, document_evidence=evidence,
                   scenario_comparison=comparison, multimodal_experiment=multimodal,
-                  multimodal_input_audit=image_audit)
+                  multimodal_input_audit=image_audit,
+                  v2_numeric_experiment=v2_numeric,v2_document_experiment=v2_documents,
+                  v2_ocr_diagnostic=v2_ocr)
     (ROOT/'reports/research.json').write_text(json.dumps(report,indent=2,allow_nan=False))
     (ROOT/'reports/validation.json').write_text(json.dumps(validation,indent=2,allow_nan=False))
     # Blank rows are intentional: an unresolved outcome set must never silently get a pick.
@@ -88,8 +96,15 @@ def main():
         'draft_csv':'drafts/predictions-RESEARCH-ONLY.csv',
         'multimodal': {'trained': multimodal is not None, 'promoted': False,
             'reason': 'Small held-out experiment underperformed matched numeric-only model; see reports/multimodal.json.',
-            'known_input_issue': 'Default square image cropping removes important columns in some wide tables. Repair is planned for a versioned experiment; see reports/image-input-audit.json.',
-            'next_experiment_plan': 'docs/IMPROVEMENT_PLAN.md'}},indent=2))
+            'known_input_issue': 'Preserved v0.1 square cropping removes columns. v0.2 repairs this with full-image padding and readable tiles; see reports/v2-image-audit.json.',
+            'next_experiment_plan': 'docs/IMPROVEMENT_PLAN.md'},
+        'v2': {'trained':v2_documents is not None,'promoted':False,
+            'reason':'Earlier-cycle validation selected zero direct image/text correction for the full multimodal branch. Preserve the numeric baseline and report the negative result.',
+            'numeric_races':v2_numeric['data']['races'] if v2_numeric else None,
+            'reviewed_document_races':len(json.loads((ROOT/'data/v2/cases.json').read_text())) if v2_documents else None,
+            'numeric_test_races':v2_numeric['test']['selected']['races'] if v2_numeric else None,
+            'document_test_races':v2_documents['test_races'] if v2_documents else None,
+            'model_card':'docs/V2_MODEL_CARD.md'}},indent=2))
     render(ROOT, report)
     print(json.dumps({'status':report['status'],'counts':report['counts'],
                       'fundamentals_validation_brier':validation['brier'],

@@ -1,0 +1,9 @@
+{
+  "url": "https://web.archive.org/web/20241129175751id_/https://projects.fivethirtyeight.com/polls-page/data/senate_polls.csv",
+  "final_url": "https://web.archive.org/web/20241129175751id_/https://projects.fivethirtyeight.com/polls-page/data/senate_polls.csv",
+  "status": 200,
+  "path": "work/v2-discovery/senate-2024.csv",
+  "bytes": 1497307,
+  "sha256": "eabff005edb5068b61bb074c42f9a1e833bcf09539f5755ce2299354c8ed1429",
+  "retrieved_at": "2026-10-21T23:11:02.221584+00:00"
+}

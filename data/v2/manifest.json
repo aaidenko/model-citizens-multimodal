@@ -1,0 +1,51 @@
+{
+  "races": 346,
+  "polls": 1802,
+  "features": [
+    "poll_margin",
+    "remaining",
+    "dispersion",
+    "staleness",
+    "log_pollsters",
+    "log_sample",
+    "sample_missing",
+    "partisan_share",
+    "online_share",
+    "state_lean",
+    "previous_national",
+    "midterm",
+    "returning_winner"
+  ],
+  "splits": {
+    "train": 249,
+    "development": 45,
+    "calibration": 24,
+    "test": 25,
+    "consumed": 3
+  },
+  "years": {
+    "1998": 24,
+    "2000": 25,
+    "2002": 21,
+    "2004": 25,
+    "2006": 23,
+    "2008": 27,
+    "2010": 28,
+    "2012": 25,
+    "2014": 29,
+    "2016": 22,
+    "2018": 24,
+    "2020": 21,
+    "2022": 24,
+    "2024": 28
+  },
+  "source_sha256": {
+    "raw_polls.csv": "9f0b185506e59117c150fb988e73b612346effe8e3a8f0d90fdafcad07f54756",
+    "senate-2024.csv": "eabff005edb5068b61bb074c42f9a1e833bcf09539f5755ce2299354c8ed1429"
+  },
+  "files": {
+    "snapshots.json": "89200f525273fa9ef6034d777e2f016618605c42b52911f2f98ece557ec98a25",
+    "polls.json": "2a24a60909d41a39bb21382996076b4995a9d3e27e0baefd89727a55f34e8bd3",
+    "labels.json": "8a6e3c47a56355f4a5313598ffa6c655d5c9a55b19ec66d644ca34fa2fa3ec84"
+  }
+}

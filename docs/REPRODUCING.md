@@ -1,8 +1,49 @@
-# Reproduce the trained experiment
+# Reproduce the trained experiments
 
 Use Python 3.13 for the recorded environment (the baseline also supports Python 3.11+). All dependencies are free. No account, payment method, API key, inference endpoint, or rented GPU is required. Commands below run from the repository root. On another operating system, use the platform's official CPU PyTorch distribution if the pinned wheel is unavailable; record the changed runtime before comparing artifacts.
 
-## Offline training from the included derived features
+## Version 0.2: offline reconstruction, training and inference
+
+Install the free environment once, then run from the repository root:
+
+```sh
+python3 -m venv .venv
+.venv/bin/python -m pip install -r requirements-training.txt
+.venv/bin/python scripts/build_v2_data.py
+.venv/bin/python train_v2.py
+.venv/bin/python train_v2.py --documents
+.venv/bin/python predict_v2.py 2024-OH-the-washington-post
+.venv/bin/python run.py --as-of 2026-10-21
+.venv/bin/python -m unittest discover -s tests -v
+```
+
+The same offline reconstruction, training, replay and test sequence is available as `.venv/bin/python scripts/verify_v2.py --retrain`. Without `--retrain` it only replays the report and runs tests.
+
+After package installation, this sequence uses no network, API key, paid service, or external encoder download. It reconstructs numeric snapshots from the included CC BY 4.0 CSV captures, trains the numeric selection/calibration, trains the four document heads from included frozen embeddings, and performs saved-weight inference. Model selection uses development years; repeated reproduction does not create a fresh holdout. Run reports record timings, which can change without changing predictions or model weights.
+
+`data/v2/cases.json` stores reviewed source identities/facts without targets; `labels.json` stores targets separately. `embeddings-manifest.json` pins source geometry, case order, encoder revision and embedding hash. `models/v2/` contains numeric coefficients, calibrated uncertainty, small neural checkpoints and train-only document preprocessing. `reports/v2-*.json` preserve complete measured results, including zero-weight decisions and unblended diagnostic scores.
+
+The saved inference command loads weights and training preprocessing only. Its unblended neural margin is diagnostic; a selected document weight of zero produces the numeric baseline prediction. Training-case inference is labelled as a fit, not an independent forecast. The v0.2 inference example is historical; it is not a current contest entry.
+
+To restore publisher originals explicitly:
+
+```sh
+.venv/bin/python scripts/restore_v2_sources.py --all
+```
+
+Exact-hash restoration can fail on mutable or unavailable URLs. Changed bytes are quarantined and do not inherit approval. PDF originals can then be rendered again. The 14 HTML cases also require the original publisher table to be rendered in a browser, its date/candidate/population checked, and its screenshot/text capture compared against the recorded hashes and crop. They are currently rendered legacy pages, not archived historical layouts. The source collection tools prepare candidates, not approvals; a new visual review is necessary for changed inputs. Do not recreate missing screenshots by drawing a new chart or rendering election outcomes.
+
+`scripts/collect_v2_documents.py` gathers the defined public publisher PDFs. `--ppp` is disabled by default; that archive was blocked in this environment and was not bypassed. `scripts/discover_v2_html.py` prepares the browser-review plan for additional dated Quinnipiac releases. `scripts/prepare_v2_review.py` and `scripts/assemble_v2_cases.py` use locally reviewed sources and hash-specific review records; they are not necessary for offline training from included features. Source preparation needs original bytes, the ignored local review plan and fresh browser captures; those third-party originals are deliberately absent from a public clone.
+
+With exact reviewed originals and the same local CLIP snapshot, optional re-embedding is:
+
+```sh
+.venv/bin/python scripts/embed_v2_documents.py --encoder-path LOCAL_SNAPSHOT_DIRECTORY
+```
+
+For optional local OCR, install `requirements-ocr.txt` in the environment and run `scripts/benchmark_v2_ocr.py --encoder-path LOCAL_SNAPSHOT_DIRECTORY`. This uses bundled local OCR models, never hosted inference. The benchmark's five cases and unsupported column-layout failure are retained. It does not feed OCR predictions into forecasting or auto-approve sources. Optional figure regeneration uses Matplotlib with `scripts/plot_v2_results.py`; the finished figure is included, so plotting is not required for model reproduction.
+
+## Preserved v0.1 training from included derived features
 
 ```sh
 python3 -m venv .venv
