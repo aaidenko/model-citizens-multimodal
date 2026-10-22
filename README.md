@@ -2,7 +2,7 @@
 
 Open **reports/index.html** for the research report. It contains the current race review, scoring calculator, source checks, document evidence, and strategy comparisons.
 
-**Paused at the user's request on October 21, 2026.** [The resume checkpoint](docs/RESUME.md) records completed work, saved research, recovered GitHub access, and the remaining implementation steps. No background training or recurring work is scheduled.
+**Work resumed on October 21, 2026.** This repository preserves the original experiment and the fixed [v0.2 evaluation protocol](docs/V2_PROTOCOL.md). The upgraded implementation and results are undergoing verification before the next push.
 
 This is an initial research system, **not a finished competition submission**. It uses publicly accessible sources and local computation. There are no paid data feeds, model API calls, registrations, or new service charges. Work performed in Codex or Claude continues to use your existing access and limits.
 

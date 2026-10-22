@@ -1,6 +1,6 @@
 # Resume checkpoint — October 21, 2026
 
-The user explicitly paused this work and requested setup for finishing later. Do not run training, downloads, publication, or scheduled work until the user resumes. No recurring job was created.
+Historical checkpoint from the user-requested pause. **The user resumed on October 21, 2026.** Work and GitHub publication have resumed; see `PUBLICATION.md` and the v0.2 reports for current status. The notes below preserve the state at the pause. No recurring job was created.
 
 ## Objective and authorization
 
